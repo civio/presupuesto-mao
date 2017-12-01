@@ -19,33 +19,33 @@ msgstr ""
 
 #: templates/base.html:4 templates/shared/social_sharing.html:5
 msgid "Presupuestos del Gobierno de Aragón"
-msgstr "Maó City Council Budget"
+msgstr "Mahón City Council Budget"
 
 #
 msgid "Información presupuestaria del Gobierno de Aragón"
-msgstr "City of Maó budget information"
+msgstr "City of Mahón budget information"
 
 #: templates/budgets/budgets_intro.html:16
 msgid "El dinero recaudado localmente se complementa con las transferencias de la Administración General del Estado y del Gobierno de Aragón, que son los encargados de recaudar otros ingresos como el IVA y el IRPF"
-msgstr "The municipal budget receives other revenue, mainly from Spain’s central government and the Maó regional government, which are responsible for collecting other revenue, e.g. from VAT and income tax"
+msgstr "The municipal budget receives other revenue, mainly from Spain’s central government and the Balearic Islands regional government, which are responsible for collecting other revenue, e.g. from VAT and income tax"
 
 #: templates/budgets/index.html:17
 msgid "Ingresos y gastos en el Gobierno de Aragón"
-msgstr "Revenue and Expenditure at City of Maó"
+msgstr "Revenue and Expenditure at City of Mahón"
 
 #: templates/budgets/index.html:127 templates/shared/data_sources.html:7
 #: templates/shared/footer.html:18 templates/shared/header.html:28
 #: templates/shared/header.html.py:61 templates/welcome/index.html:54
 msgid "Gobierno de Aragón"
-msgstr "City of Maó"
+msgstr "City of Mahón"
 
 #: templates/shared/data_sources.html:9
 msgid "Datos de inflación (Medias anuales de IPC para Aragón)"
-msgstr "Inflation data (annual average CPI for Maó State)"
+msgstr "Inflation data (annual average CPI for Balearic Islands)"
 
 #: templates/shared/data_sources.html:14
 msgid "Los ingresos y gastos mostrados incluyen únicamente al Gobierno de Aragón"
-msgstr "Income and expenditure shown only refer to Maó City Council"
+msgstr "Income and expenditure shown only refer to Mahón City Council"
 
 #: templates/welcome/index.html:12
 msgid "¿Cómo y en qué gasta el Gobierno de Aragón?"
@@ -53,4 +53,4 @@ msgstr "Where does the revenue come from? Where does the expenditure go?"
 
 #: templates/welcome/index.html:42
 msgid "Para que tengas una idea general de los ingresos y gastos del Gobierno de Aragón"
-msgstr "So you can get a general idea of City of Maós's revenue and expenditure"
+msgstr "So you can get a general idea of City of Mahón's revenue and expenditure"

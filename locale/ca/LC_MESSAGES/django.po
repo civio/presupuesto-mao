@@ -27,7 +27,7 @@ msgstr "Informació pressupostària de l'Ajuntament de Maó"
 
 #: templates/budgets/budgets_intro.html:16
 msgid "El dinero recaudado localmente se complementa con las transferencias de la Administración General del Estado y del Gobierno de Aragón, que son los encargados de recaudar otros ingresos como el IVA y el IRPF"
-msgstr "El pressupost municipal inclou altres ingressos provinents, principalment, de l'Administració General de l'Estat i de la Generalitat de Catalunya, que són els encarregats de recaptar altres ingressos com l'IVA i o l'IRPF"
+msgstr "El pressupost municipal inclou altres ingressos provinents, principalment, de l'Administració General de l'Estat i del Govern de les Illes Balears, que són els encarregats de recaptar altres ingressos com l'IVA i o l'IRPF"
 
 #: templates/budgets/index.html:17
 msgid "Ingresos y gastos en el Gobierno de Aragón"
@@ -41,7 +41,7 @@ msgstr "Ajuntament de Maó"
 
 #: templates/shared/data_sources.html:9
 msgid "Datos de inflación (Medias anuales de IPC para Aragón)"
-msgstr "Dades d'inflació (mitjanes anuals d'IPC per a la Comunitat de Maó)"
+msgstr "Dades d'inflació (mitjanes anuals d'IPC per a les Illes Balears)"
 
 #: templates/shared/data_sources.html:14
 msgid "Los ingresos y gastos mostrados incluyen únicamente al Gobierno de Aragón"
