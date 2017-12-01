@@ -1,1 +1,28 @@
 @import "theme-variables";
+
+.main-entity-logo{
+  margin-top: 20px;
+}
+
+@media (min-width: $grid-float-breakpoint) {
+  .navbar-brand {
+    top: 62%;
+  }
+}
+
+.home-content .options .option>div .icon{
+  color: $brand-terciary;
+}
+
+.panel-downloads a,
+.panel-downloads a:hover{
+  color: $brand-primary;
+}
+.panel-downloads a:hover{
+  text-decoration: underline;
+}
+
+.form-search-glossary .btn-primary{
+  background: $brand-primary;
+  border-color: $brand-primary;
+}
