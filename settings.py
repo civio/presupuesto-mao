@@ -85,9 +85,6 @@ PAYMENTS_LOADER = 'MaoPaymentsLoader'
 LANGUAGES = (
   ('ca', 'Catal&agrave;'),
   ('es', 'Castellano'),
-  ('en', 'English'),
-  # ('eu', 'Euskera'),
-  # ('gl', 'Galego'),
 )
 
 # Facebook Aplication ID used in social_sharing temaplate. Default: ''
