@@ -523,11 +523,13 @@ G,9,4,1,Devolució de fiances
 #
 # Conceptos específicos de Maó
 #
+I,4,5,5,Del Govern de les Illes Balears
 I,4,7,0,D'empreses privades
 I,4,7,1,Anuncis de contractació
 I,5,2,0,Interessos de dipòsits
 I,7,7,0,D'empreses privades
 G,1,6,3,Plus de transport
+G,4,6,9,A altres entitats locals
 G,4,8,0,A famílies i institucions sense ànim de lucre
 G,4,8,9,Altres transferències
 G,7,8,0,A famílies i institucions sense ànim de lucre
