@@ -143,33 +143,25 @@ OVERVIEW_USE_NEW_VIS = True
 OVERVIEW_INCOME_NODES = [
                           {
                             'nodes': [['11', '113']],
-                            'label': 'Impuesto a bienes inmuebles de naturaleza urbana',
+                            'label.ca': 'Impost sobre els béns immobles de naturalesa urbana',
+                            'label.es': 'Impuesto sobre los bienes inmuebles de naturaleza urbana',
                             'link_id': '11'
                           },
                           {
-                            'nodes': [['30', '300']],
-                            'label': 'Servicio de abastecimiento de agua',
-                            'link_id': '30'
-                          },
-                          '42', '45',
-                          {
-                            'nodes': [['29', '293']],
-                            'label': 'Impuesto general indirecto canario (IGIC)',
-                            'link_id': '29'
+                            'nodes': [['46', '461']],
+                            'label.ca': 'Del Consell Insular de Menorca (cap. 4)',
+                            'label.es': 'Del Consejo Insular de Menorca (cap. 4)',
+                            'link_id': '46'
                           },
                           {
-                            'nodes': [['11', '115']],
-                            'label': 'Impuesto sobre vehículos de tracción mecánica',
-                            'link_id': '11'
+                            'nodes': [['45', '450']],
+                            'label.ca': 'Del Govern de les Illes Balears (cap. 4)',
+                            'label.es': 'Del Gobierno de las Islas Baleares (cap. 4)',
+                            'link_id': '46'
                           },
-                          {
-                            'nodes': [['30', '302']],
-                            'label': 'Servicio de recogida de basuras',
-                            'link_id': '30'
-                          },
-                        ]
+                          '42', '31', '33', '13']
 
-OVERVIEW_EXPENSE_NODES = ['16', '13', '92', '15', '33', '23', '34', '17', '32']
+OVERVIEW_EXPENSE_NODES = ['16', '23', '17', '13', '92', '15', '32', '33', '34']
 
 # How much padding between Sankey nodes. Default: 2 (Optional)
 # OVERVIEW_NODE_PADDING = 2
