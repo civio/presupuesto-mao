@@ -1,74 +1,75 @@
 # -*- coding: UTF-8 -*-
 from budget_app.models import *
 from budget_app.loaders import SimpleBudgetLoader
-from decimal import *
-import csv
-import os
-import re
+
 
 class MaoBudgetLoader(SimpleBudgetLoader):
 
     def parse_item(self, filename, line):
-        # Programme codes have changed in 2015, due to new laws. Since the application expects a code-programme
-        # mapping to be constant over time, we are forced to amend budget data prior to 2015.
-        # See https://github.com/dcabo/presupuestos-aragon/wiki/La-clasificaci%C3%B3n-funcional-en-las-Entidades-Locales
-        programme_mapping = {
-            # old programme: new programme
-            '1340': '1350',     # Protección Civil
-            '1350': '1360',     # Extinción de incendios
-            '1550': '1532',     # Vías públicas
-            '1620': '1621',     # Recogida de residuos
-            '3130': '3110',     # Protección de la salud
-            '3210': '3219',     # Educación preescolar y primaria
-            '3220': '3229',     # Enseñanza secundaria
-            '3230': '3239',     # Promoción educativa
-            '3240': '3260',     # Servicios complementarios de educación
-            '3340': '3341',     # Promoción cultural
-            '4410': '4411',     # Promoción, mantenimiento y desarrollo del transporte
-            '4940': '4911',     # URBAN- Arona 2007-2013
-        }
-        programme_mapping_2015 = {
-            '3340': '3341',     # Promoción cultural
-        }
+        # Type of data
+        is_expense = (filename.find('gastos.csv') != -1)
+        is_actual = (filename.find('/ejecucion_') != -1)
 
-        # Some dirty lines in input data
-        if line[0]=='':
-            return None
-
-        is_expense = (filename.find('gastos.csv')!=-1)
-        is_actual = (filename.find('/ejecucion_')!=-1)
+        # Expenses
         if is_expense:
-            # The input data combines functional and economic codes in a very unusual way
-            match = re.search('^ *(\d+) +(\d+) *', line[0])
-            # We got 3- or 4- digit functional codes as input, so add a trailing zero
-            fc_code = match.group(1).ljust(4, '0')
-            ec_code = match.group(2)
+            # Institutional code
+            # We only need the digits for the service (the first two)
+            ic_code = line[2].strip()[:2].ljust(3, 'X')
 
-            # For years before 2015 we check whether we need to amend the programme code
-            year = re.search('municipio/(\d+)/', filename).group(1)
-            if int(year) < 2015:
-                fc_code = programme_mapping.get(fc_code, fc_code)
-            elif int(year) == 2015:
-                fc_code = programme_mapping_2015.get(fc_code, fc_code)
+            # Functional code
+            # We got decimal values as input, so we normalize them at 4- and add leading zeroes when required
+            fc_code = line[3].split('.')[0].rjust(4, '0')
 
-            return {
-                'is_expense': True,
-                'is_actual': is_actual,
-                'fc_code': fc_code,
-                'ec_code': ec_code[:-2],        # First three digits (everything but last two)
-                'ic_code': '000',
-                'item_number': ec_code[-2:],    # Last two digits
-                'description': line[1],
-                'amount': self._parse_amount(line[5 if is_actual else 2])
-            }
+            # Economic code
+            # We got decimal values as input, so we normalize them at 7- and add leading zeroes when required
+            full_ec_code = line[4].split('.')[0].rjust(7, '0')
 
+            # Concepts are the firts three digits from the economic codes
+            ec_code = full_ec_code[:3]
+
+            # Item numbers are the last four digits from the economic codes (digits four to seven)
+            item_number = full_ec_code[-4:]
+
+            # Description
+            description = line[5].strip().upper()
+
+            # Parse amount
+            amount = line[11 if is_actual else 6].strip()
+            amount = self._parse_amount(amount)
+
+        # Income
         else:
-            return {
-                'is_expense': False,
-                'is_actual': is_actual,
-                'ec_code': line[0][:-2],        # First three digits
-                'ic_code': '000',               # All income goes to the root node
-                'item_number': line[0][-2:],    # Fourth and fifth digit; careful, there's trailing dirt
-                'description': line[1],
-                'amount': self._parse_amount(line[5 if is_actual else 2])
-            }
+            # Institutional code (all income goes to the root node)
+            ic_code = '000'
+
+            # Functional code
+            # We don't have a functional code in income
+            fc_code = None
+
+            # Economic code
+            # We got decimal values as input, so we normalize them at 5- and add leading zeroes when required
+            full_ec_code = line[2].split('.')[0].rjust(5, '0')
+
+            # Concepts are the firts three digits from the economic codes
+            ec_code = full_ec_code[:3]
+
+            # Item numbers are the last two digits from the economic codes (digits four and five)
+            item_number = full_ec_code[-2:]
+
+            # Description
+            description = line[3].strip()
+
+            # Parse amount
+            amount = line[9 if is_actual else 4].strip()
+            amount = self._parse_amount(amount)
+
+        return {
+            'is_expense': is_expense,
+            'is_actual': is_actual,
+            'fc_code': fc_code,
+            'ec_code': ec_code,
+            'ic_code': ic_code,
+            'item_number': item_number,
+            'description': description,
+            'amount': amount
+        }

@@ -1,535 +1,501 @@
-#Aplicación Presupuestaria,,Denominación,Créditos Iniciales,Modificaciones de Crédito,Créditos Definitivos,Obligaciones Reconocidas
-912 10000,Retribuciones básicas ,720000.0,,720000.0,350278.38
-150 10100,Retribuciones báicas,14825.0,,14825.0,
-150 10101,Otras remuneraciones,34780.0,,34780.0,
-912 11000,Retribuciones básicas,260050.0,,260050.0,62754.77
-912 11002,Otras remuneraciones.,3500.0,,3500.0,
-132 12000,Sueldos del Grupo A1,11200.0,,11200.0,
-135 12000,Sueldos del Grupo A1,7406.0,,7406.0,
-150 12000,Sueldos del Grupo A1,145000.0,,145000.0,83858.18
-170 12000,Sueldos del Grupo A1,60000.0,,60000.0,15420.11
-920 12000,Sueldos del Grupo A1,156000.0,,156000.0,86718.42
-931 12000,Sueldos del Grupo A1,97000.0,,97000.0,65070.36
-132 12001,Sueldos del Grupo A2,69000.0,,69000.0,40130.27
-150 12001,Sueldos del Grupo A2,56200.0,,56200.0,26551.67
-320 12001,Sueldos del Grupo A2,3300.0,,3300.0,
-920 12001,Sueldos del Grupo A2,14700.0,,14700.0,10731.66
-132 12003,Sueldos del Grupo C1,1275000.0,,1275000.0,752590.77
-150 12003,Sueldos del Grupo C1,60000.0,,60000.0,16024.52
-3322 12003,Sueldos del Grupo C1,10000.0,,10000.0,7409.03
-920 12003,Sueldos del Grupo C1,32500.0,,32500.0,16404.42
-925 12003,Sueldos del Grupo C1,30000.0,,30000.0,7391.81
-931 12003,Sueldos del Grupo C1,89000.0,,89000.0,29890.53
-132 12004,Sueldos del Grupo C2,8500.0,,8500.0,2214.03
-150 12004,Sueldos del Grupo C2,62000.0,,62000.0,46944.31
-920 12004,Sueldos del Grupo C2,75500.0,,75500.0,48157.97
-922 12004,Sueldos del Grupo C2,9000.0,,9000.0,6773.17
-925 12004,Sueldos del Grupo C1,60000.0,,60000.0,26426.69
-931 12004,Sueldos del Grupo C2,32000.0,,32000.0,37491.86
-150 12005,Sueldos del Grupo E,23500.0,,23500.0,16939.07
-920 12005,Sueldos del Grupo E,27500.0,,27500.0,17955.91
-132 12006,Trienios,175000.0,,175000.0,77829.6
-150 12006,Trienios,64000.0,,64000.0,23922.29
-170 12006,Trienios,4000.0,,4000.0,1163.36
-3322 12006,Trienios,3000.0,,3000.0,1275.96
-920 12006,Trienios,55000.0,,55000.0,21170.92
-922 12006,Trienios,2100.0,,2100.0,1013.55
-925 12006,Trienios,11000.0,,11000.0,4824.59
-931 12006,Trienios,45900.0,,45900.0,19986.68
-929 12009,Otras Retribuciones básicas.,116500.0,,116500.0,
-132 12100,Complemento de destino,707000.0,,707000.0,249912.35
-135 12100,Complemento de destino,3900.0,,3900.0,
-150 12100,Complemento de destino,202000.0,,202000.0,68275.49
-170 12100,Complemento de destino,35200.0,,35200.0,4936.33
-320 12100,Complemento de destino,1850.0,,1850.0,
-3322 12100,Complemento de destino,6700.0,,6700.0,2868.54
-920 12100,Complemento de destino,175000.0,,175000.0,66659.08
-922 12100,Complemento de destino,6000.0,,6000.0,2791.18
-925 12100,Complemento de destino,59200.0,,59200.0,13504.66
-931 12100,Complemento de destino,155000.0,,155000.0,53842.29
-132 12101,Complemento especifico,1370000.0,,1370000.0,460987.89
-135 12101,Complemento especifico,6700.0,,6700.0,
-150 12101,Complemento especifico,440000.0,,440000.0,137649.13
-170 12101,Complemento especifico,72200.0,,72200.0,11412.31
-320 12101,Complemento especifico,3000.0,,3000.0,
-3322 12101,Complemento específico,10800.0,,10800.0,4615.02
-920 12101,Complemento especifico,385000.0,,385000.0,128445.97
-922 12101,Complemento específico,7800.0,,7800.0,3881.64
-925 12101,Complemento específico,90000.0,,90000.0,24606.67
-929 12101,Complemento Especifico.,86800.0,,86800.0,
-931 12101,Complemento especifico,280000.0,,280000.0,101333.11
-132 12102,Complemento de Residencia,190000.0,,190000.0,72567.98
-135 12102,Complemento de Residencia,1030.0,,1030.0,
-150 12102,Complemento de Residencia,47700.0,,47700.0,15688.34
-170 12102,Complemento de Residencia,8320.0,,8320.0,1212.89
-320 12102,Complemento de Residencia,425.0,,425.0,
-3322 12102,Complemento residencia,1400.0,,1400.0,700.62
-920 12102,Complemento de Residencia,41900.0,,41900.0,15811.06
-922 12102,Complemento de Residencia,1200.0,,1200.0,673.68
-925 12102,Complemento de Residencia,12300.0,,12300.0,3048.23
-931 12102,Complemento de Residencia,30100.0,,30100.0,11593.6
-132 13000,Retribuciones personal laboral fijo,57000.0,,57000.0,27940.83
-150 13000,Retribuciones personal laboral fijo,365400.0,,365400.0,160242.31
-164 13000,Retribuciones personal laboral fijo,35600.0,,35600.0,18942.26
-170 13000,Retribuciones personal laboral fijo,73200.0,,73200.0,33893.12
-231 13000,Retribuciones personal laboral fijo,170000.0,,170000.0,90733.77
-241 13000,Retribuciones personal laboral fijo,74500.0,,74500.0,41156.1
-311 13000,Retribuciones personal laboral fijo,36000.0,,36000.0,18925.48
-320 13000,Retribuciones personal laboral fijo,206000.0,,206000.0,67275.23
-3271 13000,Retribuciones básicas,108000.0,,108000.0,35403.57
-3322 13000,Retribuciones básicas,20000.0,,20000.0,10879.26
-920 13000,Retribuciones personal laboral fijo,311500.0,,311500.0,139527.71
-922 13000,Retribuciones personal laboral fijo,62700.0,,62700.0,35318.43
-925 13000,Retribuciones básicas,288000.0,,288000.0,147039.58
-931 13000,Retribuciones básicas.,424000.0,,424000.0,192332.14
-933 13000,Retribuciones personal laboral fijo,17000.0,,17000.0,10424.17
-929 13002,Otras Remuneraciones,125145.0,,125145.0,
-132 13100,Retribuciones personal temporal,70000.0,,70000.0,10813.21
-150 13100,Retribuciones personal temporal,281000.0,,281000.0,184695.5
-164 13100,Retribuciones personal temporal,15200.0,,15200.0,6058.14
-170 13100,Retribuciones personal temporal,33900.0,,33900.0,17691.29
-241 13100,Retribuciones personal temporal,120175.0,,120175.0,54835.04
-320 13100,Retribuciones personal temporal,71200.0,,71200.0,53693.03
-3271 13100,Personal laboral temporal,82000.0,,82000.0,42436.38
-3322 13100,Personal Laboral temporal,,,,1755.49
-920 13100,Retribuciones personal temporal,359000.0,,359000.0,168382.51
-924 13100,Retribuciones personal temporal,39000.0,,39000.0,20321.99
-925 13100,Retribuciones personal temporal,123000.0,,123000.0,82999.55
-931 13100,Retribuciones personal temporal,239000.0,,239000.0,139903.49
-150 14301,Retribuciones personal afecto a programas,175300.0,,175300.0,49561.76
-164 14301,Retribuciones personal afecto a programas,16900.0,,16900.0,8827.95
-170 14301,Retribuciones personal afecto a programas,19100.0,,19100.0,10120.45
-320 14301,Retribuciones personal afecto a programas,16700.0,,16700.0,8733.82
-3271 14301,Retribuciones personal afecto a programas,39000.0,,39000.0,19737.35
-4911 14301,Retribuciones personal afecto a programas,116000.0,,116000.0,49940.29
-920 14301,Retribuciones personal afecto a programas,150000.0,,150000.0,61672.66
-241 14302,Retribuciones convenios AEDL,80000.0,,80000.0,
-241 14303,Retribuciones personal convenios,500000.0,,500000.0,5261.75
-241 14341,Subvención para implementar Plan Especial Empleo S,,,21778.08,
-241 14342,Mejora de las Zonas Rurales de Medianias de Arona ,,,34288.87,
-241 14343,Programa de Promoción del Empleo Arona 2015,,201574.96,201574.96,201555.66
-241 14344,Dinamizando Arona 2015,,157460.48,157460.48,110188.69
-241 14345,Socorrismo Acuático 2015,,157460.48,157460.48,116307.52
-132 15000,Productividad,30000.0,,30000.0,
-150 15000,Productividad,5000.0,,5000.0,
-170 15000,Productividad,1000.0,,1000.0,
-320 15000,Productividad,1000.0,,1000.0,
-3322 15000,Productividad,1000.0,,1000.0,
-920 15000,Productividad,13120.0,,13120.0,
-922 15000,Productividad,1000.0,,1000.0,
-925 15000,Productividad,33500.0,,33500.0,
-931 15000,Productividad,6000.0,,6000.0,2785.32
-132 15100,Gratificaciones,150000.0,,150000.0,108154.49
-150 15100,Gratificaciones,1000.0,,1000.0,5510.94
-170 15100,Gratificaciones,1000.0,,1000.0,
-320 15100,Gratificaciones,1000.0,,1000.0,
-3322 15100,Gratificaciones,1000.0,,1000.0,
-920 15100,Gratificaciones,10000.0,,10000.0,8571.4
-922 15100,Gratificaciones,1000.0,,1000.0,
-925 15100,Gratificaciones,1000.0,,1000.0,
-931 15100,Gratificaciones,1000.0,,1000.0,
-132 16000,Seguridad Social,1200000.0,-19000.0,1181000.0,561308.66
-135 16000,Seguridad Social,6000.0,,6000.0,
-150 16000,Seguridad Social,525000.0,,525000.0,253584.91
-164 16000,Seguridad Social,20000.0,,20000.0,14702.15
-170 16000,Seguridad Social,80000.0,,80000.0,30186.6
-231 16000,Seguridad Social,52500.0,,52500.0,29357.87
-241 16000,Seguridad Social,260000.0,127007.44,430457.52,94865.12
-311 16000,Seguridad Social,12000.0,,12000.0,6374.78
-320 16000,Seguridad Social,95000.0,,95000.0,52173.9
-3271 16000,Seguridad Social,60000.0,,60000.0,48329.1
-3322 16000,Seguridad Social,15000.0,,15000.0,9452.14
-4911 16000,Seguridad Social,40000.0,,40000.0,21201.6
-912 16000,Seguridad Social,276351.0,,276351.0,84733.03
-920 16000,Seguridad Social,520000.0,,520000.0,230167.15
-922 16000,Seguridad Social,28000.0,,28000.0,14599.61
-924 16000,Seguridad Social,12200.0,,12200.0,9806.53
-925 16000,Seguridad Social,220000.0,,220000.0,109197.88
-931 16000,Seguridad Social,420000.0,,420000.0,194374.18
-933 16000,Seguridad Social,5400.0,,5400.0,3588.75
-221 16006,Asistencia Farma-Protésica según Convenio,100000.0,,100000.0,54615.61
-221 16008,Asistencia Médico-Farmacéutica,300000.0,,300000.0,81952.47
-132 16200,Formación y Perfeccionamiento del Personal,1000.0,,1000.0,2250.56
-150 16200,Formación y Perfeccionamiento del Personal,1000.0,,1000.0,325.0
-170 16200,Formación y Perfeccionamiento del Personal,1000.0,,1000.0,
-231 16200,Formación y Perfeccionamiento del Personal,1000.0,,1000.0,
-241 16200,Formación y Perfeccionamiento del Personal,1000.0,,1000.0,
-311 16200,Formación y Perfeccionamiento del Personal,600.0,,600.0,
-320 16200,Formación y Perfeccionamiento del Personal,600.0,,600.0,
-3271 16200,Formación y perfeccionamiento del personal,600.0,,600.0,513.91
-4911 16200,Formación y perfeccionamiento del personal,1000.0,,1000.0,
-912 16200,Formación y Perfeccionamiento del Personal,1000.0,,1000.0,
-920 16200,Formación y perfeccionamiento del Personal,5000.0,,5000.0,1467.97
-922 16200,Formación y Perfeccionamiento del Personal,1000.0,,1000.0,
-925 16200,Formación y Perfeccionamiento del Personal,1000.0,,1000.0,
-931 16200,Formación y Perfeccionamiento del Personal,1000.0,,1000.0,607.09
-933 16200,Formación y Perfeccionamiento del Personal,600.0,,600.0,
-221 16204,Acción Social,100000.0,,100000.0,950.19
-221 16205,Seguros,90000.0,,90000.0,
-221 16206,Bolsa Convenio Personal Municipal,260000.0,,260000.0,241740.33
-133 20000,Arrendamientos de Terrenos y Bienes Naturales,21500.0,,21500.0,
-171 20000,Arrendamientos de Terrenos y Bienes Naturales,23000.0,,23000.0,8690.34
-132 20200,Arrendamientos de Edificios y Otras Construcciones,23000.0,,23000.0,5525.79
-150 20200,Arrendamientos de Edificios y otras construcciones,13500.0,,13500.0,3381.74
-241 20200,Arrendamientos de Edificios y otras Construcciones,20000.0,,20000.0,4647.82
-311 20200,Arrendamientos de Edificios y otras contrucciones,21000.0,,21000.0,5176.6
-3271 20200,Arrendamientos de edificios y otras construcciones,6000.0,,6000.0,
-3322 20200,Arrendamientos de Edificios y otras contrucciones,10000.0,,10000.0,2449.13
-920 20200,Arrendamientos de Edificios y otras Construcciones,25000.0,,25000.0,7589.1
-931 20200,Arrendamientos de Edificios y otras Construcciones,10000.0,,10000.0,2411.58
-132 20400,Arrendamientos de Material de Transporte,208000.0,,208000.0,57463.9
-920 20400,Arrendamientos de Material de Transporte,205000.0,,205000.0,
-929 20800,Arrendamientos de Otro Inmovilizado Material,5000.0,,5000.0,
-1721 20900,Cánones,175000.0,,175000.0,374.66
-1722 20900,Cánones,175000.0,,175000.0,
-133 21000,"Reparaciones, man. y conserv. infraestructuras y b",50000.0,,50000.0,4948.06
-1532 21000,"Reparaciones, man. y conserv. infraestructuras y b",1000.0,,1000.0,
-155 21000,"Reparaciones, mant. y conserv. instraestruc. y B.N",1000.0,,1000.0,
-171 21000,"Reparaciones, man. y conserv. infraestructuras y b",30000.0,,30000.0,
-1721 21000,"Reparaciones, man. y conserv. infraestructuras y b",1000.0,19000.0,20000.0,
-1722 21000,"Reparaciones, man. y conserv. infraestructuras y b",1000.0,,1000.0,
-920 21000,"Reparaciones, man. y conserv. infraestructuras y b",1000.0,,1000.0,
-4911 21004,Acondicionamiento Zonas Verdes en el ámbito URBAN,30500.0,,30500.0,
-1532 21005,Plan de Asfaltados 2016,888000.0,1000000.0,1888000.0,
-171 21006,Colocación Riego Paseo Francisco Andrae,46300.0,,46300.0,
-1722 21007,Embellecimiento Islas de Contenerización Playas,57600.0,,57600.0,
-164 21200,Edificios y otras Construcciones,,,,3226.05
-920 21200,"Reparaciones, man. y conserv. Edificios y otras co",35000.0,,35000.0,4930.09
-1522 21201,Reparación Impermeabilización Cubierta Ed. Admvo.,64200.0,,64200.0,
-1722 21202,Aseos y Duchas Playas Municipales,50000.0,,50000.0,
-920 21300,"Reparaciones, Mante. y conserv. Maquinaria e Inst.",,,,
-929 21300,"Reparaciones, Mante. y conserv. Maquinaria e Inst.",10000.0,,10000.0,171.9
-323 21302,Mantenimiento de Ascensores,5000.0,,5000.0,
-136 21303,Mantenimiento de Extintores,18000.0,,18000.0,
-920 21304,Mantenimiento Aire Acondicionado,18000.0,,18000.0,13265.83
-132 21305,Mantenimiento Cámaras de Seguridad,18000.0,,18000.0,
-164 21306,Mantenimiento Horno Pirolitico Cementerio Mpal.,1300.0,,1300.0,
-132 21400,Repar. conserv. y man. elementos de transporte,30000.0,,30000.0,12180.76
-150 21400,"Reparación, man. y conserv. elementos de transport",7000.0,,7000.0,1296.9
-170 21400,Elementos de Transporte,,,,606.9
-1722 21400,"Reparaciones, mante. y conservación elementos de t",2000.0,,2000.0,
-912 21400,"Reparación, man. y conserv. elementos de transport",5000.0,,5000.0,1205.02
-920 21400,Repar. mant. y conserv. elementos de transporte,7000.0,,7000.0,1437.39
-929 21400,Repar. mant. y cons. elementos de transporte,1000.0,,1000.0,
-130 21500,Repar. mant. y cons. Mobiliario,1000.0,,1000.0,380.28
-150 21500,Repar. mant. y cons. Mobiliario,6000.0,,6000.0,910.0
-164 21500,"Reparación, mant. y conservación mobiliario",,,,6460.0
-920 21500,Repar. mant. y cons. Mobiliario,2000.0,,2000.0,203.5
-929 21500,Repar. mant. y cons. Mobiliario,2000.0,,2000.0,
-931 21500,Repar. mant. y cons. Mobiliario,1000.0,,1000.0,
-4911 21501,Equimpamiento Mobiliario Edificios URBAN,100000.0,-869.0,99131.0,
-920 21502,Equipamiento Mobiliario Centros Cívicios Medianías,18220.0,,18220.0,
-920 21600,Repar. mant. y cons. Equipos para procesos informa,30000.0,,30000.0,3139.81
-4911 21901,Señalética Parque Garañaña URBAN,30000.0,,30000.0,
-1722 21903,Suministro e Instalación Tarimas Playas Mpales.,115000.0,,115000.0,
-130 22000,Ordinario no inventariable,10000.0,,10000.0,2369.82
-150 22000,Ordinario no inventariable,6000.0,,6000.0,175.87
-170 22000,Ordinario no inventariable,1000.0,,1000.0,
-241 22000,Ordinario no inventariable,1000.0,,1000.0,
-912 22000,Ordinario no inventariable,1000.0,,1000.0,620.94
-920 22000,Ordinario no inventariable,20000.0,,20000.0,11622.4
-924 22000,Ordinario no inventariable,1000.0,,1000.0,
-929 22000,Ordinario no inventariable,2000.0,,2000.0,
-931 22000,Ordinario no inventariable,1000.0,,1000.0,385.68
-130 22001,"Prensa, revistas, libros y otras publicaciones",1000.0,,1000.0,
-150 22001,"Prensa, revistas, libros y otros",1000.0,,1000.0,
-170 22001,"Prensa, revistas, libros y otras publicaciones",1000.0,,1000.0,
-320 22001,"Prensa, revistas, libros y otras publicaciones",1000.0,,1000.0,
-912 22001,"Prensa, revistas, libros y otros",1000.0,,1000.0,408.6
-920 22001,"Prensa, revistas, libros y otras publicaciones",10000.0,,10000.0,4110.97
-931 22001,"Prensa, revistas, libros y otros",3000.0,,3000.0,984.31
-130 22002,Material informático no inventariable,1000.0,,1000.0,
-4911 22002,"Material Informático no inventariable, Urban 07-15",5000.0,,5000.0,
-920 22002,Material informático no inventariable,250000.0,,250000.0,146249.24
-150 22100,Energía eléctrica,250000.0,,250000.0,127923.24
-311 22100,Energía Eléctrica,53000.0,,53000.0,
-312 22100,Energía eléctrica,53000.0,,53000.0,
-320 22100,Energía eléctrica,100000.0,,100000.0,50908.1
-330 22100,Energía eléctrica,10000.0,,10000.0,
-340 22100,Energía eléctrica,231000.0,,231000.0,151033.44
-920 22100,Energía eléctrica,900000.0,,900000.0,578022.76
-130 22103,Combustibles y carburantes.,60000.0,,60000.0,14853.19
-150 22103,Combustibles y carburantes,10000.0,,10000.0,2448.53
-170 22103,Combustibles y carburantes.,3000.0,,3000.0,580.01
-912 22103,Combustibles y carburantes,3000.0,,3000.0,1480.23
-920 22103,Combustibles y carburantes,10000.0,,10000.0,1081.02
-929 22103,Combustibles y carburantes,1000.0,,1000.0,
-931 22103,Combustibles y carburantes,,,,159.99
-130 22104,Vestuario,120000.0,,120000.0,3769.98
-164 22104,Vestuario,1000.0,,1000.0,869.1
-326 22104,Vestuario,,,,1145.28
-920 22104,Vestuario,12000.0,,12000.0,2192.71
-912 22105,Productos alimenticios,4000.0,,4000.0,424.85
-920 22105,Productos alimenticios,18000.0,,18000.0,5685.96
-164 22110,Productos de limpieza y aseo,1000.0,,1000.0,1540.75
-920 22110,Productos de limpieza y aseo,1000.0,,1000.0,
-130 22111,"Suministros de repuestos de maquinaria, utillaje",10000.0,,10000.0,813.35
-920 22112,"Suministros de material electrónico, eléctrico y t",2000.0,,2000.0,
-161 22114,Aguas depuradas para riego,200000.0,,200000.0,
-311 22115,"Desinfectantes, raticidas",60000.0,,60000.0,19260.0
-1533 22118,Mobiliario Urbano No Inventariable,15000.0,,15000.0,
-414 22121,Suministro Mercadillo Municipal del Agricultor,20000.0,,20000.0,
-338 22123,Suministro mobiliario actos municipales,50000.0,,50000.0,16959.5
-920 22201,Postales,300000.0,,300000.0,125984.81
-920 22203,Informáticas,45000.0,,45000.0,20675.7
-130 22204,Teléfonos,10500.0,,10500.0,2418.39
-330 22204,Teléfonos,5000.0,,5000.0,1782.57
-912 22204,Telefónicas,10000.0,,10000.0,8176.17
-920 22204,Telefónicas,52000.0,,52000.0,18603.29
-3272 22302,Servicio de Transporte de Viajeros por Carretera ,41200.0,,41200.0,
-130 22401,Primas de seguros vehiculos mples.,16000.0,,16000.0,13158.0
-150 22401,Primas de seguros,7000.0,,7000.0,5261.31
-170 22401,Primas de seguros vehículos municipales.,1500.0,,1500.0,1120.0
-912 22401,Primas de seguros,2500.0,,2500.0,2670.01
-920 22401,Primas de seguros vehículos municipales.,3000.0,,3000.0,2240.0
-931 22401,Primas de seguros vehículos municipales,,,,333.0
-929 22402,Primas de seguros resto,1000.0,,1000.0,
-931 22500,Tributos Estatales,1000.0,,1000.0,3554.42
-931 22501,Tributos de las Comunidades Autónomas,1000.0,,1000.0,
-161 22502,Tributos de las Entidades Locales,4300000.0,,4300000.0,1570225.8
-1621 22502,Tributos de las Entidades Locales,,,,186202.0
-1622 22502,Tributos de las Entidades Locales,2300000.0,,2300000.0,376085.0
-931 22502,Tributos de las Entidades Locales,1000.0,,1000.0,
-912 22601,Atenciones protocolarias y representativas,20000.0,,20000.0,11785.31
-170 22602,Publicidad y propaganda,10000.0,,10000.0,
-920 22602,Publicidad y Propaganda,65000.0,,65000.0,17519.43
-920 22603,Publicación en Diarios Oficiales,9000.0,,9000.0,329.12
-920 22604,"Jurídicos, Contenciosos",200000.0,,200000.0,70795.69
-920 22605,Elecciones,,,,97.97
-170 22606,"Reuniones, conferencias y cursos.",8000.0,,8000.0,
-241 22606,"Reuniones, Conferencias y Cursos",80000.0,,80000.0,10084.75
-929 22606,"Reuniones, conferencias y cursos",2000.0,,2000.0,
-920 22607,Oposiciones y pruebas selectivas,5000.0,,5000.0,1689.12
-326 22609,Actividades Culturales y Deportivas,50500.0,,50500.0,4320.66
-3271 22609,Actividades Socioculturales,73500.0,,73500.0,21314.26
-336 22609,Actividades Socioculturales,60000.0,,60000.0,1100.0
-924 22609,Actividades Partiicipación Ciudanana,50000.0,,50000.0,
-338 22610,Festejos y Actos Populares,175000.0,,175000.0,76614.18
-338 22611,Fiestas del Municipio,213000.0,,213000.0,263840.32
-241 22612,Material Convenios Fomento Empleo,30000.0,11553.08,41553.08,12159.05
-1533 22613,Señalizaciones Municipales,50000.0,,50000.0,3231.3
-155 22613,Señalizaciones Municipales,25000.0,,25000.0,21126.27
-433 22614,Plan de Promoción Económica,200000.0,,200000.0,94857.21
-164 22615,Inhumaciones,5000.0,,5000.0,329.6
-920 22616,Plan de Formación Interno Empleados Públicos,10000.0,,10000.0,6048.0
-311 22617,Promoción Sanidad y Consumo,5000.0,,5000.0,410.61
-931 22618,Intereses y Comisiones,10000.0,,10000.0,56.83
-929 22619,Sanciones,10000.0,,10000.0,416.47
-326 22644,Cursos de Extensión Universitaria,15000.0,,15000.0,
-920 22700,Limpieza y Aseo,2270000.0,,2270000.0,738525.04
-920 22701,Seguridad,30000.0,,30000.0,7324.9
-929 22702,Valoraciones y Peritajes,1000.0,,1000.0,
-311 22704,Recogida y acogida de animales.,67000.0,,67000.0,21894.51
-132 22706,Estudios y Trabajos Técnicos,,108000.0,108000.0,
-150 22706,Estudios y trabajos técnicos,,,,
-151 22706,Estudios y trabajos técnicos,400000.0,,400000.0,
-160 22706,Estudios y trabajos técnicos,60000.0,,60000.0,
-1721 22706,Estudios y trabajos técnicos,,,,
-1723 22706,Estudios y trabajos técnicos,100000.0,,100000.0,
-241 22706,Estudios y Trabajos Técnicos,88000.0,,88000.0,
-336 22706,Estudios y trabajos técnicos,127000.0,,127000.0,
-341 22706,Estudios y trabajos técnicos,30000.0,,30000.0,
-442 22706,Estudios y Trabajos técnicos,50000.0,,50000.0,
-4911 22706,Estudios y Trabajos técnicos,,,175373.0,91731.1
-920 22706,Estudios y Trabajos Técnicos,220000.0,,220000.0,33406.12
-931 22708,Servicios de Recaudación,1400000.0,,1400000.0,472343.16
-1622 22709,Servicio Recogida RSU y Lim. Viaria,12660842.0,,12660842.0,4120138.5
-1722 22709,Servicio de recogida de basuras y limpieza viaria,25000.0,,25000.0,
-1621 22710,Servicio Recogida de Papel Cartón,249000.0,,249000.0,83550.1
-161 22711,Servicio Abastecimiento de Agua y Alcantarillado,11600000.0,,11600000.0,437951.77
-165 22712,Servicio Mantenimiento Alumbrado Público,1232040.0,,1232040.0,183868.43
-1532 22713,Servicio de mantenimiento de vías y edificios,2212980.0,,2212980.0,1844831.3
-320 22713,Servicio de mantenimiento de vías y edificios,222760.0,,222760.0,94277.45
-330 22713,Servicio de mantenimiento de vías y edificios,222760.0,,222760.0,92815.65
-342 22713,Servicio de mantenimiento de vías y edificios,222760.0,,222760.0,92815.65
-920 22713,Servicio de mantenimiento de vías y edificios,222760.0,,222760.0,92815.65
-326 22714,Servicios Varios a Colegios,5000.0,,5000.0,
-320 22716,Servicio de Mantenimiento Eléctrico de Edificios,183212.0,,183212.0,49869.8
-342 22716,Servicio de Mantenimiento Eléctrico de Edificios,216580.0,,216580.0,78193.7
-920 22716,Servicio de Mantenimiento Eléctrico de Edificios,38050.0,,38050.0,16193.53
-133 22717,Servicio Grua Municipal,470500.0,,470500.0,235249.74
-171 22719,Ajardinamiento Parque de Cho-Parque de la Reina,48000.0,,48000.0,
-925 22720,Servicio de Atención Telefónica,620300.0,,620300.0,168748.62
-311 22722,Recogida Animales Exóticos,3000.0,,3000.0,
-132 22728,Plan de Seguridad Integral Edificios Municipales,100000.0,,100000.0,
-1721 22730,Mantenimiento Integral del Litoral,,,,144588.0
-1722 22730,Mantenimiento Integral del Litoral,441510.0,,441510.0,18603.72
-311 22731,Control de Aves.,15000.0,,15000.0,
-4911 22732,Servicio Desarrollo Tecnnológico c. Empresarial,60000.0,,104849.89,2400.0
-4911 22733,Plan formativo empresarial C. empresarial Urban,10000.0,,43600.0,31140.0
-1721 22736,Servicio de Vigilancia y Socorrismo en Playas,,,,99832.93
-1722 22736,Servicio de Vigilancia y Socorrismo en Playas,315335.0,,315335.0,
-4911 22740,Estudios y Trabajos. Seguimiento Proyecto URBAN,3500.0,,3500.0,3000.0
-171 22741,Servicio Mantenimiento Jardines Municipales,4544248.0,,4544248.0,1492465.04
-342 22748,Reacondic. Pavimento Parket Pabellón Las Galletas,12466.0,,12466.0,
-342 22749,Sustitución Cesped Artificial Anexo Antonio Dguez.,128935.0,,128935.0,
-342 22750,Sustitución Pavimento Pabellón El Fraile.,54000.0,,54000.0,
-1722 22751,Servicio de Baño Adaptado en Arona,14365.0,,14365.0,6065.11
-342 22752,Sustitución  césped artificial Pistas de Padel,12000.0,,12000.0,
-338 22753,Servicios de Sonido e Iluminación para espectaculo,150000.0,,150000.0,
-342 22755,Plan Director Actuaciones Complejo Jesús Dguez.,18000.0,,18000.0,
-1533 22756,Obras de Mejora en Arona Casco,62000.0,,62000.0,
-342 22757,Sustitución Césped Artificial VSL y Villa Isabel,320000.0,,320000.0,
-337 22758,Proyecto de Estudio Uso Escuelitas Los Cristianos,60000.0,,60000.0,
-132 22759,Trabajos de Demolición Edif. Los Cristianos,,376000.0,376000.0,
-912 23000,Dietas de Miembros de Órganos de Gobierno,12000.0,,12000.0,1690.62
-132 23020,Dietas del personal no directivo,1000.0,,1000.0,
-150 23020,Dietas del personal no directivo,1000.0,,1000.0,
-170 23020,Dietas del personal no directivo,1000.0,,1000.0,
-231 23020,Dietas del personal no directivo,,,,18.7
-241 23020,Dietas del personal no directivo,1000.0,,1000.0,
-320 23020,Dietas del personal no directivo,600.0,,600.0,
-4911 23020,Dietas del personal no directivo,500.0,,500.0,
-920 23020,Dietas del personal no directivo,3000.0,,3000.0,
-922 23020,Dietas del personal no directivo,1000.0,,1000.0,1092.44
-924 23020,Dietas del personal no directivo,600.0,,600.0,
-925 23020,Dietas del personal no directivo,1000.0,,1000.0,
-931 23020,Dietas del personal no directivo,1000.0,,1000.0,206.74
-912 23100,Locomoción de Miembros de Órganos de Gobierno,12000.0,,12000.0,1044.74
-132 23120,Locomoción del personal no directivo,10000.0,,10000.0,7216.55
-150 23120,Locomoción del personal no directivo,2000.0,,2000.0,192.85
-170 23120,Locomoción del personal no directivo,2000.0,,2000.0,
-231 23120,Locomoción del personal no directivo,,,,80.75
-241 23120,Locomoción del personal no directivo,1000.0,,1000.0,1470.6
-320 23120,Locomoción del personal no directivo,600.0,,600.0,164.43
-3271 23120,Locomoción del personal no directivo,,,,90.97
-4911 23120,Locomoción de Personal,500.0,,500.0,
-920 23120,Locomoción del personal no directivo,8000.0,,8000.0,129.39
-922 23120,Locomoción del personal no directivo,600.0,,600.0,324.39
-924 23120,Locomoción del personal no directivo,,,,164.35
-925 23120,Locomoción del personal no directivo,1000.0,,1000.0,100.98
-931 23120,Locomoción del personal no directivo,6000.0,,6000.0,611.56
-912 23300,Asistencia Órganos de Gobierno,60000.0,,60000.0,12500.0
-920 23300,Asistencia Órganos de Gobierno,5000.0,,5000.0,500.0
-931 23300,Otras indemnizaciones,,,,300.0
-912 23301,Otras indemnizaciones,50000.0,,50000.0,3709.98
-135 26001,Trabajos realizados por Protección Civil,160000.0,,160000.0,82000.0
-011 31000,Intereses,175000.0,,175000.0,64804.7
-931 31100,Gastos de formalización y cancelación,1000.0,,1000.0,
-931 34000,Intereses de depósitos,1000.0,,1000.0,
-931 34100,Intereses de fianzas,1000.0,,1000.0,
-931 35200,Intereses de demora Capítulo 6,100000.0,,100000.0,35396.32
-931 35201,Intereses de demora Capítulo 2,100000.0,,100000.0,18200.55
-931 35700,Ejecución de Avales,1000.0,,1000.0,
-931 35800,Intereses por operaciones de arrendamiento financi,1000.0,,1000.0,
-931 35900,Otros Gastos Financieros,50000.0,,50000.0,47872.92
-330 41000,Al Patronato Municipal de Cultura,2550000.0,,2550000.0,803245.46
-340 41001,Al Patronato Municipal de Deportes,2803400.0,,2803400.0,900000.0
-430 41002,Al Patronato Municipal de Turismo,1395645.0,,1395645.0,300000.0
-231 41003,Al Patronato Municipal de Servicios Sociales,3965507.0,,3965507.0,1200000.0
-922 42392,Aportación a la FEMP,6000.0,,6000.0,4497.81
-165 42393,Aportación Comité Español Iluminación,601.0,,601.0,440.0
-231 44221,Subvención a la Empresa Municipal ADESA,1061694.0,,1061694.0,600000.0
-326 45301,Convenio ULL Máster Innovación Diseño Sect.Turísti,12000.0,,12000.0,
-4411 46101,Convenio Transporte Colectivo,138000.0,,138000.0,
-414 46600,Aportación Desarrollo Rural Chasna- Isora,3010.0,,3010.0,3000.0
-943 46701,Aportación Consorcio de Incendios,776904.0,,776904.0,476447.59
-432 46901,Convenio Promoción Turística SPET,150000.0,,150000.0,
-430 46902,Convenio Regeneración espacio turístico,93718.0,,93718.0,
-337 47903,Convenio Uso Instalaciones Casino de Arona,9000.0,,9000.0,
-4310 47905,Subvenciones Asoc. Comerciales Fomento y Dinam.,60000.0,,60000.0,
-433 47906,Subvenciones Fomento Innovación Empresarial,48000.0,,48000.0,
-326 48001,Becas de Transporte,156960.0,,156960.0,
-326 48002,Becas Enseñanza Universitaria,253000.0,,253000.0,
-326 48003,Becas de Enseñanza Especial,55000.0,,55000.0,
-326 48004,Subvenciones APAS,16200.0,,16200.0,
-326 48005,Ayuda Actividades Permanencia (APAS),11550.0,,11550.0,
-241 48014,"Convnio Fundación Proyecto D,. Bosco",12000.0,,12000.0,
-170 48015,Subvención Fundación Neotróopico  Preservación Lag,3000.0,,3000.0,
-231 48018,Ayuda Enseres Damnificados Edif. Los Cristianos,,18000.0,18000.0,12000.0
-338 48100,Subvenciones a Comisiones de Fiestas,67400.0,,67400.0,20350.0
-929 48102,Premios,3000.0,,3000.0,
-912 48201,Aportaciones a Partidos Políticos,54000.0,,54000.0,22200.0
-336 48301,Convenio Archivo Diocesano,8000.0,,8000.0,7000.0
-929 50000,Fondo de Contingencia,1000000.0,,1000000.0,
-151 60000,Adquisición de Terrenos,,,8569848.26,
-1522 60001,Adquisición de Suelo para Construcción V.P.O.,,,210000.0,
-150 60101,Parque Urbano Cho-Parque La Reina ,,,58000.0,
-151 60104,Gutinado del Solar Municipal C/Duque de la Torre,,,1103.97,
-1532 60123,Plan de Accesibilidad,,,10000.0,
-151 60135,Plan de Barrios,,,350948.56,
-453 60137,Conexión Peatonal Guargacho-Las Rosas,,,967574.09,
-151 60139,Alumbrado Público en Valle San Lorenzo,,,77540.0,
-151 60201,Centro de Transformación Arona Casco,,,673615.09,
-161 60208,Inversiones Red Saneamiento y Pluviales,,,80663.38,
-452 60610,Inversiones en la Red de Agua,,190307.76,2892710.05,17671.73
-151 60806,Parques Infantiles,,,200000.0,
-241 60812,Mobiliario Urbano,,,54054.39,
-453 60819,Rehab. pav. de calzada núcleo Valle S.L.,,,5040.43,
-1532 60901,Mejora de la accesibildad Avda. Chayofita,,,1508.24,
-1533 60901,Pasarela peatonal adaptada en Los Cristianos,18000.0,,18000.0,
-151 60905,Rehabilitación e Ilum. Ext. Sala Multiusos Los Cri,,,1636.14,
-171 60909,Construcción nueva zona verde Playa de las Vistas,50000.0,,50000.0,
-161 60910,Instalaciones en BT Repetidor La Centinela,,,164000.0,
-151 60911,Centro Civico y Plaza la Camella,,,24128.78,
-453 60918,Rehab. Pav. Calzada Núcleo Valle San Lorenzo.,,,16314.49,
-341 60921,Mobiliario Urbano Deportivo,50000.0,,50000.0,
-165 60939,Alumbrado C/ Paralela Avda.Chayofita,80000.0,,80000.0,
-1532 60941,Obras Seguridad Zon Pública CC Apolo Los Cristiano,,,56028.0,
-1532 60942,Obras en Crta. Cruz del Guanche-La Sabinita PK 0+0,,,15827.0,15805.68
-1532 60943,Obras Adecuación Conexión Vía Serv. Avda Chayofita,,,6551.0,
-1532 60944,"Baranda Protección C/Santa Rita - Abrigaño, Cabo B",,,12900.0,12013.43
-161 61100,Acondicionamiento Depósitos Municipales de Agua,,,120000.0,
-171 61904,Remodelación Plaza del Pescador,50000.0,,50000.0,
-1723 61905,Plaza de la Trujilla Cabo Blanco,300000.0,,300000.0,
-342 62203,Cubierta Piscina Polivalente de Los Cristianos,,,2003.42,
-151 62205,Adecuación N.V. Instalaciones BT Edificios público,,,988000.0,
-3341 62207,Cámaras de Seguridad Edificios,,,13776.48,
-342 62207,Cámaras de seguridad Edificios Públicos,,,6304.26,
-931 62207,Cámaras de seguridad Edificios Públicos,,,3000.0,
-151 62209,Adecuación  Instalaciones CPD Edificios Mples.,,,6349.15,
-231 62213,Adecuación N.V. Instalaciones Residencia Mayores C,,,218394.02,
-164 62214,Ampliación del Cementerio Municipal,55000.0,,111225.85,52193.93
-419 62227,Casa del Vino,,,192907.3,
-342 62228,Polideportivo Cubierto Valle San Lorenzo,250000.0,,250000.0,
-920 62229,Adqusición Locales para servicios municpales,,800000.0,800000.0,
-4911 62246,Centro Civico Las Galletas,1319852.0,,3007784.5,26060.85
-342 62250,Adecuación Reglamentación B.T. Campo Tiro de Arona,,,2412.74,
-432 62255,Oficinas de Turismo Plan Q,,,4028.75,
-4911 62267,Centro Cívico El Fraile,,869.0,33588.55,
-132 62300,"Maquinaria, Instalaciones y Utillaje",10000.0,,10000.0,
-150 62300,"Maquinaria, Instalaciones y Utillaje",1000.0,,1000.0,
-165 62300,"Maquinaria, Instalaciones y Utillaje",5500.0,,5500.0,
-1721 62300,"Maquinaria, Instalaciones y Utillaje",,,41139.99,
-231 62300,"Maquinaria, instalaciones y utillaje",,,6543.22,
-241 62300,"Maquinaria, Instalaciones y Utillaje",1000.0,,1000.0,
-3271 62300,"Maquinaria, Instalaciones y Utillaje",5000.0,,5000.0,
-920 62300,"Maquinaria, Instalaciones y Utillaje",5000.0,,5000.0,1284.0
-920 62301,Acondicionamiento Ingeniería CPD Municipales.,15000.0,,15000.0,
-164 62302,"Plataformas, Escaleras y Maquinaria",35300.0,,35300.0,
-1622 62304,Autocompactadores,,,85000.0,
-333 62310,Dotacion equipamiento Espacios Culturales de Medi,19000.0,,19000.0,
-132 62400,Material de Transporte,26000.0,446000.0,508000.0,
-135 62400,Material de Transporte,57000.0,,57000.0,
-231 62400,Material de Transporte,,,10181.27,
-4911 62401,Proyecto Préstamo de Bicicletas y Carril  30,185351.0,,448702.0,
-132 62500,Mobiliario,10000.0,,10000.0,
-231 62500,Mobiliario,,,31374.02,
-920 62500,Mobiliario,,,,
-929 62500,Mobiliario,5000.0,,5000.0,
-931 62500,Mobiliario,9000.0,,9000.0,
-414 62507,Equipamiento Mercadillo Municipal del Agricultor,80000.0,,80000.0,
-4412 62509,Marquesinas y paneles informativos,60000.0,,60000.0,2838.06
-3322 62510,Estanterías Mecánicas Móviles Archivo,30000.0,,30000.0,
-4911 62600,Equipos para Procesos de Información,,,39886.39,39886.39
-920 62600,Equipos para Proceso de Información,400000.0,,400000.0,
-132 62603,Emisoras Policía Local,,,130947.54,
-132 62604,Plan de Seguridad Integral Edificios Municipales,70000.0,,70000.0,
-4911 62701,Creación Zonas Wi-Fi Zona Urban/Urban Arona 07-15,,,6545.19,6545.19
-4911 63207,Centro Empresarial Integrado,350418.0,,469676.93,8119.36
-342 63208,Adecuación Campo de Tiro de Arona,30000.0,,30000.0,
-231 63211,Ampliación Residencia de Mayores Los Cristianos,200000.0,,228000.0,
-337 63212,Proyecto Reforma y Adecuación Cine Arona,60000.0,,60000.0,
-1522 63213,Adaptación Instalaciones Mpales.Normativa Accesib.,100000.0,,100000.0,
-151 65008,Urbanización en superficie Barranquera Espadal VSL,,,210000.0,
-1721 65913,Aseos y Duchas en Playas,,,50000.0,
-1721 65914,Balizamiento Playas,,,122082.6,
-432 75100,Plan de Infraestructurasy Calidad Turística,,891526.0,891526.0,
-4910 76103,Convenio Ayto-Cabildo Obras Fibra Óptica Mpal.,300000.0,,744043.08,
-432 76124,SPET Plan de Oficinas Turísticas,,,12000.0,
-161 76129,Saneamiento y Urbanización en El Fraile III Fase,,,60280.73,
-336 76200,Acto. Cueva Santo Hermano Pedro,,,62000.0,
-1522 78011,Ayudas Rehabilitacion viviendas 1ª Necesidad,150000.0,,150000.0,
-931 83001,Anticipos por cuenta terceros,10.0,3826.32,3836.32,3826.32
-931 83101,Anticipo de pagas a personal,10.0,121200.0,121210.0,121200.0
-011 91301,Amortización préstamos largo plazo entidades fin.,906500.0,10230495.0,11136995.0,11136990.04
+#vinculació,cap,Org.,Pro.,Eco.,Descripció,Crèdits inicials,Modificacions de crèdit,Crèdits totals consignats,Despeses autoritzades,Disposicions o compromisos,Obligacions reconegudes,Pag. Ordenats,Pagaments fets,SALDO de crèdits disponibles,SALDO de crèdits disp. a nivell de vinculació,SALDO de crèdits retinguts pendents d'ús,SALDO de despeses autoritzades,SALDO de despeses compromeses,SALDO d'obligacions reconegudes,SALDO de pag. ordenats,Disponible de Remanentes por aplicación
+SG1-9-1,1,SG1,9120.0,1000001.0,RETRIBUCIONS.- CÀRRECS ELECTES,344762.0,,344762.0,344762.0,344762.0,344762.0,344762.0,344762.0,,104188.02,,,,,,
+SG5-1-1,1,SG5,1300.0,1200001.0,BASIQUES FUNC.- POLICIA .......,895602.0,,895602.0,895602.0,895602.0,895602.0,895602.0,895602.0,,29744.14,,,,,,
+CM2-1-1,1,CM2,1511.0,1200001.0,BASIQUES FUNC.- URBANISME .....,75891.0,,75891.0,75891.0,75891.0,75891.0,75891.0,75891.0,,29744.14,,,,,,
+CM1-1-1,1,CM1,1532.0,1200001.0,BASIQUES FUNC.-VIES PUBLIQUES,23100.0,,23100.0,23100.0,23100.0,23100.0,23100.0,23100.0,,29744.14,,,,,,
+CM1-1-1,1,CM1,1610.0,1200001.0,BASIQUES FUNC.- AIGUA I SANEJAMENT,12782.0,,12782.0,11747.82,11747.82,11747.82,11747.82,11747.82,1034.18,29744.14,,,,,,
+CM1-1-1,1,CM1,1650.0,1200001.0,BASIQUES FUNC.- ENLLUMENAT .....,25058.0,,25058.0,25058.0,25058.0,25058.0,25058.0,25058.0,,29744.14,,,,,,
+CM1-1-1,1,CM1,1711.0,1200001.0,BASIQUES FUNC.- CIUTAT I MEDI AMBIENT,12276.0,,12276.0,12276.0,12276.0,12276.0,12276.0,12276.0,,29744.14,,,,,,
+CM6-1-1,1,CM6,1721.0,1200001.0,RETRIBUCIONS BASIQUES.- MEDI AMBIENT,12632.0,,12632.0,12632.0,12632.0,12632.0,12632.0,12632.0,,29744.14,,,,,,
+SP1-2-1,1,SP1,2310.0,1200001.0,RETRIBUCIONS BASIQUES ASSISTENCIA PRIMARIA,31279.0,,31279.0,31075.86,31075.86,31075.86,31075.86,31075.86,203.14,5604.45,,,,,,
+SG8-2-1,1,SG8,2410.0,1200001.0,RETRIBUCIONS BASIQUES.- FORMACIÓ,13615.0,,13615.0,13615.0,13615.0,13615.0,13615.0,13615.0,,5604.45,,,,,,
+SP3-3-1,1,SP3,3322.0,1200001.0,BASIQUES FUNC.- ARXIU I PATR..,23544.0,,23544.0,23544.0,23544.0,23544.0,23544.0,23544.0,,29410.7,,,,,,
+SG8-4-1,1,SG8,4330.0,1200001.0,BASIQUES FUNC.-ACTIVITATS,36776.0,,36776.0,36112.16,36112.16,36112.16,36112.16,36112.16,663.84,2366.56,,,,,,
+SG1-9-1,1,SG1,9120.0,1200001.0,BASIQUES FUNC.- ORG. GOVERN..,27395.0,,27395.0,27395.0,27395.0,27395.0,27395.0,27395.0,,104188.02,,,,,,
+SG1-9-1,1,SG1,9202.0,1200001.0,BASIQUES FUNC.-SERVEIS JURÍDICS.....,43424.0,,43424.0,43424.0,43424.0,43424.0,43424.0,43424.0,,104188.02,,,,,,
+SG1-9-1,1,SG1,9203.0,1200001.0,BASIQUES FUNC.- CONTRACTACIÓ.,16970.0,,16970.0,16970.0,16970.0,16970.0,16970.0,16970.0,,104188.02,,,,,,
+SG4-9-1,1,SG4,9311.0,1200001.0,BASIQUES FUNC.- INTERVENCIO,20287.0,,20287.0,20287.0,20287.0,20287.0,20287.0,20287.0,,104188.02,,,,,,
+SG4-9-1,1,SG4,9340.0,1200001.0,BASIQUES FUNC.- GESTIÓ TRIBUTÀRIA I RECAPTACIÓ,31910.0,,31910.0,31910.0,31910.0,31910.0,31910.0,31910.0,,104188.02,,,,,,
+SG5-1-1,1,SG5,1300.0,1210001.0,COMPLEM. FUNC.- POLICIA ......,801893.0,,801893.0,801893.0,801893.0,801893.0,801893.0,801893.0,,29744.14,,,,,,
+CM2-1-1,1,CM2,1511.0,1210001.0,COMPLEM. FUNC.- URBANISME ....,70006.0,,70006.0,70006.0,70006.0,70006.0,70006.0,70006.0,,29744.14,,,,,,
+CM1-1-1,1,CM1,1532.0,1210001.0,COMPLEM. FUNC.- VIES PUBLIQUES.,15364.0,,15364.0,14950.72,14950.72,14950.72,14950.72,14950.72,413.28,29744.14,,,,,,
+CM1-1-1,1,CM1,1610.0,1210001.0,COMPLEM. FUNC.- AIGUA I SANEJAMENT,10464.0,,10464.0,10288.63,10288.63,10288.63,10288.63,10288.63,175.37,29744.14,,,,,,
+CM1-1-1,1,CM1,1650.0,1210001.0,COMPLEM. FUNC.- ENLLUMENAT ....,13240.0,,13240.0,13042.43,13042.43,13042.43,13042.43,13042.43,197.57,29744.14,,,,,,
+CM1-1-1,1,CM1,1711.0,1210001.0,COMPLEM. FUNC.- CIUTAT I MEDI AMBIENT,6620.0,,6620.0,6360.7,6360.7,6360.7,6360.7,6360.7,259.3,29744.14,,,,,,
+CM6-1-1,1,CM6,1721.0,1210001.0,RETRIBUCIONS COMPLEMENTARIES.- MEDI AMBIENT,7641.0,,7641.0,7576.49,7576.49,7576.49,7576.49,7576.49,64.51,29744.14,,,,,,
+SP1-2-1,1,SP1,2310.0,1210001.0,RETRIBUCIONS COMPLEMENTARIES - ATENCIO PRIMARIA,24697.0,,24697.0,24697.0,24697.0,24697.0,24697.0,24697.0,,5604.45,,,,,,
+SG8-2-1,1,SG8,2410.0,1210001.0,COMPLEM. FUNC.- FORMACIÓ,9157.0,,9157.0,9157.0,9157.0,9157.0,9157.0,9157.0,,5604.45,,,,,,
+SP3-3-1,1,SP3,3322.0,1210001.0,COMPLEM. FUNC.- ARXIU I PATR..,16009.0,,16009.0,15830.13,15830.13,15830.13,15830.13,15830.13,178.87,29410.7,,,,,,
+SG8-4-1,1,SG8,4330.0,1210001.0,COMPLEM. FUNC.-ACTIVITATS,25851.0,,25851.0,25851.0,25851.0,25851.0,25851.0,25851.0,,2366.56,,,,,,
+SG1-9-1,1,SG1,9120.0,1210001.0,COMPLEM. FUNC.- ORG. GOVERN,21681.0,,21681.0,21242.5,21242.5,21242.5,21242.5,21242.5,438.5,104188.02,,,,,,
+SG1-9-1,1,SG1,9202.0,1210001.0,COMPLEM. FUNC.-SERVEIS JURÍDICS....,62324.0,,62324.0,62324.0,62324.0,62324.0,62324.0,62324.0,,104188.02,,,,,,
+SG1-9-1,1,SG1,9203.0,1210001.0,COMPLEM. FUNC.- CONTRACTACIÓ..,10112.0,,10112.0,10111.8,10111.8,10111.8,10111.8,10111.8,0.2,104188.02,,,,,,
+SG4-9-1,1,SG4,9311.0,1210001.0,COMPLEM. FUNC.- INTERVENCIO.,31162.0,,31162.0,31161.48,31161.48,31161.48,31161.48,31161.48,0.52,104188.02,,,,,,
+SG4-9-1,1,SG4,9340.0,1210001.0,COMPLEM. FUNC.- GESTIÓ TRIBUTÀRIA I RECAPTACIÓ,33851.0,,33851.0,33851.0,33851.0,33851.0,33851.0,33851.0,,104188.02,,,,,,
+SG5-1-1,1,SG5,1300.0,1300001.0,BASIQUES LAB.- POLICIA ........,12177.0,,12177.0,12147.2,12147.2,12147.2,12147.2,12147.2,29.8,29744.14,,,,,,
+CM2-1-1,1,CM2,1511.0,1300001.0,BASIQUES LAB.- URBANISME ......,170604.0,,170604.0,170604.0,170604.0,170604.0,170604.0,170604.0,,29744.14,,,,,,
+CM2-1-1,1,CM2,1512.0,1300001.0,BASIQUES LAB.- PROJECTES ......,101524.0,,101524.0,101354.28,101354.28,101354.28,101354.28,101354.28,169.72,29744.14,,,,,,
+CM1-1-1,1,CM1,1532.0,1300001.0,BASIQUES LAB.- VIES PUBLIQUES ..,92876.0,,92876.0,92876.0,92876.0,92876.0,92876.0,92876.0,,29744.14,,,,,,
+CM1-1-1,1,CM1,1650.0,1300001.0,BASIQUES LAB.- ENLLUMENAT ......,41135.0,,41135.0,40887.46,40887.46,40887.46,40887.46,40887.46,247.54,29744.14,,,,,,
+CM1-1-1,1,CM1,1710.0,1300001.0,BASIQUES LAB.- PARCS I JARD..,84087.0,,84087.0,82954.41,82954.41,82954.41,82954.41,82954.41,1132.59,29744.14,,,,,,
+CM1-1-1,1,CM1,1711.0,1300001.0,BASIQUES LAB.- CIUTAT I MEDI AMBIENT,138515.0,,138515.0,138515.0,138515.0,138515.0,138515.0,138515.0,,29744.14,,,,,,
+CM6-1-1,1,CM6,1721.0,1300001.0,BASIQUES LAB.- MEDI AMBIENT,41013.0,,41013.0,41013.0,41013.0,41013.0,41013.0,41013.0,,29744.14,,,,,,
+SP1-2-1,1,SP1,2310.0,1300001.0,BASIQUES LAB.- ASSISTÈNCIA PRIMÀRIA,260026.0,,260026.0,260026.0,260026.0,260026.0,260026.0,260026.0,,5604.45,,,,,,
+SP1-2-1,1,SP1,2311.0,1300001.0,BASIQUES LAB.- MEDIACIÓ SOCIAL,828333.0,,828333.0,841502.58,841502.58,841502.58,841502.58,841502.58,-13169.58,5604.45,,,,,,
+SG8-2-1,1,SG8,2410.0,1300001.0,BASIQUES LAB.- FORMACIÓ,13271.0,,13271.0,13020.16,13020.16,13020.16,13020.16,13020.16,250.84,5604.45,,,,,,
+SP1-3-1,1,SP1,3110.0,1300001.0,BASIQUES LAB.-SANITAT ........,26113.0,,26113.0,26113.0,26113.0,26113.0,26113.0,26113.0,,29410.7,,,,,,
+SP1-3-1,1,SP1,3230.0,1300001.0,BASIQUES LAB.- EDUCACIO ......,93917.0,,93917.0,93917.0,93917.0,93917.0,93917.0,93917.0,,29410.7,,,,,,
+SP1-3-1,1,SP1,3260.0,1300001.0,BASIQUES LAB.- ESCOLES MUNICIPALS,17084.0,,17084.0,17084.0,17084.0,17084.0,17084.0,17084.0,,29410.7,,,,,,
+SP3-3-1,1,SP3,3322.0,1300001.0,BASIQUES LAB.- ARXIU I PATR..,27206.0,,27206.0,27206.0,27206.0,27206.0,27206.0,27206.0,,29410.7,,,,,,
+SP3-3-1,1,SP3,3340.0,1300001.0,BASIQUES LAB.- CULTURA ........,75601.0,,75601.0,68047.69,68047.69,68047.69,68047.69,68047.69,7553.31,29410.7,,,,,,
+SP3-3-1,1,SP3,3370.0,1300001.0,BASIQUES LAB.- JOVENTUT,40255.0,,40255.0,40232.32,40232.32,40232.32,40232.32,40232.32,22.68,29410.7,,,,,,
+SP3-3-1,1,SP3,3400.0,1300001.0,BASIQUES LAB.- ESPORTS .......,255575.0,,255575.0,236397.69,236397.69,236397.69,236397.69,236397.69,19177.31,29410.7,,,,,,
+SG8-4-1,1,SG8,4310.0,1300001.0,BASIQUES LAB.- COMERÇ,12177.0,,12177.0,12177.0,12177.0,12177.0,12177.0,12177.0,,2366.56,,,,,,
+SG8-4-1,1,SG8,4312.0,1300001.0,BASIQUES LAB.- MERCATS,13271.0,,13271.0,13271.0,13271.0,13271.0,13271.0,13271.0,,2366.56,,,,,,
+SG8-4-1,1,SG8,4330.0,1300001.0,BASIQUES LAB.- ACTIVITATS,34914.0,,34914.0,34914.0,34914.0,34914.0,34914.0,34914.0,,2366.56,,,,,,
+SG1-9-1,1,SG1,9120.0,1300001.0,BASIQUES LAB.- ALCALDIA,48499.0,,48499.0,48499.0,48499.0,48499.0,48499.0,48499.0,,104188.02,,,,,,
+SG1-9-1,1,SG1,9202.0,1300001.0,BASIQUES LAB.-SERVEIS JURÍDICS......,101873.0,,101873.0,101217.95,101217.95,101217.95,101217.95,101217.95,655.05,104188.02,,,,,,
+SG1-9-1,1,SG1,9205.0,1300001.0,BASIQUES LAB.- REC. HUMANS,81674.0,227692.87,309366.87,292914.81,292914.81,292914.81,292914.81,292914.81,16452.06,104188.02,,,,,,
+SG4-9-1,1,SG4,9206.0,1300001.0,BASIQUES LAB.- INFORMATICA,26844.0,,26844.0,23821.74,23821.74,23821.74,23821.74,23821.74,3022.26,104188.02,,,,,,
+SG1-9-1,1,SG1,9250.0,1300001.0,BASIQUES LAB.- OFICINA ATENCIÓ AL CIUTADÀ,95927.0,,95927.0,95927.0,95927.0,95927.0,95927.0,95927.0,,104188.02,,,,,,
+SG4-9-1,1,SG4,9311.0,1300001.0,BASIQUES LAB.- INTERVENCIO,42669.0,,42669.0,42669.0,42669.0,42669.0,42669.0,42669.0,,104188.02,,,,,,
+SG4-9-1,1,SG4,9340.0,1300001.0,BASIQUES LAB.- GESTIÓ TRIBUTÀRIA I RECAPTACIÓ,78642.0,,78642.0,77773.14,77773.14,77773.14,77773.14,77773.14,868.86,104188.02,,,,,,
+SG1-9-1,1,SG1,9205.0,1300101.0,HORES EXTRAORDINÀRIES /SERV. EXTRAORD.. RR.HH.,40000.0,,40000.0,97419.42,97419.42,97419.42,97419.42,97419.42,-57419.42,104188.02,,,,,,
+SG5-1-1,1,SG5,1300.0,1300201.0,COMPLEM. LAB.- POLICIA .......,6587.0,,6587.0,7135.86,7135.86,7135.86,7135.86,7135.86,-548.86,29744.14,,,,,,
+CM2-1-1,1,CM2,1511.0,1300201.0,COMPLEM. LAB.- URBANISME .....,123489.0,,123489.0,15839.08,15839.08,15839.08,15839.08,15839.08,42649.92,29744.14,65000.0,,,,,
+CM2-1-1,1,CM2,1512.0,1300201.0,COMPLEM. LAB.- PROJECTES .....,87265.0,,87265.0,87265.0,87265.0,87265.0,87265.0,87265.0,,29744.14,,,,,,
+CM1-1-1,1,CM1,1532.0,1300201.0,COMPLEM. LAB.- VIES PUBLIQUES..,60857.0,,60857.0,59239.38,59239.38,59239.38,59239.38,59239.38,1617.62,29744.14,,,,,,
+CM1-1-1,1,CM1,1650.0,1300201.0,COMPLEM. LAB.- ENLLUMENAT .....,37978.0,,37978.0,37978.0,37978.0,37978.0,37978.0,37978.0,,29744.14,,,,,,
+CM1-1-1,1,CM1,1710.0,1300201.0,COMPLEM. LAB.- PARCS I JARD.,49576.0,,49576.0,49576.0,49576.0,49576.0,49576.0,49576.0,,29744.14,,,,,,
+CM1-1-1,1,CM1,1711.0,1300201.0,COMPLEM. LAB.- CIUTAT I MEDI AMBIENT,115423.0,,115423.0,115423.0,115423.0,115423.0,115423.0,115423.0,,29744.14,,,,,,
+CM6-1-1,1,CM6,1721.0,1300201.0,COMPLEM. LAB.- MEDI AMBIENT,31657.0,,31657.0,31657.0,31657.0,31657.0,31657.0,31657.0,,29744.14,,,,,,
+SP1-2-1,1,SP1,2310.0,1300201.0,COMPLEM. LAB.- ATENCIÓ PRIMÀRIA,165741.0,,165741.0,165741.0,165741.0,165741.0,165741.0,165741.0,,5604.45,,,,,,
+SP1-2-1,1,SP1,2311.0,1300201.0,COMPLEM. LAB.- MEDIACIÓ SOCIAL,699638.0,,699638.0,699638.0,699638.0,699638.0,699638.0,699638.0,,5604.45,,,,,,
+SG8-2-1,1,SG8,2410.0,1300201.0,COMPLEM. LAB.- FORMACIÒ.,6587.0,,6587.0,6037.46,6037.46,6037.46,6037.46,6037.46,549.54,5604.45,,,,,,
+SP1-3-1,1,SP1,3110.0,1300201.0,COMPLEM. LAB.-SANITAT .......,17314.0,,17314.0,17157.23,17157.23,17157.23,17157.23,17157.23,156.77,29410.7,,,,,,
+SP1-3-1,1,SP1,3230.0,1300201.0,COMPLEM. LAB.- EDUCACIO......,65619.0,,65619.0,65232.87,65232.87,65232.87,65232.87,65232.87,386.13,29410.7,,,,,,
+SP1-3-1,1,SP1,3260.0,1300201.0,COMPLEM. LAB.- ESCOLES MPALS.,24131.0,,24131.0,24131.0,24131.0,24131.0,24131.0,24131.0,,29410.7,,,,,,
+SP3-3-1,1,SP3,3322.0,1300201.0,COMPLEM. LAB.- ARXIU I PATR.,18023.0,,18023.0,17907.96,17907.96,17907.96,17907.96,17907.96,115.04,29410.7,,,,,,
+SP3-3-1,1,SP3,3340.0,1300201.0,COMPLEM. LAB.- CULTURA .......,49818.0,,49818.0,49818.0,49818.0,49818.0,49818.0,49818.0,,29410.7,,,,,,
+SP3-3-1,1,SP3,3370.0,1300201.0,COMPLEMEN. LAB.- JOVENTUT,22655.0,,22655.0,22655.0,22655.0,22655.0,22655.0,22655.0,,29410.7,,,,,,
+SP3-3-1,1,SP3,3400.0,1300201.0,COMPLEM. LAB.- ESPORTS ......,179683.0,,179683.0,179683.0,179683.0,179683.0,179683.0,179683.0,,29410.7,,,,,,
+SG8-4-1,1,SG8,4310.0,1300201.0,COMPLEM. LAB.-COMERÇ,8102.0,,8102.0,6586.32,6586.32,6586.32,6586.32,6586.32,1515.68,2366.56,,,,,,
+SG8-4-1,1,SG8,4312.0,1300201.0,COMPLEM. LAB.-MERCATS,6587.0,,6587.0,6586.32,6586.32,6586.32,6586.32,6586.32,0.68,2366.56,,,,,,
+SG8-4-1,1,SG8,4330.0,1300201.0,COMPLEM. LAB.-ACTIVITATS,23548.0,,23548.0,23548.0,23548.0,23548.0,23548.0,23548.0,,2366.56,,,,,,
+SG1-9-1,1,SG1,9120.0,1300201.0,COMPLEM. LAB.-ALCALDIA,28521.0,,28521.0,28521.0,28521.0,28521.0,28521.0,28521.0,,104188.02,,,,,,
+SG1-9-1,1,SG1,9202.0,1300201.0,COMPLEM. LAB.-SERVEIS JURÍDICS ....,64065.0,,64065.0,64019.2,64019.2,64019.2,64019.2,64019.2,45.8,104188.02,,,,,,
+SG1-9-1,1,SG1,9205.0,1300201.0,COMPLEM. LAB.- REC. HUMANS.,82671.0,,82671.0,55636.88,55636.88,55636.88,55636.88,55636.88,34.12,104188.02,27000.0,,,,,
+SG4-9-1,1,SG4,9206.0,1300201.0,COMPLEM. LAB.- INFORMATICA,23585.0,,23585.0,23347.8,23347.8,23347.8,23347.8,23347.8,237.2,104188.02,,,,,,
+SG1-9-1,1,SG1,9250.0,1300201.0,COMPLEM. LAB.- OFICINA ATENCIÓ AL CIUTADÀ,53340.0,,53340.0,51766.05,51766.05,51766.05,51766.05,51766.05,1573.95,104188.02,,,,,,
+SG4-9-1,1,SG4,9311.0,1300201.0,COMPLEM. LAB.- INTERVENCIO.,31184.0,,31184.0,31184.0,31184.0,31184.0,31184.0,31184.0,,104188.02,,,,,,
+SG4-9-1,1,SG4,9340.0,1300201.0,COMPLEM. LAB.- GESTIÓ TRIBUTÀRIA I RECAPTACIÓ,45299.0,,45299.0,45232.24,45232.24,45232.24,45232.24,45232.24,66.76,104188.02,,,,,,
+SG1-9-1,1,SG1,9205.0,1300202.0,INDEMNITZACIONS.- RECURSOS HUMANS,,,,13362.65,13362.65,13362.65,13362.65,13362.65,-13362.65,104188.02,,,,,,
+CM1-1-1,1,CM1,1511.0,1310001.0,LABORAL EVENTUAL,,,,,,,,,,29744.14,,,,,,
+CM2-1-1,1,CM2,1511.0,1310001.0,LABORAL EVENTUAL,,,,4744.68,4744.68,4744.68,4744.68,4744.68,-4744.68,29744.14,,,,,,
+SP1-1-1,1,SP1,1640.0,1310001.0,LABORAL EVENTUAL -CEMENTERIS,,,,4611.79,4611.79,4611.79,4611.79,4611.79,-4611.79,29744.14,,,,,,
+CM6-1-1,1,CM6,1721.0,1310001.0,LABORAL EVENTUAL,,,,9101.89,9101.89,9101.89,9101.89,9101.89,-9101.89,29744.14,,,,,,
+SP1-2-1,1,SP1,2310.0,1310001.0,LABORAL EVENTUAL.- ATENCIÓ PRIMÀRIA,100000.0,26503.53,126503.53,99971.77,99971.77,99971.77,99971.77,99971.77,26531.76,5604.45,,,,,,
+SP1-2-1,1,SP1,2311.0,1310001.0,PERS. EVENTUAL - R.G.A. ........,480000.0,37500.0,517500.0,467713.42,467713.42,467713.42,467713.42,467713.42,49786.58,5604.45,,,,,,
+SP1-3-1,1,SP1,3260.0,1310001.0,LABORAL EVENTUAL.- ESCOLES MUNICIPALS,172736.0,,172736.0,168004.46,168004.46,168004.46,168004.46,168004.46,4731.54,29410.7,,,,,,
+SP3-3-1,1,SP3,3400.0,1310001.0,LABORAL EVENTUAL.- SERV. MPAL. ESPORTS,55000.0,,55000.0,52882.21,52882.21,52882.21,52882.21,52882.21,2117.79,29410.7,,,,,,
+SG1-9-1,1,SG1,9120.0,1310001.0,LABORAL EVENTUAL -ORG. GOVERN,,,,3467.07,3467.07,3467.07,3467.07,3467.07,-3467.07,104188.02,,,,,,
+SG1-9-1,1,SG1,9205.0,1310001.0,LOCOMOCIO.-RECURSOS HUMANS,3000.0,-3000.0,,,,,,,,,,,,,,
+SG8-2-1,1,SG8,2410.0,1310011.0,PERSONAL TEMPORAL- PROJECTE,,779690.41,779690.41,499092.74,499092.74,499092.74,499092.74,499092.74,597.67,8057.39,280000.0,,,,,
+SG1-9-1,1,SG1,9205.0,1500001.0,PRODUCTIVITAT.- REC. HUMANS.,319500.0,,319500.0,241244.98,241244.98,241244.98,241244.98,241244.98,78255.02,104188.02,,,,,,
+SG5-1-1,1,SG5,1300.0,1600001.0,SEG. SOCIAL.- POLICIA ........,503007.0,,503007.0,501120.09,501120.09,501120.09,501120.09,501120.09,1886.91,29744.14,,,,,,
+CM2-1-1,1,CM2,1511.0,1600001.0,SEG. SOCIAL.- URBANISME ......,110390.0,,110390.0,111435.94,111435.94,111435.94,111435.94,111435.94,-1045.94,29744.14,,,,,,
+CM2-1-1,1,CM2,1512.0,1600001.0,SEG. SOCIAL.- PROJECTES ......,54960.0,,54960.0,54753.83,54753.83,54753.83,54753.83,54753.83,206.17,29744.14,,,,,,
+CM1-1-1,1,CM1,1532.0,1600001.0,SEG. SOCIAL.- VIES PUBLIQUES...,71784.0,,71784.0,71514.72,71514.72,71514.72,71514.72,71514.72,269.28,29744.14,,,,,,
+CM1-1-1,1,CM1,1610.0,1600001.0,SEG. SOCIAL.- AIGUA I SANEJAMENT,9089.0,,9089.0,9054.9,9054.9,9054.9,9054.9,9054.9,34.1,29744.14,,,,,,
+SP1-1-1,1,SP1,1640.0,1600001.0,QUOTES SOCIALS-CEMENTERIS,,,,1460.04,1460.04,1460.04,1460.04,1460.04,-1460.04,29744.14,,,,,,
+CM1-1-1,1,CM1,1650.0,1600001.0,SEG. SOCIAL.- ENLLUMENAT ......,43929.0,,43929.0,43764.21,43764.21,43764.21,43764.21,43764.21,164.79,29744.14,,,,,,
+CM1-1-1,1,CM1,1710.0,1600001.0,SEG. SOCIAL.- PARCS I JARDIN,48921.0,,48921.0,48737.48,48737.48,48737.48,48737.48,48737.48,183.52,29744.14,,,,,,
+CM1-1-1,1,CM1,1711.0,1600001.0,SEG. SOCIAL.- CIUTAT I MEDI AMBIENT,93796.0,,93796.0,93444.15,93444.15,93444.15,93444.15,93444.15,351.85,29744.14,,,,,,
+CM6-1-1,1,CM6,1721.0,1600001.0,SEG. SOCIAL.- MEDI AMBIENT,27564.0,,27564.0,30776.58,30776.58,30776.58,30776.58,30776.58,-3212.58,29744.14,,,,,,
+SP1-2-1,1,SP1,2310.0,1600001.0,SEG. SOCIAL.- ATENCIÓ PRIMÀRIA,181714.0,8507.62,190221.62,174800.18,174800.18,174800.18,174800.18,174800.18,421.44,5604.45,15000.0,,,,,
+SP1-2-1,1,SP1,2311.0,1600001.0,SEG. SOCIAL.- MEDIACIÓ SOCIAL,529758.0,12500.0,542258.0,605395.71,605395.71,605395.71,605395.71,605395.71,-63137.71,5604.45,,,,,,
+SG8-2-1,1,SG8,2410.0,1600001.0,SEG. SOCIAL.- FORMACIÓ,11875.0,,11875.0,11830.45,11830.45,11830.45,11830.45,11830.45,44.55,5604.45,,,,,,
+SP1-3-1,1,SP1,3110.0,1600001.0,SEG. SOCIAL.-SANITAT ........,14369.0,,14369.0,14315.1,14315.1,14315.1,14315.1,14315.1,53.9,29410.7,,,,,,
+SP1-3-1,1,SP1,3230.0,1600001.0,SEG. SOCIAL.- EDUCACIO ......,50658.0,,50658.0,50467.97,50467.97,50467.97,50467.97,50467.97,190.03,29410.7,,,,,,
+SP1-3-1,1,SP1,3260.0,1600001.0,SEG. SOCIAL.- ESCOLES MUNICIPALS,48704.0,,48704.0,44304.34,44304.34,44304.34,44304.34,44304.34,-5600.34,29410.7,10000.0,,,,,
+SP3-3-1,1,SP3,3322.0,1600001.0,SEG. SOCIAL.- ARXIU I PATR..,27186.0,,27186.0,27084.02,27084.02,27084.02,27084.02,27084.02,101.98,29410.7,,,,,,
+SP3-3-1,1,SP3,3340.0,1600001.0,SEG. SOCIAL.- CULTURA ........,38755.0,,38755.0,38609.62,38609.62,38609.62,38609.62,38609.62,145.38,29410.7,,,,,,
+SP3-3-1,1,SP3,3370.0,1600001.0,SEG. SOCIAL.- JOVENTUT,19439.0,,19439.0,19366.08,19366.08,19366.08,19366.08,19366.08,72.92,29410.7,,,,,,
+SP3-3-1,1,SP3,3400.0,1600001.0,SEG. SOCIAL.- ESPORTS .......,156078.0,,156078.0,157078.55,157078.55,157078.55,157078.55,157078.55,-1000.55,29410.7,,,,,,
+SG8-4-1,1,SG8,4310.0,1600001.0,SEG. SOCIAL.- COMERÇ,6266.0,,6266.0,6242.49,6242.49,6242.49,6242.49,6242.49,23.51,2366.56,,,,,,
+SG8-4-1,1,SG8,4312.0,1600001.0,SEG. SOCIAL.- MERCATS,6136.0,,6136.0,6112.98,6112.98,6112.98,6112.98,6112.98,23.02,2366.56,,,,,,
+SG8-4-1,1,SG8,4330.0,1600001.0,SEG. SOCIAL.- ACTIVITATS,36677.0,,36677.0,36539.41,36539.41,36539.41,36539.41,36539.41,137.59,2366.56,,,,,,
+SG1-9-1,1,SG1,9120.0,1600001.0,SEG. SOCIAL.- ORG. GOVERN...,40191.0,,40191.0,41369.11,41369.11,41369.11,41369.11,41369.11,-1178.11,104188.02,,,,,,
+SG1-9-1,1,SG1,9202.0,1600001.0,SEG.SOCIAL.-SERVEIS JURÍDICS,75706.0,,75706.0,75422.01,75422.01,75422.01,75422.01,75422.01,283.99,104188.02,,,,,,
+SG1-9-1,1,SG1,9203.0,1600001.0,SEG. SOCIAL.- CONTRACTACIÓ,7001.0,,7001.0,6974.74,6974.74,6974.74,6974.74,6974.74,26.26,104188.02,,,,,,
+SG1-9-1,1,SG1,9205.0,1600001.0,SEG. SOCIAL.- REC. HUMANS,181995.0,,181995.0,106488.08,106488.08,106488.08,106488.08,106488.08,506.92,104188.02,75000.0,,,,,
+SG4-9-1,1,SG4,9206.0,1600001.0,SEG. SOCIAL.- INFORMATICA,15583.0,,15583.0,15524.54,15524.54,15524.54,15524.54,15524.54,58.46,104188.02,,,,,,
+SG1-9-1,1,SG1,9250.0,1600001.0,SEG. SOCIAL.- OFICINA ATENCIÓ AL CIUTADÀ,46124.0,,46124.0,45950.98,45950.98,45950.98,45950.98,45950.98,173.02,104188.02,,,,,,
+SG4-9-1,1,SG4,9311.0,1600001.0,SEG. SOCIAL.- INTERVENCIO.,36238.0,,36238.0,36102.06,36102.06,36102.06,36102.06,36102.06,135.94,104188.02,,,,,,
+SG4-9-1,1,SG4,9340.0,1600001.0,SEG. SOCIAL.- GESTIÓ TRIBUTÀRIA I RECAPTACIO,57103.0,,57103.0,56888.79,56888.79,56888.79,56888.79,56888.79,214.21,104188.02,,,,,,
+SG8-2-1,1,SG8,2410.0,1600011.0,SEGURETAT SOCIAL- PROJECTE,,160022.66,160022.66,152562.94,152562.94,152562.94,152562.94,152562.94,7459.72,8057.39,,,,,,
+SG1-9-1,1,SG1,9120.0,1600101.0,SEG.SOCIAL.-ORG.GOVERN D.EX.,74305.0,,74305.0,,,,,,74305.0,104188.02,,,,,,
+SG1-9-1,1,SG1,9205.0,1610401.0,INDEMNIZACIÓ PER JUBILACIONS ANTICIPADES,,,,10000.0,10000.0,10000.0,10000.0,10000.0,-10000.0,104188.02,,,,,,
+SG1-9-1,1,SG1,9205.0,1620001.0,FUNCIONARIS.- FORMACIÓ,7000.0,,7000.0,750.4,750.4,750.4,750.4,750.4,6249.6,104188.02,,,,,,
+SG1-9-1,1,SG1,9205.0,1620401.0,FUNCIONARIS.- ACCIO SOCIAL,75000.0,,75000.0,10839.14,10839.14,10839.14,10839.14,10839.14,64160.86,104188.02,,,,,,
+SG1-9-1,1,SG1,9205.0,1630001.0,PERSONAL LABORAL.- FORMACIO,6026.0,,6026.0,3656.0,3656.0,3656.0,3656.0,3656.0,2370.0,104188.02,,,,,,
+SG5-1-1,1,SG5,1300.0,1630201.0,PLUS TRANSPORT.- POLICIA.....,511.0,,511.0,511.0,511.0,511.0,511.0,511.0,,29744.14,,,,,,
+CM2-1-1,1,CM2,1511.0,1630201.0,PLUS TRANSPORT.- URBANISME...,5770.0,,5770.0,5018.16,5018.16,5018.16,5018.16,5018.16,751.84,29744.14,,,,,,
+CM2-1-1,1,CM2,1512.0,1630201.0,PLUS TRANSPORT.- OF.PROJECTES,3713.0,,3713.0,3453.28,3453.28,3453.28,3453.28,3453.28,259.72,29744.14,,,,,,
+CM1-1-1,1,CM1,1532.0,1630201.0,PLUS TRANSPORT.- VIAS PUBLIC.,3484.0,,3484.0,3339.31,3339.31,3339.31,3339.31,3339.31,144.69,29744.14,,,,,,
+CM1-1-1,1,CM1,1650.0,1630201.0,PLUS TRANSPORT.- ENLLUMENAT ..,1690.0,,1690.0,1690.0,1690.0,1690.0,1690.0,1690.0,,29744.14,,,,,,
+CM1-1-1,1,CM1,1710.0,1630201.0,PLUS TRANSPORT.- PARQ.Y JARD.,3484.0,,3484.0,2793.81,2793.81,2793.81,2793.81,2793.81,690.19,29744.14,,,,,,
+CM1-1-1,1,CM1,1711.0,1630201.0,PLUS TRANSPORT.- CIUTAT I MEDI AMBIENT,5527.0,,5527.0,4826.41,4826.41,4826.41,4826.41,4826.41,700.59,29744.14,,,,,,
+CM6-1-1,1,CM6,1721.0,1630201.0,PLUS TRANSPORT.- MEDI AMBIENT,1619.0,,1619.0,784.13,784.13,784.13,784.13,784.13,834.87,29744.14,,,,,,
+SP1-2-1,1,SP1,2310.0,1630201.0,PLUS TRANSPORTE.- ASISTENCIA SOCIAL,10753.0,,10753.0,10099.17,10099.17,10099.17,10099.17,10099.17,653.83,5604.45,,,,,,
+SP1-2-1,1,SP1,2311.0,1630201.0,PLUS TRANSPORTE.- MEDIACIÓ SOCIAL,33233.0,,33233.0,29806.33,29806.33,29806.33,29806.33,29806.33,3426.67,5604.45,,,,,,
+SG8-2-1,1,SG8,2410.0,1630201.0,PLUS TRANSPORT.- FORMACIÓ,511.0,,511.0,467.61,467.61,467.61,467.61,467.61,43.39,5604.45,,,,,,
+SP1-3-1,1,SP1,3110.0,1630201.0,PLUS TRANSPORT.-SANITAT.....,996.0,,996.0,859.04,859.04,859.04,859.04,859.04,136.96,29410.7,,,,,,
+SP1-3-1,1,SP1,3230.0,1630201.0,PLUS TRANSPORT.- EDUCACIO....,3887.0,,3887.0,3836.47,3836.47,3836.47,3836.47,3836.47,50.53,29410.7,,,,,,
+SP3-3-1,1,SP3,3322.0,1630201.0,PLUS TRANSPORT.- ARXIU I P.,1038.0,,1038.0,1037.52,1037.52,1037.52,1037.52,1037.52,0.48,29410.7,,,,,,
+SP3-3-1,1,SP3,3340.0,1630201.0,PLUS TRANSPORT.- CULTURA.....,3008.0,,3008.0,2390.03,2390.03,2390.03,2390.03,2390.03,617.97,29410.7,,,,,,
+SP3-3-1,1,SP3,3370.0,1630201.0,PLUS TRANSPORT.-JOVENTUT,1742.0,,1742.0,1540.0,1540.0,1540.0,1540.0,1540.0,202.0,29410.7,,,,,,
+SP3-3-1,1,SP3,3400.0,1630201.0,PLUS TRANSPORT.-.M.ESPORTS,9842.0,,9842.0,9842.0,9842.0,9842.0,9842.0,9842.0,,29410.7,,,,,,
+SG8-4-1,1,SG8,4310.0,1630201.0,PLUS TRANSPORT.-COMERÇ,511.0,,511.0,510.12,510.12,510.12,510.12,510.12,0.88,2366.56,,,,,,
+SG8-4-1,1,SG8,4312.0,1630201.0,PLUS DE TRANSPORT,511.0,,511.0,510.12,510.12,510.12,510.12,510.12,0.88,2366.56,,,,,,
+SG8-4-1,1,SG8,4330.0,1630201.0,PLUS TRANSPORT.-ACTIVITATS,1197.0,,1197.0,1196.52,1196.52,1196.52,1196.52,1196.52,0.48,2366.56,,,,,,
+SG1-9-1,1,SG1,9120.0,1630201.0,PLUS TRANSPORTE.- ALCALDIA,1830.0,,1830.0,1829.4,1829.4,1829.4,1829.4,1829.4,0.6,104188.02,,,,,,
+SG1-9-1,1,SG1,9202.0,1630201.0,PLUS TRANSPORT.-SERVEIS JURÍDICS.,3862.0,,3862.0,3851.5,3851.5,3851.5,3851.5,3851.5,10.5,104188.02,,,,,,
+SG4-9-1,1,SG4,9206.0,1630201.0,PLUS TRANSPORT.- INFORMATICA.,1021.0,,1021.0,1011.74,1011.74,1011.74,1011.74,1011.74,9.26,104188.02,,,,,,
+SG1-9-1,1,SG1,9250.0,1630201.0,PLUS TRANSPORT.- OFICINA ATENCIÓ AL CIUTADÀ,3483.0,,3483.0,3376.27,3376.27,3376.27,3376.27,3376.27,106.73,104188.02,,,,,,
+SG4-9-1,1,SG4,9311.0,1630201.0,PLUS TRANSPORT.- GEST.PRESUP.,1531.0,,1531.0,1286.64,1286.64,1286.64,1286.64,1286.64,244.36,104188.02,,,,,,
+SG4-9-1,1,SG4,9340.0,1630201.0,PLUS TRANSPORT.- GESTIÓ TRIBUTÀRIA I RECAPTACIÓ,2463.0,,2463.0,2463.0,2463.0,2463.0,2463.0,2463.0,,104188.02,,,,,,
+SG1-9-1,1,SG1,9205.0,1630401.0,PERSONAL LABORAL.- ACCIO SOC.,125000.0,,125000.0,190390.74,190390.74,190390.74,190390.74,190390.74,-65390.74,104188.02,,,,,,
+SG1-9-1,1,SG1,9205.0,1630501.0,PERSONAL LABORAL.-ASSEGURANCES,4500.0,,4500.0,,,,,,4500.0,104188.02,,,,,,
+SG5-1-2,2,SG5,1300.0,2000001.0,LLOGUER TERRENYS.- POLICIA,167000.0,,167000.0,183962.19,138442.66,126405.38,116130.54,116130.54,-16962.19,7524.4,,45519.53,12037.28,10274.84,,
+SG5-1-2,2,SG5,1300.0,2020001.0,LLOGUERS D'EDIFICIS- POLICIA,25000.0,,25000.0,22485.68,22485.68,16537.0,16473.55,16473.55,2514.32,7524.4,,,5948.68,63.45,,
+SP1-1-2,2,SP1,1522.0,2020001.0,LLOGUERS D'EDIFICIS- HABITATGE,15000.0,,15000.0,18609.2,18609.2,15006.74,10619.28,10619.28,-3609.2,535.2,,,3602.46,4387.46,,
+CM1-1-2,2,CM1,1711.0,2020001.0,LLOGUERS EDIFICIS- MICROCIUTAT,17000.0,,17000.0,19422.93,19422.93,19422.93,16233.37,16233.37,-2674.24,30398.07,251.31,,,3189.56,,
+CM6-1-2,2,CM6,1721.0,2020001.0,LLOGUERS D'EDIFICIS I ALTRES CONSTRUC,,,,426.0,426.0,426.0,426.0,426.0,-426.0,24835.11,,,,,,
+SP1-2-2,2,SP1,2310.0,2020001.0,LLOGUERS D'EDIFICIS.- ATENCIO PRIMARIA,27500.0,4138.95,31638.95,32054.76,32054.76,32054.76,29262.1,28028.06,-415.81,4732.11,,,,2792.66,1234.04,
+SP3-3-2,2,SP3,3322.0,2020001.0,LLOGUER DEPENDÈNCIES - ARXIU,28000.0,,28000.0,27139.55,27139.55,27139.55,27139.55,27139.55,860.45,66916.12,,,,,,
+SG4-9-2,2,SG4,9311.0,2020001.0,LLOGUER EDIFICI SANT ROC .- GESTIÓ PRES.,27000.0,,27000.0,26972.64,26972.64,26972.64,26972.64,26972.64,27.36,147.23,,,,,,
+SG1-9-2,2,SG1,9203.0,2030001.0,LLOGUER MAQUINARIA.- CONTRACTACIO,40000.0,,40000.0,21523.94,21523.94,21523.94,19650.63,19650.63,18476.06,36970.37,,,,1873.31,,
+CM1-1-2,2,CM1,1652.0,2040001.0,LLOGUERS DE MATERIAL DE TRANSPORT,,4682.53,4682.53,4682.53,4682.53,4682.53,4682.53,4682.53,,,,,,,,
+CM1-1-2,2,CM1,1711.0,2040001.0,LLOGUER VEHICLES.-MICROCIUTAT,35000.0,,35000.0,29322.49,29322.49,29322.49,26157.12,26157.12,5677.51,30398.07,,,,3165.37,,
+SG5-1-2,2,SG5,1300.0,2100001.0,CONSERVACIÓ VIES PÚBLIQUES.- POLICIA,10000.0,,10000.0,9491.3,9491.3,9491.3,9491.3,9491.3,508.7,7524.4,,,,,,
+CM1-1-2,2,CM1,1532.0,2100001.0,REP.MANT.VIES PUBL.- VIES PUBLIQUES,175000.0,14012.71,189012.71,162495.46,162495.46,162495.46,142104.76,142104.76,2145.55,30398.07,24371.7,,,20390.7,,
+CM1-1-2,2,CM1,1624.0,2100001.0,INFRAESTRUCTURA I BENS NATURALS,,,,14012.71,14012.71,14012.71,14012.71,14012.71,-14012.71,30398.07,,,,,,
+CM1-1-2,2,CM1,1710.0,2100001.0,REP.MANT.VIES PUBL.- PARCS I JARDINS,50000.0,35110.59,85110.59,93450.44,93450.44,93450.44,78510.49,78510.49,-8339.85,18642.18,,,,14939.95,,
+SG5-1-2,2,SG5,1300.0,2120001.0,REP.MANT.EDIFICIS.- POLICIA,1000.0,109.96,1109.96,1560.71,1560.71,1560.71,1560.71,1560.71,-450.75,7524.4,,,,,,
+SP1-1-2,2,SP1,1640.0,2120001.0,REP.MANT.ZONES CEMENTIRI,5500.0,,5500.0,3166.34,3166.34,3166.34,320.65,320.65,2333.66,535.2,,,,2845.69,,
+CM1-1-2,2,CM1,1652.0,2120001.0,EDIFICIS I ALTRES CONSTRUCCIONS,,2346.52,2346.52,2346.52,2346.52,2346.52,2346.52,2346.52,,,,,,,,
+CM1-1-2,2,CM1,1711.0,2120001.0,REP.MANT.EDIFICIS.-  MICROCIUTAT,50000.0,,50000.0,57503.44,57503.44,57503.44,50022.11,50022.11,-7503.44,30398.07,,,,7481.33,,
+SP1-2-2,2,SP1,2311.0,2120001.0,REP.MANT.EDIFICIS.- RGA,65200.0,,65200.0,11687.61,11687.61,11687.61,6186.96,6186.96,8820.53,4732.11,44691.86,,,5500.65,,
+SP2-3-2,2,SP2,3210.0,2120001.0,EDIFICIS I ALTRES CONSTRUCCIONS,,3731.23,3731.23,3731.23,3731.23,3731.23,3731.23,3731.23,,,,,,,,
+SP1-3-2,2,SP1,3230.0,2120001.0,REP.MANT.EDIFICIS.- EDUCACIO,30000.0,75000.0,105000.0,93841.28,93841.28,93841.28,90847.99,90847.99,11158.72,36148.95,,,,2993.29,,
+SP3-3-2,2,SP3,3300.0,2120001.0,REP.MANT.EDIFICIS.- CULTURA,10000.0,-7000.0,3000.0,1221.16,1221.16,1221.16,1190.91,1190.91,1778.84,66916.12,,,,30.25,,
+SP2-3-2,2,SP2,3341.0,2120001.0,EDIFICIS I ALTRES CONSTRUCCIONS,,242.96,242.96,242.96,242.96,242.96,242.96,242.96,,,,,,,,
+SP3-3-2,2,SP3,3341.0,2120001.0,REP.MANT.EDIFICIS.- CENTRE ART HDEZ  SANZ,10000.0,,10000.0,12608.84,12608.84,12608.84,12608.84,12608.84,-2608.84,66916.12,,,,,,
+SP3-3-2,2,SP3,3400.0,2120001.0,REP.MANT.EDIFICIS.- ESPORTS,10000.0,,10000.0,365.13,365.13,365.13,365.13,365.13,9634.87,66916.12,,,,,,
+SG5-1-2,2,SG5,1300.0,2130001.0,REP.MANT.MAQ.INSTAL.UTIL.- POLICIA,10000.0,,10000.0,4282.53,4282.53,4191.78,2714.74,2714.74,5717.47,7524.4,,,90.75,1477.04,,
+CM2-1-2,2,CM2,1511.0,2130001.0,"MAQUINARIA, INSTAL.LACIONS I ESTRIS,. URBANISME",2000.0,,2000.0,,,,,,2000.0,33669.03,,,,,,
+CM1-1-2,2,CM1,1650.0,2130001.0,REP.MANT.MAQ.INSTAL.UTIL.- ENLLUM. PUB.,60000.0,6141.4,66141.4,61088.35,61088.35,57497.94,51120.99,51120.99,-407.79,18642.18,5460.84,,3590.41,6376.95,,
+CM1-1-2,2,CM1,1710.0,2130001.0,REP.MANT.MAQ.INSTAL.UTIL.- PARCS I JARD.,3000.0,95.13,3095.13,2706.51,2706.51,2706.51,2442.67,2442.67,-89.85,18642.18,478.47,,,263.84,,
+CM1-1-2,2,CM1,1711.0,2130001.0,REP.MANT.MAQ.INSTAL.UTIL.-MICROCIUTAT,80000.0,,80000.0,60927.77,60927.77,60861.22,55945.37,55945.37,-618.94,30398.07,19691.17,,66.55,4915.85,,
+SP1-2-2,2,SP1,2310.0,2130001.0,REP.MANT.MAQ.INSTAL.UTIL.-ATEN. PRIMÀRIA,4000.0,,4000.0,2574.18,2574.18,2574.18,2217.08,2217.08,1425.82,4732.11,,,,357.1,,
+SP1-2-2,2,SP1,2311.0,2130001.0,REP.MANT.MAQ.INSTAL.UTIL.- R.G.A,55000.0,,55000.0,95908.5,95908.5,94972.13,62913.38,62913.38,-40908.5,4732.11,,,936.37,32058.75,,
+SP1-3-2,2,SP1,3120.0,2130001.0,"MAQUINARIA, INSTAL.LACIONS I ESTRIS",,9362.44,9362.44,9362.44,9362.44,9362.44,9362.44,9362.44,,,,,,,,
+SP1-3-2,2,SP1,3230.0,2130001.0,REP.MANT.MAQ.INSTAL.UTIL.- EDUCACIO,37000.0,9033.8,46033.8,38584.12,38584.12,38584.12,35613.94,34388.81,1663.26,36148.95,5786.42,,,2970.18,1225.13,
+SP3-3-2,2,SP3,3300.0,2130001.0,REP.MANT.MAQ.INSTAL.UTIL.- SM CULTURA SC,10000.0,-7000.0,3000.0,3733.26,3733.26,3733.26,2844.05,2844.05,-733.26,66916.12,,,,889.21,,
+SP3-3-2,2,SP3,3322.0,2130001.0,REP.MANT.MAQ.INSTAL.UTIL.- ARXIU,500.0,,500.0,456.81,456.81,456.81,456.81,456.81,43.19,66916.12,,,,,,
+SP3-3-2,2,SP3,3400.0,2130001.0,REP.MANT.MAQ.INSTAL.UTIL.- ESPORTS,45000.0,381.26,45381.26,54875.06,54875.06,54875.06,42450.92,42450.92,-9493.8,66916.12,,,,12424.14,,
+SG1-9-2,2,SG1,9120.0,2130001.0,REP.MANT.MAQ.INSTAL.UTIL.- ORG. GOVERN,500.0,,500.0,,,,,,500.0,36970.37,,,,,,
+SG1-9-2,2,SG1,9203.0,2130001.0,REP.MANT.MAQ.INSTAL.UTIL.- CONTRACTACIÓ,300.0,,300.0,1266.36,1266.36,1266.36,1266.36,1266.36,-966.36,36970.37,,,,,,
+SG4-9-2,2,SG4,9311.0,2130001.0,"MAQUINARIA, INSTAL.LACIONS.- SERV. ECONÒMICS",1000.0,,1000.0,128.68,128.68,128.68,128.68,128.68,871.32,147.23,,,,,,
+SG5-1-2,2,SG5,1300.0,2140001.0,REP.MANT.VEHICLES.- POLICIA,18000.0,,18000.0,13454.42,13454.42,13454.42,11190.24,11190.24,4545.58,7524.4,,,,2264.18,,
+CM1-1-2,2,CM1,1652.0,2140001.0,REPARACIÓ DE VEHICLES,,734.78,734.78,734.78,734.78,734.78,734.78,734.78,,,,,,,,
+CM1-1-2,2,CM1,1711.0,2140001.0,REP.MANT.VEHICLES.-  MICROCIUTAT,12000.0,,12000.0,21454.22,21454.22,21454.22,16098.69,16098.69,-9454.22,30398.07,,,,5355.53,,
+SP1-2-2,2,SP1,2311.0,2140001.0,REP.MANT.VEHICLES.- R.G.A,10000.0,,10000.0,3882.99,3882.99,3882.99,3703.06,3703.06,6117.01,4732.11,,,,179.93,,
+SP1-3-2,2,SP1,3230.0,2140001.0,REP.MANT.VEHICLES.-EDUCACIO,400.0,,400.0,282.31,282.31,282.31,,,117.69,36148.95,,,,282.31,,
+SG4-9-2,2,SG4,9206.0,2160001.0,REP.MANT.EQUIPS INFORMATICS.,5000.0,,5000.0,3261.12,3261.12,3261.12,1431.31,1431.31,-219.19,147.23,1958.07,,,1829.81,,
+SP1-2-2,2,SP1,2310.0,2200001.0,MAT. OFICINA ORDINARI.- ATENCIÓ PRIMARIA,700.0,181.12,881.12,737.94,737.94,737.94,669.69,669.69,143.18,4732.11,,,,68.25,,
+SP1-2-2,2,SP1,2311.0,2200001.0,MAT. OFICINA ORDINARI.- RGA,200.0,,200.0,879.51,879.51,879.51,274.73,274.73,-679.51,4732.11,,,,604.78,,
+SP3-3-2,2,SP3,3400.0,2200001.0,MAT. OFICINA ORDINARI.- ESPORTS,600.0,,600.0,600.0,600.0,600.0,600.0,600.0,,66916.12,,,,,,
+SG1-9-2,2,SG1,9120.0,2200001.0,MAT. OFICINA ORDINARI.- ORG. GOVERN,100.0,,100.0,,,,,,100.0,36970.37,,,,,,
+SG1-9-2,2,SG1,9250.0,2200001.0,MAT. OFICINA ORDINARI.- OAC,500.0,,500.0,24.2,24.2,24.2,24.2,24.2,475.8,36970.37,,,,,,
+SG4-9-2,2,SG4,9311.0,2200001.0,MAT. OFICINA ORDINARI.- GESTIÓ PRES.,18000.0,,18000.0,21100.08,21100.08,21100.08,18000.0,17254.21,-3100.08,147.23,,,,3100.08,745.79,
+SP3-3-2,2,SP3,3322.0,2200101.0,"PREMSA, LLIBRES, SUBSCRIPCIONS- ARXIU",700.0,,700.0,857.23,857.23,857.23,589.87,589.87,-223.85,66916.12,66.62,,,267.36,,
+SG1-9-2,2,SG1,9120.0,2200101.0,"PREMSA,  LLIBRES, SUBSCRIP.- ORG. GOVERN",700.0,,700.0,139.44,139.44,139.44,139.44,139.44,560.56,36970.37,,,,,,
+SG4-9-2,2,SG4,9311.0,2200101.0,"PREMSA, LLIBRES, SUBSCRIP..- G. PRES.",600.0,,600.0,560.0,560.0,560.0,560.0,560.0,,147.23,40.0,,,,,
+SG4-9-2,2,SG4,9311.0,2200201.0,MAT.INFORMÀTIC CONSUM. - GESTIÓ PRES.,3000.0,,3000.0,1082.32,1082.32,1082.32,1082.32,1082.32,1917.68,147.23,,,,,,
+CM1-1-2,2,CM1,1650.0,2210001.0,ENERGIA ELECTRICA.-ENLLUMENAT PUBLIC I EDIFICIS MPALS.,950000.0,,950000.0,819977.41,819977.41,819977.41,710340.48,710340.48,,18642.18,130022.59,,,109636.93,,
+SP1-3-2,2,SP1,3230.0,2210101.0,SUBMINISTRAMENT D'AIGUA.- EDUCACIÓ,1400.0,,1400.0,,,,,,1400.0,36148.95,,,,,,
+SG5-1-2,2,SG5,1300.0,2210301.0,COMBUSTIBLE I CARBURANTS.- POLICIA,28000.0,,28000.0,23553.47,23553.47,17123.58,15608.6,15608.6,4446.53,7524.4,,,6429.89,1514.98,,
+CM1-1-2,2,CM1,1652.0,2210301.0,COMBUSTIBLES I CARB.,,3893.7,3893.7,3893.7,3893.7,3893.7,3893.7,3893.7,,,,,,,,
+CM1-1-2,2,CM1,1711.0,2210301.0,COMBUSTIBLE I CARBURANTS.-  MICROCIUTAT,20000.0,,20000.0,17019.85,17019.85,15934.31,13146.23,13146.23,2980.15,30398.07,,,1085.54,2788.08,,
+SP1-2-2,2,SP1,2311.0,2210301.0,COMBUSTIBLE I CARBURANTS.- R.G.A,72000.0,,72000.0,54681.72,54681.72,54085.45,43288.63,43288.63,17318.28,4732.11,,,596.27,10796.82,,
+SP1-3-2,2,SP1,3110.0,2210301.0,COMBUSTIBLE I CARBURANTS.- LLACER,450.0,,450.0,315.05,315.05,301.88,301.88,301.88,134.95,36148.95,,,13.17,,,
+SP1-3-2,2,SP1,3120.0,2210301.0,COMBUSTIBLES I CARB.,,8939.49,8939.49,8939.49,8939.49,8939.49,8939.49,8939.49,,,,,,,,
+SP2-3-2,2,SP2,3210.0,2210301.0,COMBUSTIBLES I CARB.,,3055.78,3055.78,3055.78,3055.78,3055.78,3055.78,3055.78,,,,,,,,
+SP1-3-2,2,SP1,3230.0,2210301.0,COMBUSTIBLE I CARBURANTS.-EDUCACIO,58000.0,,58000.0,26280.34,26280.34,26178.78,23893.26,23893.26,31719.66,36148.95,,,101.56,2285.52,,
+SP3-3-2,2,SP3,3400.0,2210301.0,COMBUSTIBLE I CARBURANTS.-ESPORTS,70000.0,8534.52,78534.52,29363.94,29363.94,28698.94,28647.97,28647.97,49170.58,66916.12,,,665.0,50.97,,
+SG8-4-2,2,SG8,4312.0,2210301.0,COMBUSTIBLE I CARBURANTS.- PEIXATERIA,2000.0,,2000.0,602.58,602.58,602.58,602.58,602.58,1397.42,45189.56,,,,,,
+SG5-1-2,2,SG5,1300.0,2210401.0,VESTUARI.-POLICIA,35000.0,,35000.0,15617.75,15617.75,15617.75,11133.25,11133.25,19382.25,7524.4,,,,4484.5,,
+CM1-1-2,2,CM1,1652.0,2210401.0,VESTUARI,,707.81,707.81,707.81,707.81,707.81,707.81,707.81,,,,,,,,
+CM1-1-2,2,CM1,1711.0,2210401.0,VESTUARI. -  MICROCIUTAT,18000.0,,18000.0,6918.41,6918.41,6918.41,6544.16,6544.16,,30398.07,11081.59,,,374.25,,
+SP1-2-2,2,SP1,2310.0,2210401.0,"VESTUARI,-ATENCIÓ PRIMÀRIA",350.0,,350.0,,,,,,350.0,4732.11,,,,,,
+SP1-2-2,2,SP1,2311.0,2210401.0,"VESTUARI,-R.G.A",6000.0,,6000.0,4317.45,4317.45,4317.45,4317.45,4317.45,1682.55,4732.11,,,,,,
+SP1-3-2,2,SP1,3230.0,2210401.0,VESTUARI.- EDUCACIÓ,200.0,,200.0,139.39,139.39,139.39,139.39,139.39,60.61,36148.95,,,,,,
+SP3-3-2,2,SP3,3400.0,2210401.0,VESTUARI ESPORTS,5000.0,,5000.0,701.41,701.41,701.41,701.41,701.41,4298.59,66916.12,,,,,,
+SP1-2-2,2,SP1,2311.0,2210501.0,PRODUCTES ALIMENTICIS.-RGA,170000.0,-30000.0,140000.0,151096.83,151096.83,151096.83,122335.76,122335.76,-11096.83,4732.11,,,,28761.07,,
+SP1-3-2,2,SP1,3120.0,2210501.0,PRODUCTES ALIMENTICIS,,23831.5,23831.5,23831.5,23831.5,23831.5,23831.5,23831.5,,,,,,,,
+SP1-2-2,2,SP1,2311.0,2210601.0,PRODUCTES FARMACÈUTICS.-R.G.A,2500.0,,2500.0,2185.49,2185.49,2185.49,2185.49,2185.49,314.51,4732.11,,,,,,
+SP3-3-2,2,SP3,3400.0,2210601.0,PRODUCTES FARMACÈUTICS.-ESPORTS,1000.0,,1000.0,,,,,,1000.0,66916.12,,,,,,
+SP1-2-2,2,SP1,2311.0,2211001.0,PRODUCTES DE HIGIENE.-R.G.A,18000.0,,18000.0,24870.61,24870.61,24870.61,17887.43,17887.43,-6870.61,4732.11,,,,6983.18,,
+SP1-3-2,2,SP1,3120.0,2211001.0,PRODUCTES HIGIENE,,3033.25,3033.25,3033.25,3033.25,3033.25,3033.25,3033.25,,,,,,,,
+SG8-4-2,2,SG8,4312.0,2211001.0,PRODUCTES DE HIGIENE- PEIXATERIA,1000.0,,1000.0,2030.95,2030.95,2030.95,2030.95,2030.95,-1030.95,45189.56,,,,,,
+SG5-1-2,2,SG5,1300.0,2219901.0,PRODUCTES VARIS.-  POLICIA,25000.0,,25000.0,22918.86,22918.86,22918.86,18885.53,18885.53,2081.14,7524.4,,,,4033.33,,
+CM2-1-2,2,CM2,1512.0,2219901.0,PRODUCTES VARIS.- OBRA PUBLICA,800.0,,800.0,481.97,481.97,481.97,333.69,333.69,318.03,33669.03,,,,148.28,,
+SP1-2-2,2,SP1,2311.0,2219901.0,PRODUCTES VARIS.- R.G.A,6000.0,,6000.0,4444.6,4444.6,4444.6,4356.51,4356.51,1555.4,4732.11,,,,88.09,,
+SP3-3-2,2,SP3,3400.0,2219901.0,PRODUCTES VARIS.- ESPORTS,9000.0,,9000.0,5087.5,5087.5,5087.5,5087.5,5087.5,3912.5,66916.12,,,,,,
+SG4-9-2,2,SG4,9206.0,2219901.0,PRODUCTES VARIS.-  INFORMATICA,4000.0,9.99,4009.99,3077.25,2828.1,2828.1,2711.58,2711.58,,147.23,932.74,249.15,,116.52,,
+SG4-9-2,2,SG4,9311.0,2219901.0,PRODUCTES VARIS.- GESTIÓ PRES.,3000.0,,3000.0,3000.0,3000.0,3000.0,3000.0,3000.0,,147.23,,,,,,
+SG4-9-2,2,SG4,9206.0,2220001.0,COMUNICACIONS TELEFÒNIQUES.,50000.0,,50000.0,45702.91,45702.91,45702.91,36610.31,36610.31,-1268.21,147.23,5565.3,,,9092.6,,
+SG4-9-2,2,SG4,9340.0,2220101.0,COM. POSTALS (SEGELLS).- G. FINANCERA,70000.0,,70000.0,50288.24,50288.24,50288.24,49525.07,49525.07,19711.76,147.23,,,,763.17,,
+SG5-1-2,2,SG5,1300.0,2240001.0,ASSEGURANCES.-POLICIA,8000.0,,8000.0,6979.95,6979.95,6979.95,6979.95,6979.95,1020.05,7524.4,,,,,,
+SP1-2-2,2,SP1,2311.0,2240001.0,ASSEGURANCES.-R.G.A,7500.0,,7500.0,6833.04,6833.04,6833.04,6833.04,6833.04,666.96,4732.11,,,,,,
+SP1-3-2,2,SP1,3230.0,2240001.0,ASSEGURANCES.- EDUCACIO,300.0,,300.0,300.0,300.0,300.0,300.0,300.0,,36148.95,,,,,,
+SP3-3-2,2,SP3,3380.0,2240001.0,ASSEGURANCES.-FESTES,10000.0,,10000.0,6076.52,6076.52,6076.52,5201.83,5201.83,3923.48,66916.12,,,,874.69,,
+SP3-3-2,2,SP3,3400.0,2240001.0,ASSEGURANCES ESPORTS,4000.0,,4000.0,2260.89,2260.89,2260.89,2260.89,2260.89,1739.11,66916.12,,,,,,
+SG1-9-2,2,SG1,9202.0,2240001.0,ASSEGURANCES.-SECRETARIA,55000.0,,55000.0,46609.55,46609.55,46609.55,46609.55,46609.55,8390.45,36970.37,,,,,,
+CM1-1-2,2,CM1,1610.0,2250001.0,TRIBUTS.- AIGUA I SANEJAMENT,30000.0,,30000.0,28389.53,28389.53,28389.53,22470.33,22470.33,-946.38,18642.18,2556.85,,,5919.2,,
+CM1-1-2,2,CM1,1532.0,2260001.0,CONCESSIÓN CANON COSTES- CASETA CREU ROJA,1500.0,,1500.0,1145.29,1145.29,1145.29,1145.29,1145.29,354.71,30398.07,,,,,,
+CM1-1-2,2,CM1,1610.0,2260001.0,CONCESSIONS ADMINISTRATIVES.-AIGUA,10000.0,,10000.0,8619.08,8619.08,8619.08,8619.08,8619.08,1380.92,18642.18,,,,,,
+SG1-9-2,2,SG1,9120.0,2260101.0,ATENCIONS REPRESENTATIVES.- ORG. GOV.,10000.0,,10000.0,6186.08,6186.08,6186.08,6186.08,6186.08,3800.7,36970.37,13.22,,,,,
+CM2-1-2,2,CM2,1511.0,2260201.0,PUBLICITAT I PROPAGANDA.-  URBANISME,3000.0,,3000.0,1309.1,1309.1,1309.1,1309.1,1309.1,1690.9,33669.03,,,,,,
+SP1-1-2,2,SP1,1522.0,2260201.0,PUBLICITAT I PROPAGANDA- HABITATGE,1500.0,,1500.0,,,,,,1500.0,535.2,,,,,,
+CM6-1-2,2,CM6,1721.0,2260201.0,PUBLICITAT I PROPAGANDA.- MEDI AMBIENT,10000.0,,10000.0,9188.21,9188.21,9188.21,8836.1,8836.1,811.79,24835.11,,,,352.11,,
+SP1-2-2,2,SP1,2310.0,2260201.0,PUBLICITAT I PROPAGANDA.-  ATE.PRIMÀRIA,4000.0,,4000.0,4184.72,4184.72,4184.72,2600.92,2600.92,-184.72,4732.11,,,,1583.8,,
+SP1-3-2,2,SP1,3230.0,2260201.0,PUBLICITAT I PROPAGANDA.- EDUCACIO,300.0,2200.0,2500.0,,,,,,2500.0,36148.95,,,,,,
+SP1-3-2,2,SP1,3260.0,2260201.0,PUBLICITAT I PROPAGANDA.- ESC.MUNICIPALS,1500.0,,1500.0,1437.48,1437.48,1437.48,1437.48,1437.48,62.52,36148.95,,,,,,
+SP3-3-2,2,SP3,3322.0,2260201.0,PUBLICITAT I PROPAGANDA.- ARXIU,1000.0,,1000.0,993.41,993.41,993.41,993.41,993.41,6.59,66916.12,,,,,,
+SP3-3-2,2,SP3,3341.0,2260201.0,PUBLICITAT I PROPAGANDA.- CENTRE ART HDEZ  SANZ,5000.0,,5000.0,5293.07,5293.07,5293.07,4603.37,4603.37,-293.07,66916.12,,,,689.7,,
+SP3-3-2,2,SP3,3344.0,2260201.0,PUBLICITAT I PROPAGANDA.- PROMO. CULT.,14800.0,,14800.0,10441.43,10441.43,10441.43,9159.18,9159.18,4358.57,66916.12,,,,1282.25,,
+SP3-3-2,2,SP3,3370.0,2260201.0,PUBLICITAT I PROPAGANDA.-OCI I TEMPS LLIURE,1000.0,231.11,1231.11,912.37,912.37,912.37,717.97,717.97,318.74,66916.12,,,,194.4,,
+SP3-3-2,2,SP3,3380.0,2260201.0,PUBLICITAT I PROPAGANDA.- FESTES,24000.0,,24000.0,15916.0,15916.0,15916.0,12718.87,12718.87,8084.0,66916.12,,,,3197.13,,
+SG8-4-2,2,SG8,4310.0,2260201.0,PUBLICITAT I PROPAGANDA.-COMERÇ,4000.0,,4000.0,7439.74,7439.74,7439.74,5273.23,5273.23,-3439.74,45189.56,,,,2166.51,,
+SG8-4-2,2,SG8,4320.0,2260201.0,PUBLICITAT I PROPAGANDA.-TURISME,6000.0,,6000.0,6097.99,6097.99,6097.99,6097.99,6097.99,-97.99,45189.56,,,,,,
+SG1-9-2,2,SG1,9202.0,2260201.0,PUBLICITAT I PROPAGANDA.- SECRETARIA,300.0,,300.0,,,,,,300.0,36970.37,,,,,,
+SG1-9-2,2,SG1,9203.0,2260201.0,PUBLICITAT I PROPAGANDA.-CONTRACTACIO,6000.0,,6000.0,4077.89,4077.89,4077.89,3548.63,3548.63,1922.11,36970.37,,,,529.26,,
+SG1-9-2,2,SG1,9250.0,2260201.0,PUBLICITAT I PROPAGANDA.- OAC,1000.0,,1000.0,139.39,139.39,139.39,139.39,139.39,860.61,36970.37,,,,,,
+SG1-9-2,2,SG1,9260.0,2260201.0,PUBLICITAT I PROPAGANDA.-COMUNICACIO,20000.0,,20000.0,16796.8,16796.8,16796.8,15526.3,15526.3,3203.2,7540.97,,,,1270.5,,
+CM2-1-2,2,CM2,1511.0,2260401.0,DESPESES JURÍDIQUES.-URBANISME,2500.0,,2500.0,1463.76,1463.76,1463.76,1149.65,1149.65,1036.24,33669.03,,,,314.11,,
+SG1-9-2,2,SG1,9202.0,2260401.0,DESPESES JURIDIQUES.- SECRETARIA,18000.0,,18000.0,9611.37,9611.37,9611.37,8671.39,8671.39,8388.63,36970.37,,,,939.98,,
+SG1-9-2,2,SG1,9205.0,2260601.0,CURSOS FORMACIÓN INTERNA S.-RRHH,4000.0,,4000.0,9000.0,9000.0,9000.0,9000.0,9000.0,-5000.0,36970.37,,,,,,
+SG5-1-2,2,SG5,1300.0,2269901.0,ALTRES DESPESES VÀRIES.- POLICIA,16000.0,,16000.0,14565.31,14341.35,14341.35,13214.79,13214.79,1434.69,7524.4,,223.96,,1126.56,,
+CM2-1-2,2,CM2,1511.0,2269901.0,ALTRES DESPESES VÀRIES.- URBANISME,4500.0,,4500.0,3576.93,3576.93,3576.93,3576.93,3576.93,923.07,33669.03,,,,,,
+SP1-1-2,2,SP1,1522.0,2269901.0,ALTRES DESPESES.- HABITATGE,15000.0,-5500.0,9500.0,15223.86,15223.86,15223.86,9500.0,9500.0,-5723.86,535.2,,,,5723.86,,
+CM1-1-2,2,CM1,1621.0,2269901.0,ALTRES DESPESES VARIES.-RSU,30000.0,,30000.0,10679.22,10679.22,10679.22,9295.01,9295.01,-592.87,18642.18,19913.65,,,1384.21,,
+SP1-1-2,2,SP1,1640.0,2269901.0,ALTRES DESPESES VÀRIES.- SANITAT,400.0,,400.0,365.4,365.4,365.4,362.71,362.71,34.6,535.2,,,,2.69,,
+CM1-1-2,2,CM1,1652.0,2269901.0,ALTRES DESPESES VÀRIES,,8854.36,8854.36,8854.36,8854.36,8854.36,8854.36,8854.36,,,,,,,,
+CM1-1-2,2,CM1,1711.0,2269901.0,ALTRES DESPESES VARIES.- MICROCIUTAT,10000.0,,10000.0,10113.53,10113.53,10113.53,10113.53,10113.53,-113.53,30398.07,,,,,,
+CM6-1-2,2,CM6,1721.0,2269901.0,ALTRES DESPESES VARIES.-MEDI AMBIENT,20000.0,,20000.0,13131.12,13131.12,13131.12,10261.21,10261.21,6868.88,24835.11,,,,2869.91,,
+SP1-2-2,2,SP1,2310.0,2269901.0,ALTRES DESPESES VÀRIES.- ATENCIO PRIMÀRIA,30000.0,5185.49,35185.49,48620.27,48618.98,48618.98,43488.8,43488.8,-13447.79,4732.11,13.01,1.29,,5130.18,,
+SP1-2-2,2,SP1,2311.0,2269901.0,ALTRES DESPESES VÀRIES.- R.G.A.,3000.0,2645.0,5645.0,5639.68,4380.2,4380.2,4380.2,4380.2,5.32,4732.11,,1259.48,,,,
+SG8-2-2,2,SG8,2410.0,2269901.0,ALTRES DESPESES VARIES.-FOR. OCUPACIO CURSOS,130000.0,-46270.17,83729.83,39043.26,34972.09,34972.09,27166.75,27166.75,11.64,11.64,43586.49,4071.17,,7805.34,,
+SP1-3-2,2,SP1,3110.0,2269901.0,ALTRES DESPESES VÀRIES.- SANITAT,2000.0,169.48,2169.48,1447.78,1447.78,1447.78,1188.23,1188.23,721.7,36148.95,,,,259.55,,
+SP1-3-2,2,SP1,3120.0,2269901.0,ALTRES DESPESES VÀRIES,,39.33,39.33,39.33,39.33,39.33,39.33,39.33,,,,,,,,
+SP2-3-2,2,SP2,3210.0,2269901.0,ALTRES DESPESES VÀRIES,,7596.1,7596.1,7596.1,7596.1,7596.1,7596.1,7596.1,,,,,,,,
+SP1-3-2,2,SP1,3230.0,2269901.0,ALTRES DESPESES VARIES.-EDUCACIO,25000.0,25000.0,50000.0,62059.58,62059.58,62059.58,37651.06,37651.06,-12111.34,36148.95,51.76,,,24408.52,,
+SP1-3-2,2,SP1,3260.0,2269901.0,ALTRES DESPESES VARIES.-ESC. MUNICIP.,8500.0,,8500.0,9778.82,9729.0,9729.0,7086.33,7086.33,-1278.82,36148.95,,49.82,,2642.67,,
+SP2-3-2,2,SP2,3260.0,2269901.0,ALTRES DESPESES VÀRIES,,1257.41,1257.41,1257.41,1257.41,1257.41,1257.41,1257.41,,,,,,,,
+SP3-3-2,2,SP3,3322.0,2269901.0,ALTRES DESPESES VARIES.-ARXIU,15000.0,,15000.0,22159.01,22159.01,22159.01,16326.81,9284.61,-7159.01,66916.12,,,,5832.2,7042.2,
+SP3-3-2,2,SP3,3344.0,2269901.0,ALTRES DESPESES VARIES.-PROMO. CULT.,40000.0,15000.0,55000.0,46985.67,42985.67,42985.67,35993.37,35993.37,8014.33,66916.12,,4000.0,,6992.3,,
+SP3-3-2,2,SP3,3370.0,2269901.0,ALTRES DESPESES VARIES.-OCI I TEMPS LLIURE,30000.0,180.0,30180.0,26716.32,26716.32,25506.32,17863.06,17863.06,3463.68,66916.12,,,1210.0,7643.26,,
+SP2-3-2,2,SP2,3380.0,2269901.0,ALTRES DESPESES VÀRIES,,1732.52,1732.52,1711.93,1711.93,1711.93,,,20.59,20.59,,,,1711.93,,
+SP3-3-2,2,SP3,3380.0,2269901.0,FESTES POPULARS.-FESTES,151600.0,1513.55,153113.55,164980.76,158713.28,158709.29,138826.07,136666.45,-12087.24,66916.12,220.03,6267.48,3.99,19883.22,2159.62,
+SP3-3-2,2,SP3,3400.0,2269901.0,ALTRES DESPESES VÀRIES.- ESPORTS,15000.0,169.48,15169.48,13780.34,13619.31,13619.31,12560.14,12560.14,1389.14,66916.12,,161.03,,1059.17,,
+SG6-4-2,2,SG6,4310.0,2269901.0,ALTRES DESPESES VÀRIES,,53.24,53.24,53.24,53.24,53.24,53.24,53.24,,,,,,,,
+SG8-4-2,2,SG8,4310.0,2269901.0,ALTRES DESPESES VÀRIES - COMERÇ,48000.0,,48000.0,33741.91,33741.91,33741.91,29785.83,29277.63,14258.09,45189.56,,,,3956.08,508.2,
+SG8-4-2,2,SG8,4312.0,2269901.0,ALTRES DESPESES VARIES.- PEIXATERIA,10000.0,,10000.0,1795.47,1795.47,1795.47,1640.83,1640.83,8204.53,45189.56,,,,154.64,,
+CM1-4-2,2,CM1,4320.0,2269901.0,ALTRES DESPESES VÀRIES,,1912.86,1912.86,1912.86,1912.86,1912.86,1912.86,1912.86,,,,,,,,
+SG8-4-2,2,SG8,4320.0,2269901.0,ALTRES DESPESES VÀRIES -TURISME,25000.0,,25000.0,24430.59,24430.59,24430.59,24430.59,24430.59,569.41,45189.56,,,,,,
+SG1-9-2,2,SG1,9120.0,2269901.0,ALTRES DESPESES VÀRIES.- ORG GOVERN,15000.0,3644.78,18644.78,64466.25,63775.31,63775.31,60596.55,60596.55,-45821.47,36970.37,,690.94,,3178.76,,
+SG1-9-2,2,SG1,9202.0,2269901.0,ALTRES DESPESES VARIES.-SECRETARIA,4800.0,,4800.0,2722.6,2722.6,2722.6,2604.38,2604.38,2077.4,36970.37,,,,118.22,,
+SG1-9-2,2,SG1,9203.0,2269901.0,ALTRES DESPESES VARIES.- CONTRACTACIÓ,2000.0,,2000.0,,,,,,2000.0,36970.37,,,,,,
+SG1-9-2,2,SG1,9205.0,2269901.0,ALTRES DESPESES VARIES.-RRHH,1500.0,,1500.0,716.06,716.06,716.06,671.69,671.69,783.94,36970.37,,,,44.37,,
+SG4-9-2,2,SG4,9206.0,2269901.0,ALTRES DESPESES VARIES.- INFORMATICA,5000.0,,5000.0,5000.0,5000.0,5000.0,5000.0,5000.0,,147.23,,,,,,
+SG1-9-2,2,SG1,9250.0,2269901.0,ALTRES DESPESES VARIES.-OAC,700.0,,700.0,81.07,81.07,81.07,,,618.93,36970.37,,,,81.07,,
+SG1-9-2,2,SG1,9260.0,2269901.0,ALTRES DESPESES VÀRIES.- COMUNICACIÓ,25000.0,,25000.0,27677.23,27677.23,27677.23,26093.38,23269.06,-2677.23,7540.97,,,,1583.85,2824.32,
+SG4-9-2,2,SG4,9311.0,2269901.0,ALTRES DESPESES VARIES.-GESTIÓ  PRES.,1000.0,,1000.0,1000.0,1000.0,1000.0,1000.0,1000.0,,147.23,,,,,,
+SG4-9-2,2,SG4,9340.0,2269901.0,ALTRES DESPESES VARIES.- G. FINANCERA,3000.0,,3000.0,0.01,0.01,0.01,0.01,0.01,2999.99,147.23,,,,,,
+SG5-1-2,2,SG5,1300.0,2269902.0,DESPESES PROTECCIO CIVIL POLICIA,10000.0,,10000.0,10324.75,10324.75,10324.75,6854.9,6854.9,-324.75,7524.4,,,,3469.85,,
+SP1-2-2,2,SP1,2310.0,2269902.0,ALTRES DESPESES VARIES.- MEDIACIÓ SOC.,6100.0,,6100.0,5507.85,5507.85,5507.85,5043.19,5043.19,592.15,4732.11,,,,464.66,,
+SP3-3-2,2,SP3,3341.0,2269902.0,ALTRES DESPESES VÀRIES.- CENTRE ART HDEZ SANZ,20000.0,,20000.0,20688.1,20688.1,19809.26,19111.02,19111.02,-688.1,66916.12,,,878.84,698.24,,
+SG8-2-2,2,SG8,2410.0,2269911.0,ALTRES DESPESES- PROJECTE,,68129.65,68129.65,16665.84,16665.84,16665.84,13177.74,12972.0,51463.81,51463.81,,,,3488.1,205.74,
+CM1-1-2,2,CM1,1651.0,2270001.0,CONTR. SERV. NETEJA,,113336.68,113336.68,55858.32,55858.32,55858.32,55858.32,55858.32,57478.36,57478.36,,,,,,
+CM1-1-2,2,CM1,1711.0,2270001.0,CONTR. SERVEI DE NETEJA EDIFICIS.- MICROCIUTAT,800000.0,57478.36,857478.36,796394.66,796394.66,796394.66,729789.27,729789.27,61083.7,30398.07,,,,66605.39,,
+CM1-1-2,2,CM1,1621.0,2270301.0,CONTR. SERV. CONCESSIONS,,215535.57,215535.57,215535.57,215535.57,215535.57,215535.57,215535.57,,,,,,,,
+SP3-3-2,2,SP3,3322.0,2270301.0,CONTRACT. SERVEIS.- PALAU OLIVER,,64148.54,64148.54,49148.54,49148.54,,,,15000.0,15000.0,,,49148.54,,,64148.54
+SG4-9-2,2,SG4,9340.0,2270401.0,DESPESES CUSTODIA I MANTENIMENT C/C,10000.0,,10000.0,8561.86,8561.86,8561.86,8561.86,8561.86,1438.14,147.23,,,,,,
+SG5-1-2,2,SG5,1300.0,2270601.0,CONTR.SERV.ESTUD.TREB.TEC.- POLICIA,37000.0,,37000.0,53388.64,53388.64,53388.64,52723.14,52723.14,-16388.64,7524.4,,,,665.5,,
+CM2-1-2,2,CM2,1511.0,2270601.0,CONTR.SERV.ESTUD.TREB.TEC.- URBANISME,90000.0,30092.7,120092.7,86746.02,86746.02,21941.17,11002.94,11002.94,33346.68,33669.03,,,64804.85,10938.23,,30092.7
+CM2-1-2,2,CM2,1512.0,2270601.0,CONTR.SERV.ESTUD.TREB.TEC.- OBRA PÚB.,20000.0,,20000.0,18402.62,18402.62,18402.62,18271.54,18271.54,1597.38,33669.03,,,,131.08,,
+CM1-1-2,2,CM1,1710.0,2270601.0,CONTR.SERV.ESTUD.TRAB.TEC.PARCS I JARDINS,300000.0,116229.6,416229.6,402164.76,402164.76,402164.76,354508.9,354508.9,14064.84,18642.18,,,,47655.86,,
+CM1-1-2,2,CM1,1711.0,2270601.0,CONTR.SERV.ESTUD.TREB.TEC.-  MICROCIUTAT,30000.0,,30000.0,41659.77,41659.77,41659.77,24136.31,24136.31,-11659.77,30398.07,,,,17523.46,,
+SP1-2-2,2,SP1,2310.0,2270601.0,CONTR.SERV.ESTUD.TRAB.TEC.- ATENCIÓ PRIMÀRIA,35600.0,,35600.0,41912.92,41912.92,37755.36,12684.39,12684.39,-6312.92,4732.11,,,4157.56,25070.97,,
+SP3-3-2,2,SP3,3322.0,2270601.0,CONTR.SERV.ESTUD.TREB.TEC.- ARXIU,6500.0,,6500.0,6500.0,6500.0,2178.0,,,,66916.12,,,4322.0,2178.0,,
+SP3-3-2,2,SP3,3400.0,2270601.0,CONTR.SERV.ESTUD.TREB.TEC.- ESPORTS,15000.0,,15000.0,11667.42,11667.42,8421.3,8421.3,8421.3,3332.58,66916.12,,,3246.12,,,
+SG8-4-2,2,SG8,4310.0,2270601.0,CONTR.SERV.ESTUD.TREB.TEC.- COMERÇ,53000.0,,53000.0,27175.26,27175.26,27175.26,26504.22,26504.22,25824.74,45189.56,,,,671.04,,
+SG8-4-2,2,SG8,4312.0,2270601.0,CONTR.SERV.ESTUD.TRAB.TEC.- ASSENTADORS  MERCATS,10000.0,,10000.0,9763.59,9763.59,9763.59,9101.74,9101.74,236.41,45189.56,,,,661.85,,
+SG4-4-2,2,SG4,4320.0,2270601.0,CONTR.SERV.ESTUD.TRAB.TEC.,,1827.14,1827.14,859.83,859.83,859.83,859.83,859.83,967.31,967.31,,,,,,
+SG8-4-2,2,SG8,4320.0,2270601.0,CONTR.SERV.ESTUD.TREB.TEC.- TURISME,12000.0,967.31,12967.31,13699.67,13699.67,12519.89,12519.89,12519.89,-732.36,45189.56,,,1179.78,,,
+SG1-9-2,2,SG1,9120.0,2270601.0,CONTR.SERV.ESTUD.TRAB.TEC.- ORG. GOVERN,21000.0,,21000.0,11792.09,11792.09,11792.09,11792.09,11792.09,9207.91,36970.37,,,,,,
+SG1-9-2,2,SG1,9202.0,2270601.0,CONTR.SERV.ESTUD.TREB.TEC.- SECRETARIA,12000.0,,12000.0,5394.86,5394.86,5394.18,2697.09,2697.09,6605.14,36970.37,,,0.68,2697.09,,
+SG1-9-2,2,SG1,9205.0,2270601.0,CONTR.SERV.ESTUD.TREB.TEC.- RRHH,25000.0,31500.0,56500.0,31500.0,31500.0,31500.0,31500.0,31500.0,25000.0,36970.37,,,,,,
+SG4-9-2,2,SG4,9206.0,2270601.0,CONTR.SERV.ESTUD.TREB.TEC.- INFORMATI.,156000.0,,156000.0,156164.77,156164.77,156164.77,117230.82,117230.82,-164.84,147.23,0.07,,,38933.95,,
+SG1-9-2,2,SG1,9260.0,2270601.0,CONTR.SERV.ESTUD.TREB.TEC.-COMUNICAC.,25000.0,,25000.0,17985.0,17985.0,,,,7015.0,7540.97,,,17985.0,,,
+SG4-9-2,2,SG4,9311.0,2270601.0,CONTR.SERV.ESTUD.TRAB.TEC.- GESTIO PRESSUPOSTÀRIA,,16819.0,16819.0,16819.0,16819.0,16819.0,16819.0,16819.0,,147.23,,,,,,16819.0
+SG4-9-2,2,SG4,9340.0,2270601.0,CONTR.SERV.ESTUD.TREB.TEC.- TRESORERIA-RECAPTACIÓ,560000.0,,560000.0,582066.7,582066.7,582066.7,552509.62,552509.62,-22066.7,147.23,,,,29557.08,,
+SG5-1-2,2,SG5,1300.0,2270602.0,CONTR.SERV.GRUA- POLICIA,45000.0,,45000.0,19874.08,19874.08,19838.99,14942.12,14942.12,25125.92,25125.92,,,35.09,4896.87,,
+SG1-9-2,2,SG1,9205.0,2270602.0,CONTR.SERV. - RRHH.,1000.0,,1000.0,,,,,,1000.0,36970.37,,,,,,
+SG5-1-2,2,SG5,1300.0,2279901.0,CONTR.SERV.CONCESSIONS.-POLICIA,450000.0,,450000.0,76687.93,76687.93,76687.93,76687.93,76687.93,373312.07,373312.07,,,,,,
+CM2-1-2,2,CM2,1511.0,2279901.0,CONTRACTACIO SERVEIS URBANISME,18000.0,,18000.0,25243.27,25243.27,23963.53,20575.53,20575.53,-7243.27,33669.03,,,1279.74,3388.0,,
+SP1-1-2,2,SP1,1522.0,2279901.0,CONTRACT SERVEIS.- HABITATGE,6000.0,,6000.0,,,,,,6000.0,535.2,,,,,,
+CM1-1-2,2,CM1,1610.0,2279901.0,CONTR.SERV.CONCESSIONS.-AIGUA I SANEJ.,1865000.0,,1865000.0,,,,,,1865000.0,1865000.0,,,,,,
+CM1-1-2,2,CM1,1621.0,2279901.0,ALTRES TREBALLS PER ALTRES.- RSU,2600000.0,296.45,2600296.45,2586723.29,2586723.29,2586723.29,2155652.15,2155652.15,13573.16,18642.18,,,,431071.14,,
+SP1-1-2,2,SP1,1640.0,2279901.0,CONTR.SERV. CONCESSIONS.-CEMENTERIS,200000.0,,200000.0,198452.16,198452.16,198452.16,198452.16,198452.16,1547.84,1547.84,,,,,,
+CM6-1-2,2,CM6,1721.0,2279901.0,CONTR.SERV. ALTRES.- MEDI AMBIENT,279000.0,-21000.0,258000.0,193995.73,193995.73,186524.19,168408.2,165887.37,17580.44,24835.11,46423.83,,7471.54,18115.99,2520.83,
+SP1-2-2,2,SP1,2310.0,2279901.0,CONTRACT. SERV. ALTRES.- ATENCIÓ PRIMÀRIA,150000.0,,150000.0,142541.77,142541.77,142541.77,142541.77,142541.77,7458.23,4732.11,,,,,,
+SP1-2-2,2,SP1,2311.0,2279901.0,CONTRACT. ALTRES.- R.G.A,70000.0,,70000.0,53230.77,53230.77,53230.77,44736.16,44736.16,16769.23,4732.11,,,,8494.61,,
+SP3-3-2,2,SP3,3341.0,2279901.0,CONTR.SERV.SERV.EST.TREB.TEC-ARCH/PAT OLIVER,25000.0,,25000.0,31234.67,31234.67,31234.67,22279.29,22279.29,-6234.67,66916.12,,,,8955.38,,
+SP3-3-2,2,SP3,3370.0,2279901.0,CONTR.SERV.ALTRES.-JUVENTUT CONCERTS,2000.0,,2000.0,931.7,931.7,931.7,568.7,568.7,1068.3,66916.12,,,,363.0,,
+SP2-3-2,2,SP2,3380.0,2279901.0,ALTRES TREBALLS REALITZATS PER EMPRESES,,3657.56,3657.56,3657.56,3657.56,3657.56,3657.56,3657.56,,20.59,,,,,,
+SP3-3-2,2,SP3,3380.0,2279901.0,CONTR.SERV. ALTRES.-  FESTES,50000.0,,50000.0,57758.47,57758.47,55283.13,45780.43,45680.13,-7758.47,66916.12,,,2475.34,9502.7,100.3,
+CM1-1-2,2,CM1,1621.0,2279902.0,CONTR.SERV. ALTRES.- RSU,40000.0,,40000.0,35806.7,35806.7,35806.7,35806.7,35806.7,4193.3,30398.07,,,,,,
+SP1-1-2,2,SP1,1640.0,2279902.0,CONTR.SERV. CONCES.-CEMENT.- RET. CON,226025.0,,226025.0,,,,,,226025.0,226025.0,,,,,,
+SP1-2-2,2,SP1,2310.0,2279902.0,CONTR.SERV. ALTRES.- MEDIACIÒ SOCIAL,60000.0,-35011.15,24988.85,3559.22,3559.22,3559.22,,,21429.63,4732.11,,,,3559.22,,
+SP3-3-2,2,SP3,3341.0,2279902.0,SERV SEGURETAT .- CENTRE ART HDEZ  SANZ,55000.0,,55000.0,47201.11,47201.11,40353.76,28724.32,28724.32,7798.89,66916.12,,,6847.35,11629.44,,
+SG1-9-2,2,SG1,9120.0,2300001.0,DIETES CARRECS ELECTES.-ORG. GOVERN,2500.0,,2500.0,,,,,,2500.0,36970.37,,,,,,
+SG1-9-2,2,SG1,9205.0,2302001.0,DIETES PERSONAL.-RECURSOS HUMANS,2000.0,,2000.0,1892.43,1892.43,1892.43,1892.43,1848.42,107.57,36970.37,,,,,44.01,
+SG1-9-2,2,SG1,9120.0,2310001.0,LOCOMOCIO.-ORG. GOVERN,3000.0,,3000.0,6067.21,6067.21,6067.21,5361.72,5361.72,-3067.21,36970.37,,,,705.49,,
+SG1-9-2,2,SG1,9205.0,2310001.0,LOCOMOCIO,,3000.0,3000.0,4850.4,4850.4,4850.4,4398.6,4398.6,-1850.4,36970.37,,,,451.8,,
+SG4-1-3,3,SG4,110.0,3101101.0,INTERESSOS.  LC - OPERACIÓ DE TRESORERIA,40000.0,,40000.0,810.13,810.13,810.13,810.13,810.13,39189.87,164367.1,,,,,,
+SG4-1-3,3,SG4,110.0,3101801.0,INT. PREST 2002 CAM-  INVERS.  Nº 0253636615,560.0,,560.0,171.71,171.71,171.71,171.71,171.71,388.29,164367.1,,,,,,
+SG4-1-3,3,SG4,110.0,3101901.0,INT. PREST 2003  LC -  INVERS - Nº 30584029822,11800.0,,11800.0,11768.09,11768.09,11768.09,11768.09,11768.09,31.91,164367.1,,,,,,
+SG4-1-3,3,SG4,110.0,3102001.0,INT.  PREST 2004  BBVA INVERSIONS 974 04357000,52000.0,,52000.0,39026.42,39026.42,39026.42,39026.42,39026.42,12973.58,164367.1,,,,,,
+SG4-1-3,3,SG4,110.0,3102101.0,INT.  PREST 2005 BBVA INVERSIONS 974 05137023,32000.0,,32000.0,24314.67,24314.67,24314.67,24314.67,24314.67,7685.33,164367.1,,,,,,
+SG4-1-3,3,SG4,110.0,3102201.0,INT. PREST2006 BBVA 974-06183571,62000.0,,62000.0,47701.44,47701.44,47701.44,47701.44,47701.44,14298.56,164367.1,,,,,,
+SG4-1-3,3,SG4,110.0,3102501.0,INTERESSOS  PRESTEC INVERSIONS 2007 - LC,2800.0,,2800.0,1990.54,1990.54,1990.54,1990.54,1990.54,809.46,164367.1,,,,,,
+SG4-1-3,3,SG4,110.0,3102502.0,INTERESSOS  PRESTEC INVERSIONS 2007 - BBVA,1350.0,,1350.0,350.78,350.78,350.78,350.78,350.78,999.22,164367.1,,,,,,
+SG4-1-3,3,SG4,110.0,3102601.0,INTERESSOS PREST 2008 LC INV 708776-98,560.0,,560.0,442.23,442.23,442.23,442.23,442.23,117.77,164367.1,,,,,,
+SG4-1-3,3,SG4,110.0,3102701.0,INT. PREST 2009 BBVA,78000.0,,78000.0,58513.66,58513.66,58513.66,58513.66,58513.66,19486.34,164367.1,,,,,,
+SG4-1-3,3,SG4,110.0,3102801.0,INT. PREST 2010 CAJA MADRID,10300.0,,10300.0,6420.02,6420.02,6420.02,6420.02,6420.02,3879.98,164367.1,,,,,,
+SG4-1-3,3,SG4,110.0,3103101.0,INTERESSOS PRESTEC 2014,25000.0,,25000.0,,,,,,25000.0,164367.1,,,,,,
+SG4-1-3,3,SG4,110.0,3103401.0,INT. PREST. FOMIT PUM SL,8300.0,11745.0,20045.0,,,,,,20045.0,164367.1,,,,,,
+SG4-1-3,3,SG4,110.0,3520001.0,INTERESSOS DEMORA RETARD PAGAMENTS.- TRESORERIA,100000.0,,100000.0,1343.63,1343.63,1343.63,1343.63,1343.63,24021.79,164367.1,74634.58,,,,,
+SG4-1-3,3,SG4,110.0,3570001.0,DESP. FINANCERES AVAL DAVANT ABAQUA,,,,3266.96,3266.96,3266.96,3266.96,3266.96,-4560.0,164367.1,1293.04,,,,,
+SG8-2-4,4,SG8,2410.0,4500001.0,DEVOLUCIÓN IMPORTES SOIB A LA CAIB,20000.0,,20000.0,,,,,,,,20000.0,,,,,
+SP1-2-4,4,SP1,2410.0,4500001.0,DEVOLUCIONS A LA CAIB,,11324.11,11324.11,11324.11,11324.11,11324.11,11324.11,11324.11,,,,,,,,
+SG5-1-4,4,SG5,1300.0,4610111.0,TRANSF. AL CIMe.- POLICIA.- SERV. EXTINCIÓ INCENDIS,385000.0,319573.71,704573.71,319573.71,319573.71,319573.71,319573.71,319573.71,385000.0,385563.0,,,,,,
+SP1-2-4,4,SP1,2311.0,4610111.0,TRANSF. AL CIMe.- RGA - ACTIVITAT PERSONES MAJORS,7300.0,,7300.0,,,,,,,195.56,7300.0,,,,,
+SP1-3-4,4,SP1,3110.0,4610111.0,TRANSF. AL CIMe.- CONVENI ALBERG ANIMALS,17800.0,17243.72,35043.72,17243.72,17243.72,17243.72,17243.72,17243.72,17800.0,17800.0,,,,,,
+SP1-3-4,4,SP1,3230.0,4610111.0,TRANSF. AL CIMe.- EDUCACIÓ (PERSONES ADULTES),26500.0,,26500.0,26500.0,26500.0,,,,,17800.0,,,26500.0,,,
+SP3-3-4,4,SP3,3400.0,4610111.0,TRANSF. AL CIMe.- ISLAND GAMES,10500.0,,10500.0,8450.0,8450.0,8450.0,8450.0,8450.0,2050.0,121350.72,,,,,,
+SG1-9-4,4,SG1,9205.0,4610111.0,TRANSF. AL CIMe- CONVENI SERVEI DE PREVENCIÓ,32000.0,25575.71,57575.71,25575.71,25575.71,25575.71,25575.71,25575.71,32000.0,32000.0,,,,,,
+SP1-3-4,4,SP1,3230.0,4610112.0,TRANSF. AL CIMe -CONVENIO CIM AT. EDUCATIVA INFANTIL,12500.0,,12500.0,12500.0,12500.0,,,,,17800.0,,,12500.0,,,
+SP2-3-4,4,SP2,3210.0,4610211.0,TRANSF. AL CIME,,3342.13,3342.13,3342.13,3342.13,3342.13,3342.13,3342.13,,,,,,,,
+SP1-3-4,4,SP1,3230.0,4610211.0,TRANSF. AL CIMe - UNIV. OBERTA MAJORS,3400.0,,3400.0,3400.0,3400.0,1736.69,1736.69,,,17800.0,,,1663.31,,1736.69,
+SP3-3-4,4,SP3,3322.0,4610211.0,"TRANSF. AL CIMe- NETEJA, MANTENIMENT Y SENYAL BICS",7900.0,,7900.0,7900.0,7900.0,7900.0,,,,121350.72,,,,7900.0,,
+SP2-3-4,4,SP2,3344.0,4610211.0,TRANSF. AL CIME,,7147.0,7147.0,7147.0,7147.0,7147.0,7147.0,7147.0,,,,,,,,
+SP3-3-4,4,SP3,3344.0,4610211.0,CIMe - CAMPANYA MONUMENTS ARQUEOLÒGICS,6500.0,,6500.0,,,,,,6500.0,121350.72,,,,,,
+CM6-1-4,4,CM6,1721.0,4610311.0,CIMe.- CONVENI PLATGES 2010-2017,100000.0,,100000.0,,,,,,,,100000.0,,,,,
+SP1-3-4,4,SP1,3230.0,4610311.0,IME - ORGANITZACIÓ UIMIR,35000.0,-20000.0,15000.0,15000.0,15000.0,10500.0,10500.0,10500.0,,17800.0,,,4500.0,,,
+CM1-1-4,4,CM1,1532.0,4610411.0,CIMe.- CAMINS RURALS,27000.0,,27000.0,27000.0,27000.0,13612.0,13612.0,4673.73,,,,,13388.0,,8938.27,
+CM1-1-4,4,CM1,1624.0,4610411.0,"A Diputacions, Consells o Cabildos insulars 650.651 Trans",,6999.29,6999.29,6999.29,6999.29,6999.29,6999.29,6999.29,,,,,,,,
+SG5-1-4,4,SG5,1300.0,4620111.0,TRANSF. A AJUNTAMENTS.- COL.LABORACIÓ POLICIES LOCALS,6000.0,,6000.0,5097.5,5097.5,5097.5,,,563.0,385563.0,339.5,,,5097.5,,
+SG1-9-4,4,SG1,9120.0,4660111.0,A altres entitats - QUOTES FEDERACIONS,7000.0,,7000.0,,,,,,7000.0,11062.64,,,,,,
+SG1-9-4,4,SG1,9120.0,4670001.0,TRANSF. A CONSORCIS.- MILITAR LA MOLA,15000.0,,15000.0,15000.0,15000.0,15000.0,15000.0,15000.0,,32000.0,,,,,,
+CM1-1-4,4,CM1,1621.0,4670111.0,TRANSF. A CONSORCI R.S.U.- TRACTAMENT RESIDUS,500000.0,,500000.0,436113.43,436113.43,436113.43,383221.61,383221.61,,,63886.57,,,52891.82,,
+CM1-1-4,4,CM1,1650.0,4670111.0,TRANSF. A CONSORCIS.- CRSU - EFICIÈNCIA ENERGÈTICA,500.0,,500.0,60.79,60.79,60.79,60.79,60.79,,,439.21,,,,,
+SP3-3-4,4,SP3,3400.0,4670111.0,TRANSF. A CONSORCI PAVELLÓ BINTAUFA,61800.0,,61800.0,43099.28,43099.28,43099.28,43099.28,43099.28,18700.72,121350.72,,,,,,
+CM2-1-4,4,CM2,1511.0,4670211.0,TRANSF. A CONSORCIS.- PENYASSEGAT PORT DE MAO,10000.0,,10000.0,10000.0,10000.0,10000.0,,,,,,,,10000.0,,
+CM1-1-4,4,CM1,1621.0,4670211.0,TRANSF. A CONSORCIS.- CRSU - DEIXALLERIES MAÓ,80000.0,,80000.0,78792.15,78792.15,78792.15,72413.43,72413.43,,,1207.85,,,6378.72,,
+SP3-3-4,4,SP3,3344.0,4670211.0,CONSORCI MUSEU MILITAR DE MENORCA,15000.0,,15000.0,,,,,,15000.0,121350.72,,,,,,
+SP1-3-4,4,SP1,3230.0,4720111.0,TRANSF. A COOPERATIVA EDUCACIÓ INFANTIL - VINC. 34207,580000.0,,580000.0,296666.64,296666.64,296666.64,296666.64,296666.64,283333.36,283333.36,,,,,,
+SP1-2-4,4,SP1,2310.0,4800111.0,AJUTS ECONÒMICS INDIVIDUALS D'EMERGÈNCIA,323000.0,,323000.0,250946.47,250946.47,250946.47,237005.35,237005.35,195.56,195.56,71857.97,,,13941.12,,
+SP1-3-4,4,SP1,3230.0,4800111.0,TRANSF. A ALTRES ENS.- UNED,3000.0,,3000.0,3000.0,3000.0,3000.0,3000.0,3000.0,,17800.0,,,,,,
+SG1-9-4,4,SG1,9120.0,4800111.0,COL.LABORACIONS CIUTADANES -  ORGANS DE GOVERN,,,,,,,,,,11062.64,,,,,,
+CM6-1-4,4,CM6,1721.0,4800114.0,SUBV. NOMINATIVES- MEDI AMBIENT,8000.0,,8000.0,8000.0,8000.0,8000.0,500.0,500.0,,,,,,7500.0,,
+SP1-2-4,4,SP1,2310.0,4800114.0,TRANSF. NOMINATIVES A ENTITATS.- ACCIONS SOCIALS,113200.0,,113200.0,113200.0,113200.0,111500.0,92300.0,92300.0,,195.56,,,1700.0,19200.0,,
+SP1-3-4,4,SP1,3230.0,4800114.0,SUBV. NOMINATIVES- EDUCACIÓ,277000.0,,277000.0,277000.0,277000.0,222970.35,222970.35,222970.35,,17800.0,,,54029.65,,,
+SP3-3-4,4,SP3,3344.0,4800114.0,SUBV. NOMINATIVES- CULTURA,96400.0,,96400.0,96400.0,96400.0,96400.0,58450.0,58450.0,,121350.72,,,,37950.0,,
+SP3-3-4,4,SP3,3400.0,4800114.0,SUBV. NOMINATIVES- ESPORTS,163250.0,,163250.0,83350.0,83350.0,74150.0,16550.0,16550.0,79900.0,121350.72,,,9200.0,57600.0,,
+SG1-9-4,4,SG1,9120.0,4800114.0,SUBV. NOMINATIVES- PARTICIPACIÓ CIUTADANA,54900.0,,54900.0,54900.0,54900.0,25400.0,12500.0,12500.0,,32000.0,,,29500.0,12900.0,,
+SG8-4-4,4,SG8,4310.0,4800214.0,SUBV. EXCEPCIONALS COMERÇ,,14000.0,14000.0,14000.0,14000.0,,,,,,,,14000.0,,,
+SG1-9-4,4,SG1,9120.0,4800214.0,SUBV. EXCEPCIONALS,,18604.0,18604.0,18164.16,18164.16,5000.0,5000.0,5000.0,439.84,439.84,,,13164.16,,,
+SP3-3-4,4,SP3,3300.0,4800311.0,PREMIS DE CONCURS. - CULTURA,21300.0,-15000.0,6300.0,7070.0,7070.0,7070.0,7070.0,7020.0,-800.0,121350.72,30.0,,,,50.0,
+SP1-2-4,4,SP1,2310.0,4800401.0,TRANSF. A FUND. DISCAPACITATS- ATENCIÓ PRIMÀRIA,22000.0,,22000.0,22000.0,22000.0,22000.0,22000.0,22000.0,,195.56,,,,,,
+SP3-3-4,4,SP3,3344.0,4800401.0,TRANSF. FUND. AMIGOS DE LA OPERA,20000.0,,20000.0,20000.0,20000.0,20000.0,20000.0,20000.0,,121350.72,,,,,,
+SP3-3-4,4,SP3,3344.0,4800402.0,FUND. TEATRO PRAL- PROM. CULTURAL,290000.0,60000.0,350000.0,350000.0,350000.0,350000.0,350000.0,350000.0,,121350.72,,,,,,
+SG1-9-4,4,SG1,9120.0,4890111.0,TRANSFERÈNCIES A GRUPS MUNICIPALS,55000.0,,55000.0,50937.36,50937.36,50937.36,50937.36,50937.36,4062.64,11062.64,,,,,,
+SG4-9-5,5,SG4,9290.0,5000000.0,FONS DE CONTINGENCIA,850000.0,-697519.73,152480.27,,,,,,152480.27,152480.27,,,,,,
+CM1-1-6,6,CM1,1711.0,6190112.0,ASFALTATS,300000.0,,300000.0,57700.02,57700.02,57700.02,6997.91,6997.91,237615.15,87676.06,4684.83,,,50702.11,,
+CM2-1-6,6,CM2,1511.0,6190211.0,REFORMES  CARRERS,1500000.0,-142480.11,1357519.89,809486.51,607003.04,244398.64,172117.38,172117.38,509279.24,571360.33,38754.14,202483.47,362604.4,72281.26,,
+CM1-1-6,6,CM1,1711.0,6190211.0,MILLORES CIUTAT MICROACCIONS,120000.0,819064.87,939064.87,1119038.22,943218.07,915825.87,816295.97,816295.97,-180466.13,87676.06,492.78,175820.15,27392.2,99529.9,,829064.87
+CM1-1-6,6,CM1,1711.0,6190212.0,RECUPERACIÓ ESPACIS I PARCEL.LES MUNICIPALS,50000.0,,50000.0,32310.39,32310.39,32310.38,21616.7,21616.7,,87676.06,17689.61,,0.01,10693.68,,
+CM6-1-6,6,CM6,1721.0,6190212.0,INVERSIONS-MEDI AMBIENT,,21000.0,21000.0,17253.15,17253.15,,,,3746.85,3746.85,,,17253.15,,,
+CM1-1-6,6,CM1,1711.0,6190213.0,OBRES NOVES A LA XARXA ELÈCTRICA,20000.0,,20000.0,18435.62,18435.62,18435.62,18435.62,18435.62,,87676.06,1564.38,,,,,
+CM1-1-6,6,CM1,1711.0,6190214.0,XARXA DE CAMINS RURALS,75000.0,-20000.0,55000.0,36063.31,36063.31,36063.31,30630.89,30630.89,-818.76,87676.06,19755.45,,,5432.42,,
+SG5-1-6,6,SG5,1300.0,6190311.0,MOBILITAT,25000.0,-10000.0,15000.0,,,,,,15000.0,15070.75,,,,,,
+CM2-1-6,6,CM2,1511.0,6190311.0,INVERSIO EN VIES PUBLIQUES POIMA,60000.0,,60000.0,12766.9,12766.9,12766.9,11941.49,11941.49,47233.1,571360.33,,,,825.41,,
+CM1-1-6,6,CM1,1711.0,6190311.0,PARCS INFANTILS,60000.0,-5000.0,55000.0,50620.85,50620.85,50620.85,45755.55,45755.55,4379.15,87676.06,,,,4865.3,,
+CM2-1-6,6,CM2,1511.0,6190313.0,DESENVOLUPAMENT URBA SOSTENIBLE,40000.0,,40000.0,,,,,,1604.01,571360.33,38395.99,,,,,
+CM1-1-6,6,CM1,1711.0,6190411.0,INVERSIO EN CLIMATITZACIÓ,45000.0,,45000.0,25799.84,25799.84,8691.46,6842.97,6842.97,,87676.06,19200.16,,17108.38,1848.49,,
+CM2-1-6,6,CM2,1511.0,6190414.0,REPARACIONS URGENTS PENYA-.SEGAT PORT MAÓ,,120000.0,120000.0,106771.58,106771.58,106771.38,106771.38,106771.38,13228.42,571360.33,,,0.2,,,
+SP1-2-6,6,SP1,2310.0,6220001.0,ADQUISICIÓ EDIFICIS.- CASA ACOLLIDA,,35000.0,35000.0,,,,,,,13940.72,35000.0,,,,,
+CM1-1-6,6,CM1,1522.0,6220111.0,REHABILITACIÓ EDIFICI PONT DE SANT ROC,,324296.89,324296.89,254100.0,254100.0,130108.24,44043.35,,613.31,87676.06,69583.58,,123991.76,86064.89,44043.35,
+CM1-1-6,6,CM1,1711.0,6220111.0,iNVERSIONS EN EDIFICIS.- OBRA PÚBLICA,100000.0,278952.35,378952.35,231801.65,109321.54,70452.9,68498.75,68498.75,28047.34,87676.06,119103.36,122480.11,38868.64,1954.15,,96472.24
+SP1-2-6,6,SP1,2311.0,6220111.0,MILLORES EDIFICI RGA,,60000.0,60000.0,49478.25,49478.25,49478.25,,,613.42,613.42,9908.33,,,49478.25,,
+SP3-3-6,6,SP3,3400.0,6220111.0,INSTAL.LACIONS ESPORTIVES,290000.0,,290000.0,287777.52,245017.52,187177.05,74257.0,46837.27,,0.21,2222.48,42760.0,57840.47,112920.05,27419.73,
+SG8-4-6,6,SG8,4312.0,6220115.0,INVERSIONS PEIXATERIA,80000.0,50000.0,130000.0,97432.83,97432.83,80000.0,80000.0,80000.0,32567.17,32567.17,,,17432.83,,,
+SP1-3-6,6,SP1,3260.0,6220215.0,INVERSIONS EDIFICI CLAUSTRE,100000.0,359788.0,459788.0,409785.48,,,,,50002.52,232737.91,,409785.48,,,,
+CM1-1-6,6,CM1,1650.0,6220311.0,PLA ESTALVI ENERGÈTIC MUNICIPAL,90000.0,-40000.0,50000.0,30000.0,25362.81,25362.81,25362.81,25362.81,,87676.06,20000.0,4637.19,,,,
+SG5-1-6,6,SG5,1300.0,6230111.0,EQUIPAMENT POLICIA,20000.0,,20000.0,19929.25,19929.25,19929.23,13750.91,13750.91,70.75,15070.75,,,0.02,6178.32,,
+SP1-2-6,6,SP1,2311.0,6230111.0,EQUIPAMENT RGA,52252.0,25000.0,77252.0,55892.65,55892.65,41300.43,41184.33,41184.33,13940.72,13940.72,7418.63,,14592.22,116.1,,
+SP3-3-6,6,SP3,3260.0,6230111.0,INSTRUMENTS ESCOLA DE MÚSICA,4000.0,,4000.0,3999.79,3999.79,3999.79,3612.6,3612.6,0.21,0.21,,,,387.19,,
+SP3-3-6,6,SP3,3300.0,6230111.0,EQUIPAMENTS CULTURA,,14000.0,14000.0,13778.88,13778.88,13778.88,,,,0.21,221.12,,,13778.88,,
+SP3-3-6,6,SP3,3322.0,6230111.0,EQUIPAMENTS- ARXIU,,27434.86,27434.86,27364.94,27364.94,27364.94,26293.34,26293.34,,,69.92,,,1071.6,,
+SP3-3-6,6,SP3,3341.0,6230111.0,EQUIPAMENT VARI.- CENTRE ART I HISTÒRIA HDEZ SANZ,,,,,,,,,,0.21,,,,,,
+SP2-3-6,6,SP2,3344.0,6230111.0,EQUIPAMENTS,,13057.37,13057.37,13057.37,13057.37,13057.37,13057.37,13057.37,,,,,,,,
+SP3-3-6,6,SP3,3370.0,6230111.0,NOU EQUIP CASAL JOVE,5000.0,,5000.0,1911.8,1911.8,1911.8,1911.8,1911.8,,0.21,3088.2,,,,,
+SG4-9-6,6,SG4,9311.0,6230111.0,EQUIPAMENT GENERAL,10000.0,10350.0,20350.0,19102.02,19102.02,19101.88,19101.88,19101.88,1247.98,134.54,,,0.14,,,
+CM1-1-6,6,CM1,1711.0,6240111.0,VEHICLE BRIGADA OBRES,70000.0,,70000.0,60500.0,,,,,,87676.06,9500.0,60500.0,,,,
+SG8-2-6,6,SG8,2410.0,6250111.0,MOBILIARI- FORMACIÓ CURSOS,,48774.12,48774.12,25695.5,25695.5,23990.48,5069.1,5069.1,,,23078.62,,1705.02,18921.38,,
+SP1-3-6,6,SP1,3230.0,6250111.0,MOBILIARI ESC. INFANTILS DE MAÓ,,30000.0,30000.0,30064.61,30064.61,29549.63,29549.63,29549.63,-64.61,232737.91,,,514.98,,,
+SG4-9-6,6,SG4,9311.0,6250111.0,MOBILIARI,15000.0,17968.5,32968.5,34081.94,34081.94,34056.53,34056.53,34056.53,-1113.44,134.54,,,25.41,,,
+SG4-9-6,6,SG4,9206.0,6260111.0,EQUIPAMENT INFORMATIC,77100.0,30000.0,107100.0,91788.67,91788.67,84482.19,72425.36,72425.36,,134.54,15311.33,,7306.48,12056.83,,
+SP1-1-6,6,SP1,1640.0,6260201.0,MILLORES CEMENTIRI MUNICIPAL,20000.0,5500.0,25500.0,,,,,,399.59,399.59,25100.41,,,,,
+CM1-1-6,6,CM1,1610.0,6270011.0,FILTRES VERDS I DESNITRIFICACIÓ AIGUA,75000.0,-25000.0,50000.0,16856.15,16856.15,16856.15,,,-1694.0,87676.06,34837.85,,,16856.15,,
+SP3-3-6,6,SP3,3341.0,6290112.0,MILLORES PALAU OLIVER,,47742.45,47742.45,47742.45,47742.45,45797.4,45797.4,45797.4,,,,,1945.05,,,47742.45
+SG8-2-6,6,SG8,2410.0,6320111.0,ADEQUACIÓ EDIFICI CASA DE SES MONGES,,198538.0,198538.0,48538.0,48538.0,48445.94,48445.94,48445.94,150000.0,150000.0,,,92.06,,,48538.0
+SP1-3-6,6,SP1,3230.0,6320214.0,OBRES ESCOLA ADULTS AL QUARTER SANTIAGO,250000.0,484560.0,734560.0,551760.0,551760.0,307627.5,307627.5,307627.5,182800.0,232737.91,,,244132.5,,,551760.0
+CM2-1-6,6,CM2,1511.0,6810214.0,EXPROPIACIÓ PLACIDO ABAD/ADORACION LA,181000.0,,181000.0,180984.44,180984.44,180984.44,180984.44,180984.44,15.56,571360.33,,,,,,
+CM1-1-7,7,CM1,1610.0,7510001.0,ABAQUA - APORTACIO OBRA ABASTIMENT AIGUA LLUMEÇANES,390000.0,390000.0,780000.0,,,,,,390000.0,410000.0,390000.0,,,,,390000.0
+CM2-1-7,7,CM2,1511.0,7610001.0,CIMe - CONVENI PUM - ACCÉS CP MARIA LLUISA SERRA VIA RONDA,,,,,,,,,,,,,,,,
+SG5-1-7,7,SG5,1300.0,7610411.0,CIMe.- PLA TERME.- EXTINCIÓ D'INCENDIS,20000.0,,20000.0,,,,,,20000.0,20000.0,,,,,,
+CM1-1-7,7,CM1,1650.0,7670111.0,TRANSF. A C.R.S.U.- PLA EFICIÈNCIA ENERGÈTICA,22000.0,,22000.0,21400.68,21400.68,21400.68,18800.48,18800.48,,410000.0,599.32,,,2600.2,,
+CM2-1-7,7,CM2,1511.0,7670211.0,TRANSF. A CONSORCIS.- PENYASSEGAT PORT DE MAÓ,117000.0,,117000.0,117000.0,117000.0,117000.0,,,,410000.0,,,,117000.0,,
+SP3-3-7,7,SP3,3400.0,7670311.0,TRANSF. A CONSORCI BINTAUFA - AMORTITZACIO,237500.0,,237500.0,237500.0,237500.0,237500.0,237500.0,237500.0,,,,,,,,
+SP3-3-7,7,SP3,3400.0,7700111.0,U.D. MAHÓN .- NOMINATIVA,70000.0,,70000.0,70000.0,70000.0,,,,,,,,70000.0,,,
+CM2-1-7,7,CM2,1511.0,7800311.0,PLA MILLORA FAÇANES,160000.0,,160000.0,68475.3,68475.3,68475.3,,,20000.0,410000.0,71524.7,,,68475.3,,
+CM1-1-7,7,CM1,1610.0,7800311.0,CONVOCATORIA SUBVENCIÓ FILTRES VERDS,,25000.0,25000.0,,,,,,,,25000.0,,,,,
+SG4-9-8,8,SG4,9340.0,8209001.0,BESTRETRES A CURT TERMINI A ENTITATS DEL SECTOR PUBLIC,,1620045.0,1620045.0,1620045.0,1620045.0,1620045.0,1620045.0,1620045.0,,,,,,,,
+SG4-9-8,8,SG4,9340.0,8300001.0,BESTRETES AL PERSONAL,60000.0,,60000.0,37240.59,37240.59,37240.59,31240.59,31240.59,22759.41,22759.41,,,,6000.0,,
+SG4-1-9,9,SG4,110.0,9131801.0,AMORT. PREST 2002 - CAM- Nº 0253636615,140237.0,,140237.0,140236.23,140236.23,140236.23,140236.23,140236.23,0.77,1882649.98,,,,,,
+SG4-1-9,9,SG4,110.0,9131901.0,AMORT. PREST 2003 - LC Nº 30584029822,103045.0,,103045.0,103043.66,103043.66,103043.66,103043.66,103043.66,1.34,1882649.98,,,,,,
+SG4-1-9,9,SG4,110.0,9132001.0,AMORT. PREST 2004  BBVA  974 04357000,266368.0,,266368.0,,,,,,266368.0,1882649.98,,,,,,
+SG4-1-9,9,SG4,110.0,9132101.0,AMORT. PREST 2005 BBVA  974 05137023,200000.0,,200000.0,200000.0,200000.0,200000.0,200000.0,200000.0,,1882649.98,,,,,,
+SG4-1-9,9,SG4,110.0,9132201.0,AMORT. PREST 2006 BBVA 974-06183571,261795.0,,261795.0,261793.73,261793.73,261793.73,261793.73,261793.73,1.27,1882649.98,,,,,,
+SG4-1-9,9,SG4,110.0,9132301.0,AMORT. PREST 2007 BBVA  Nº 07457494,136175.0,,136175.0,136174.17,136174.17,136174.17,136174.17,136174.17,0.83,1882649.98,,,,,,
+SG4-1-9,9,SG4,110.0,9132501.0,AMORT. PREST 2007 LC  INVERS.Nº 9620-309-10030025,130443.0,,130443.0,130441.55,130441.55,130441.55,130441.55,130441.55,1.45,1882649.98,,,,,,
+SG4-1-9,9,SG4,110.0,9132601.0,AMORT. PREST 2008 LC INV 708776-98,39000.0,,39000.0,38690.64,38690.64,38690.64,38690.64,38690.64,309.36,1882649.98,,,,,,
+SG4-1-9,9,SG4,110.0,9132701.0,AMORT. PREST 2009 BBVA 159010,144440.0,,144440.0,144440.0,144440.0,144440.0,144440.0,144440.0,,1882649.98,,,,,,
+SG4-1-9,9,SG4,110.0,9132801.0,AMORTITZ. PRÉSTEC INVERS. 2010 -  CAJA MADRID,,,,,,,,,,,,,,,,
+SG4-1-9,9,SG4,110.0,9132802.0,AMORT. PREST 2010 - BANKIA,63855.0,,63855.0,47888.04,47888.04,47888.04,47888.04,47888.04,15966.96,1882649.98,,,,,,

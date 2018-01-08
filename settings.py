@@ -51,7 +51,7 @@ PAYMENTS_LOADER = 'MaoPaymentsLoader'
 
 # Are institutional codes consistent along the years. Default: False.
 # Important: We need this to be True for the institutional treemap to work properly.
-# CONSISTENT_INSTITUTIONAL_CODES = True
+CONSISTENT_INSTITUTIONAL_CODES = True
 
 # Show an extra treemap in the Policy page, showing institutional breakdown. Default: False.
 # Important: insitutional codes must be consistent along the years, see CONSISTENT_INSTITUTIONAL_CODES.
@@ -96,7 +96,7 @@ FACEBOOK_ID             = '143520196296243'
 ANALYTICS_ID            = 'UA-28946840-42'
 
 # Setup Data Source Budget link
-DATA_SOURCE_BUDGET      = ''
+DATA_SOURCE_BUDGET      = 'http://www.ajmao.org/Contingut.aspx?IdPub=12489'
 
 # Setup Data Source Population link
 DATA_SOURCE_POPULATION  = 'http://www.ine.es/jaxiT3/Tabla.htm?t=2860&L=0'

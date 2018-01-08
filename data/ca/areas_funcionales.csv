@@ -35,3 +35,49 @@
 #
 # Programas específicos de Maó
 #
+0,1,1,0,Deute públic
+1,3,0,0,Seguretat
+1,5,1,1,Urbanisme
+1,5,1,2,Obra pública
+1,5,2,2,Conservació i rehabilitació de l'edificació
+1,5,3,2,Vies públiques
+1,6,1,0,Aigua i sanejament
+1,6,2,1,R.S.U. i neteja viària
+1,6,2,4,Vies públiques
+1,6,4,0,Cementiris
+1,6,5,0,Enllumenat públic
+1,6,5,1,Ciutat i medi ambient
+1,6,5,2,Brigada d'obres
+1,7,1,0,Parcs i jardins
+1,7,1,1,Microciutat
+1,7,2,1,Medi ambient urbà
+2,3,1,0,Asistència social primaria
+2,3,1,1,R.G.A.
+2,4,1,0,Formació i ocupació
+3,1,1,0,Sanitat
+3,1,2,0,R.G.A.
+3,2,1,0,Educació
+3,2,3,0,Educació
+3,2,6,0,Escoles municipals
+3,3,0,0,Cultura
+3,3,2,2,Arxiu i patrimoni
+3,3,4,0,Promoció cultural
+3,3,4,1,Centre d'Art i Història Hernández Sanz
+3,3,4,4,Promoció cultural
+3,3,7,0,Oci i temps lliure
+3,3,8,0,Festes
+3,4,0,0,Esports
+4,3,1,0,Comerç
+4,3,1,2,Mercats
+4,3,2,0,Turisme
+4,3,3,0,Activitats
+9,1,2,0,Òrgans de govern
+9,2,0,2,Serveis jurídics
+9,2,0,3,Contractació
+9,2,0,5,Recursos humans
+9,2,0,6,Informàtica
+9,2,5,0,Oficina d’atenció al ciutadà
+9,2,6,0,Comunicació
+9,2,9,0,Situacions transitòries i contingències
+9,3,1,1,Gestió pressupostària i compres
+9,3,4,0,Gestió tributària i financera
