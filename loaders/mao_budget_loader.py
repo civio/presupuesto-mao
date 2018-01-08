@@ -10,6 +10,7 @@ class MaoCsvMapper:
         '2015': {'ic_code': 2, 'fc_code': 3, 'full_ec_code': 4, 'description': 5, 'forecast_amount': 6, 'actual_amount': 9},
         '2014': {'ic_code': 1, 'fc_code': 2, 'full_ec_code': 3, 'description': 4, 'forecast_amount': 5, 'actual_amount': 8},
         '2013': {'ic_code': 2, 'fc_code': 3, 'full_ec_code': 4, 'description': 5, 'forecast_amount': 6, 'actual_amount': 9},
+        '2012': {'ic_code': 2, 'fc_code': 3, 'full_ec_code': 4, 'description': 5, 'forecast_amount': 6, 'actual_amount': 9},
     }
 
     income_mapping = {
@@ -17,6 +18,7 @@ class MaoCsvMapper:
         '2015': {'full_ec_code': 2, 'description': 3, 'forecast_amount': 4, 'actual_amount': 8},
         '2014': {'full_ec_code': 2, 'description': 3, 'forecast_amount': 4, 'actual_amount': 11},
         '2013': {'full_ec_code': 2, 'description': 3, 'forecast_amount': 4, 'actual_amount': 11},
+        '2012': {'full_ec_code': 2, 'description': 3, 'forecast_amount': 4, 'actual_amount': 7},
     }
 
     default = '2016'
