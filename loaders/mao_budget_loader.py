@@ -82,8 +82,9 @@ class MaoBudgetLoader(SimpleBudgetLoader):
         # Expenses
         if is_expense:
             # Institutional code
-            # We only need the digits for the service (the first two)
-            ic_code = line[mapper.ic_code].strip()[:2].ljust(3, 'X')
+            # We only need the one digit to identify the service (the second one)
+            ic_code = line[mapper.ic_code].strip()[1:2]
+            ic_code = '0' + ic_code + 'X'
 
             # Functional code
             # We got decimal values as input, so we normalize them at 4- and add leading zeroes when required

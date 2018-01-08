@@ -1,8 +1,6 @@
 #Institución,Sección,Nombre
 0,,,Ajuntament de Maó
 0,0,0,Ajuntament de Maó
-S,,,Ajuntament de Maó
-C,,,Ajuntament de Maó
-S,G,X,Serveis Generals
-S,P,X,Serveis a les persones
-C,M,X,Ciutat i Medi Ambient
+0,G,X,Serveis Generals
+0,P,X,Serveis a les persones
+0,M,X,Ciutat i Medi Ambient
