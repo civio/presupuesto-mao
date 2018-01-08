@@ -1,0 +1,37 @@
+#Área,Política,Grupo,Programa,Subprograma,Descripción
+#
+# Áreas de gasto y Políticas, definidas en la Orden HAP/419/2014 y comunes a todas las EELL.
+# Ver http://www.boe.es/diario_boe/txt.php?id=BOE-A-2014-2922
+0,,,,Deute públic
+0,1,,,Deute públic
+1,,,,Serveis públics bàsics
+1,3,,,Seguretat i mobilitat ciutadana
+1,5,,,Habitatge i urbanisme
+1,6,,,Benestar comunitari
+1,7,,,Medi ambient
+2,,,,Actuacions de protecció i promoció social
+2,1,,,Pensions
+2,2,,,Altres prestacions econòmiques a favor d'empleats
+2,3,,,Serveis socials i promoció social
+2,4,,,Foment de l'ocupació
+3,,,,Producció de béns públics de caràcter preferent
+3,1,,,Sanitat
+3,2,,,Educació
+3,3,,,Cultura
+3,4,,,Esport
+4,,,,Actuacions de caràcter econòmic
+4,1,,,"Agricultura, ramaderia i pesca"
+4,2,,,Indústria i energia
+4,3,,,"Comerç, turisme i petites i mitjanes empreses"
+4,4,,,Transport públic
+4,5,,,Infraestructures
+4,6,,,"Investigació, desenvolupament e innovació"
+4,9,,,Altres actuacions de caràcter econòmic
+9,,,,Actuacions de caràcter general
+9,1,,,Òrgans de govern
+9,2,,,Serveis de caràcter general
+9,3,,,Administració financera i tributària
+9,4,,,Transferències a altres administracions públiques
+#
+# Programas específicos de Maó
+#

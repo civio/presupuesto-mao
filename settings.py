@@ -108,7 +108,7 @@ DATA_SOURCE_INFLATION   = ''
 MAIN_ENTITY_WEB_URL     = 'http://www.ajmao.org/'
 
 # Setup Main Entity Legal Url (if empty we hide the link)
-MAIN_ENTITY_LEGAL_URL   = 'http://www.ajmao.org/Contingut.aspx?IDIOMA=2&IdPub=7788'
+MAIN_ENTITY_LEGAL_URL   = 'http://www.ajmao.org/Contingut.aspx?IdPub=7788'
 
 # Setup Main Entity Legal Url (if empty we hide the link)
 MAIN_ENTITY_PRIVACY_URL = ''

@@ -22,14 +22,14 @@ I,1,6,,Recargos sobre impuestos directos del Estado y de la Comunidad Autónoma
 I,1,6,0,Sobre impuestos del Estado
 I,1,6,1,Sobre impuestos de la Comunidad Autónoma
 I,1,7,,Recargos sobre impuestos directos de otros entes locales
-I,1,7,0,En el Impuesto sobre Bienes Inmuebles
+I,1,7,0,En el impuesto sobre bienes inmuebles
 I,1,7,1,Recargo provincial en el impuesto sobre actividades económicas
 I,1,7,9,Otros recargos sobre impuestos directos de otros entes locales
 I,1,8,,Impuestos directos extinguidos
 I,1,9,,Otros impuestos directos
 I,2,,,Impuestos indirectos
-I,2,1,,Impuestos sobre el Valor Añadido
-I,2,1,0,Impuesto sobre el Valor Añadido
+I,2,1,,Impuestos sobre el valor añadido
+I,2,1,0,Impuesto sobre el valor añadido
 I,2,2,,Sobre consumos específicos
 I,2,2,0,Impuestos especiales
 I,2,6,,Recargos sobre impuestos indirectos del Estado y de la Comunidad Autónoma
@@ -110,11 +110,11 @@ I,3,9,8,Indemnizaciones de seguros de no vida
 I,3,9,9,Otros ingresos diversos
 I,4,,,Transferencia corrientes
 I,4,,,Transferencias corrientes
-I,4,0,,De la Administración General de la entidad local
-I,4,0,0,De la Administración General de la entidad local
+I,4,0,,De la administración general de la entidad local
+I,4,0,0,De la administración general de la entidad local
 I,4,1,,De organismos autónomos de la entidad local
-I,4,2,,De la Administración del Estado
-I,4,2,0,De la Administración General del Estado
+I,4,2,,De la administración del Estado
+I,4,2,0,De la administración general del Estado
 I,4,2,1,De organismos autónomos y agencias estatales
 I,4,2,2,De fundaciones estatales
 I,4,2,3,"De sociedades mercantiles estatales, entidades públicas empresariales y otros organismos públicos"
@@ -123,7 +123,7 @@ I,4,4,,De entes públicos y sociedades mercantiles de la entidad local
 I,4,4,0,De entes públicos
 I,4,4,1,De sociedades mercantiles
 I,4,5,,De comunidades autónomas
-I,4,5,0,De la Administración General de las comunidades autónomas
+I,4,5,0,De la administración general de las comunidades autónomas
 I,4,5,1,De organismos autónomos y agencias de las comunidades autónomas
 I,4,5,2,De fundaciones de las comunidades autónomas
 I,4,5,3,"De sociedades mercantiles, entidades públicas empresariales y otros organismos públicos dependientes de las comunidades autónomas."
@@ -198,10 +198,10 @@ I,6,1,9,De otras inversiones reales
 I,6,8,,Reintegros por operaciones de capital
 I,6,8,0,De ejercicios cerrados
 I,7,,,Transferencias de capital
-I,7,0,,De la Administración General de la entidad local
+I,7,0,,De la administración general de la entidad local
 I,7,1,,De organismos autónomos de la entidad local
 I,7,2,,De la Administración del Estado
-I,7,2,0,De la Administración General del Estado
+I,7,2,0,De la administración general del Estado
 I,7,2,1,De organismos autónomos y agencias estatales
 I,7,2,2,De fundaciones estatales
 I,7,2,3,"De sociedades mercantiles estatales, entidades públicas empresariales y otros organismos públicos"
@@ -211,7 +211,7 @@ I,7,4,,De entes públicos y sociedades mercantiles de la entidad local
 I,7,4,0,De entes públicos
 I,7,4,1,De sociedades mercantiles
 I,7,5,,De comunidades autónomas
-I,7,5,0,De la Administración General de las comunidades autónomas
+I,7,5,0,De la administración general de las comunidades autónomas
 I,7,5,1,De organismos autónomos y agencias de las comunidades autónomas
 I,7,5,2,De fundaciones de las comunidades autónomas
 I,7,5,3,"De sociedades mercantiles, entidades públicas empresariales y otros organismos públicos dependientes de las comunidades autónomas"
@@ -372,10 +372,10 @@ G,3,5,7,Ejecución de avales
 G,3,5,8,Intereses por operaciones de arrendamiento financiero (leasing)
 G,3,5,9,Otros gastos financieros
 G,4,,,Transferencias corrientes
-G,4,0,,A la Administración General de la entidad local
+G,4,0,,A la administración general de la entidad local
 G,4,1,,A organismos autónomos de la entidad local
-G,4,2,,A la Administración del Estado
-G,4,2,0,A la Administración General del Estado
+G,4,2,,A la administración del Estado
+G,4,2,0,A la administración general del Estado
 G,4,2,1,A organismos autónomos y agencias del Estado
 G,4,2,2,A fundaciones estatales
 G,4,2,3,"A sociedades mercantiles estatales, entidades públicas empresariales y otros organismos públicos"
@@ -386,7 +386,7 @@ G,4,4,1,Subvenciones para bonificacion de intereses y primas de seguros
 G,4,4,2,Subvenciones para reducir el precio a pagar por los consumidores
 G,4,4,9,Otras subvenciones a entes públicos y sociedades mercantiles de la entidad local
 G,4,5,,A comunidades autónomas
-G,4,5,0,A la Administración General de las comunidades autónomas
+G,4,5,0,A la administración general de las comunidades autónomas
 G,4,5,1,A organismos autónomos y agencias de las comunidades autónomas
 G,4,5,2,A fundaciones de las comunidades autónomas
 G,4,5,3,A sociedades mercantiles entidades públicas empresariales y otros organismos públicos dependientes de las comunidades autónomas
@@ -448,19 +448,19 @@ G,6,9,,Inversiones en bienes comunales
 G,6,9,0,Terrenos y bienes naturales
 G,6,9,2,Inversión en infraestructuras
 G,7,,,Transferencias de capital
-G,7,0,,A la Administración General de la entidad local
+G,7,0,,A la administración general de la entidad local
 G,7,1,,A organismos autónomos de la entidad local
 G,7,1,0,A organismos autónomos de la entidad local
 G,7,1,1,A organismos autónomos de la entidad local
 G,7,2,,A la Administración del Estado
-G,7,2,0,A la Administración General del Estado
+G,7,2,0,A la administración general del Estado
 G,7,2,1,A organismos autónomos y agencias
 G,7,2,2,A fundaciones estatales
 G,7,2,3,"A sociedades mercantiles estatales, entidades públicas empresariales y otros organismos públicos"
 G,7,3,,A la Seguridad Social
 G,7,4,,A entes públicos y sociedades mercantiles de la entidad local
 G,7,5,,A comunidades autónomas
-G,7,5,0,A la Administración General de las comunidades autónomas
+G,7,5,0,A la administración general de las comunidades autónomas
 G,7,5,1,A organismos autónomos y agencias de las comunidades autónomas
 G,7,5,2,A fundaciones de las comunidades autónomas
 G,7,5,3,"A sociedades mercantiles, entidades públicas empresariales y otros organismos públicos dependientes de las comunidades autónomas"
@@ -521,32 +521,5 @@ G,9,4,,Devolución de depósitos y fianzas
 G,9,4,0,Devolución de depósitos
 G,9,4,1,Devolución de fianzas
 #
+# Conceptos específicos de Maó
 #
-# Conceptos específicos de Arona
-#
-I,4,1,0,De organismos autónomos de la entidad local
-I,4,1,1,Otras transferencias
-I,4,6,0,De entidades locales
-I,4,7,0,De empresas privadas
-I,4,8,0,De familias e instituciones sin fines de lucro
-I,5,2,0,Intereses de depósitos
-I,5,3,0,Dividendos
-I,7,1,0,De organismos autónomos de la entidad local
-I,7,7,0,De empresas privadas
-I,7,8,0,De familias e instituciones sin fines de lucro
-G,4,1,0,A organismos autónomos de la entidad local
-G,4,8,0,A familias e instituciones sin fines de lucro
-G,4,6,0,A otras entidades locales
-G,4,6,9,A otras entidades locales
-G,2,6,0,Trabajos realizados por instituciones sin fines de lucro
-G,4,8,1,Subvenciones y premios
-G,4,8,2,A familias e instituciones sin fines de lucro
-G,4,8,3,Convenio Archivo Diocesano
-G,6,0,1,Otras inversiones
-G,6,0,2,Inversión nueva en infraestructuras y bienes destinados al uso general
-G,6,0,6,Otras inversiones nuevas en infraestructuras y bienes destinados al uso general
-G,6,0,8,Otras inversiones nuevas en infraestructuras y bienes destinados al uso general
-G,6,1,0,Inversiones de reposición de infraestructuras y bienes destinados al uso general
-G,6,1,1,Otras inversiones de reposición en infraestructuras y bienes destinados al uso general
-G,6,5,9,Inversiones gestionadas para otros entes públicos
-G,7,8,0,A familias e instituciones sin fines de lucro

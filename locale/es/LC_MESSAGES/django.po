@@ -32,7 +32,7 @@ msgid ""
 "ingresos como el IVA y el IRPF"
 msgstr ""
 "El dinero recaudado localmente se complementa con las transferencias de la Administración "
-"General del Estado y del Gobierno de las Illes Balears, que son los encargados de recaudar otros "
+"General del Estado y del Gobierno de las Islas Baleares, que son los encargados de recaudar otros "
 "ingresos como el IVA y el IRPF"
 
 #: templates/budgets/index.html:17
