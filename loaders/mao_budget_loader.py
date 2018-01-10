@@ -1,10 +1,11 @@
 # -*- coding: UTF-8 -*-
 from budget_app.models import *
 from budget_app.loaders import SimpleBudgetLoader
+
 import re
 
 
-class MaoCsvMapper:
+class MaoBudgetCsvMapper:
     expenses_mapping = {
         '2016': {'ic_code': 2, 'fc_code': 3, 'full_ec_code': 4, 'description': 5, 'forecast_amount': 6, 'actual_amount': 11},
         '2015': {'ic_code': 2, 'fc_code': 3, 'full_ec_code': 4, 'description': 5, 'forecast_amount': 6, 'actual_amount': 9},
@@ -24,15 +25,15 @@ class MaoCsvMapper:
     default = '2016'
 
     def __init__(self, year, is_expense):
-        column_mapping = MaoCsvMapper.expenses_mapping
+        column_mapping = MaoBudgetCsvMapper.expenses_mapping
 
         if not is_expense:
-            column_mapping = MaoCsvMapper.income_mapping
+            column_mapping = MaoBudgetCsvMapper.income_mapping
 
         mapping = column_mapping.get(year)
 
         if not mapping:
-            mapping = column_mapping.get(MaoCsvMapper.default)
+            mapping = column_mapping.get(MaoBudgetCsvMapper.default)
 
         self.ic_code = mapping.get('ic_code')
         self.fc_code = mapping.get('fc_code')
@@ -68,16 +69,19 @@ class MaoBudgetLoader(SimpleBudgetLoader):
         '9324': '9340',     # Gestió tributària i financera
     }
 
+    # make year data available in the class and call super
+    def load(self, entity, year, path, status):
+        self.year = year
+        SimpleBudgetLoader.load(self, entity, year, path, status)
+
+    # Parse an input line into fields
     def parse_item(self, filename, line):
         # Type of data
         is_expense = (filename.find('gastos.csv') != -1)
         is_actual = (filename.find('/ejecucion_') != -1)
 
-        # Year
-        year = re.search('municipio/(\d+)/', filename).group(1)
-
         # Mapper
-        mapper = MaoCsvMapper(year, is_expense)
+        mapper = MaoBudgetCsvMapper(self.year, is_expense)
 
         # Expenses
         if is_expense:
@@ -91,7 +95,7 @@ class MaoBudgetLoader(SimpleBudgetLoader):
             fc_code = line[mapper.fc_code].split('.')[0].rjust(4, '0')
 
             # For pre 2015 budgets we may need to amend the programme code
-            if int(year) < 2015:
+            if int(self.year) < 2015:
                 fc_code = MaoBudgetLoader.programme_mapping.get(fc_code, fc_code)
 
             # Economic code
