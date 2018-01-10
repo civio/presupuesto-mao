@@ -11,6 +11,7 @@ class MaoPaymentsCsvMapper:
         '2015': {'fc_code': 12, 'date': 4, 'payee': 15, 'description': 16, 'amount': 8},
         '2014': {'fc_code': 12, 'date': 4, 'payee': 14, 'description': 15, 'amount': 8},
         '2013': {'fc_code': 12, 'date': 4, 'payee': 14, 'description': 15, 'amount': 8},
+        '2012': {'fc_code': 11, 'date': 3, 'payee': 13, 'description': 14, 'amount': 7},
     }
 
     default = '2016'
@@ -30,7 +31,6 @@ class MaoPaymentsCsvMapper:
 
 
 class MaoPaymentsLoader(PaymentsLoader):
-
     # make year data available in the class and call super
     def load(self, entity, year, path):
         self.year = year
@@ -44,6 +44,10 @@ class MaoPaymentsLoader(PaymentsLoader):
         # For the functional code We got decimal values as input, so we
         # normalize them at 4- and add leading zeroes when required
         fc_code = line[mapper.fc_code].split('.')[0].rjust(4, '0')
+
+        # We ignore rows with incomplete data
+        if fc_code == '0000':
+            return
 
         # first two digits of the functional code make the policy id
         policy_id = fc_code[:2]
@@ -65,6 +69,10 @@ class MaoPaymentsLoader(PaymentsLoader):
 
         # Payee data
         payee = line[mapper.payee].strip()
+
+        # Some rows doesn't include payee data, so we asign an arbitrary value
+        if not payee:
+            payee = "ALTRES"
 
         # We haven't got any anonymized entries
         anonymized = False
