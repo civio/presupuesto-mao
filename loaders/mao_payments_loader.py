@@ -10,6 +10,7 @@ class MaoPaymentsCsvMapper:
         '2016': {'fc_code': 9, 'date': 4, 'payee': 12, 'description': 13, 'amount': 5},
         '2015': {'fc_code': 12, 'date': 4, 'payee': 15, 'description': 16, 'amount': 8},
         '2014': {'fc_code': 12, 'date': 4, 'payee': 14, 'description': 15, 'amount': 8},
+        '2013': {'fc_code': 12, 'date': 4, 'payee': 14, 'description': 15, 'amount': 8},
     }
 
     default = '2016'
