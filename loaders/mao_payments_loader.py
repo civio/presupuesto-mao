@@ -1,17 +1,47 @@
 # -*- coding: UTF-8 -*-
-import datetime
-
 from budget_app.loaders import PaymentsLoader
 from budget_app.models import Budget
+
+import datetime
+
+
+class MaoPaymentsCsvMapper:
+    column_mapping = {
+        '2016': {'fc_code': 9, 'date': 4, 'payee': 12, 'description': 13, 'amount': 5},
+        '2015': {'fc_code': 12, 'date': 4, 'payee': 15, 'description': 16, 'amount': 8},
+    }
+
+    default = '2016'
+
+    def __init__(self, year):
+        column_mapping = MaoPaymentsCsvMapper.column_mapping
+        mapping = column_mapping.get(year)
+
+        if not mapping:
+            mapping = column_mapping.get(MaoPaymentsCsvMapper.default)
+
+        self.fc_code = mapping.get('fc_code')
+        self.date = mapping.get('date')
+        self.payee = mapping.get('payee')
+        self.description = mapping.get('description')
+        self.amount = mapping.get('amount')
 
 
 class MaoPaymentsLoader(PaymentsLoader):
 
+    # make year data available in the class and call super
+    def load(self, entity, year, path):
+        self.year = year
+        PaymentsLoader.load(self, entity, year, path)
+
     # Parse an input line into fields
     def parse_item(self, budget, line):
+        # Mapper
+        mapper = MaoPaymentsCsvMapper(self.year)
+
         # For the functional code We got decimal values as input, so we
         # normalize them at 4- and add leading zeroes when required
-        fc_code = line[9].split('.')[0].rjust(4, '0')
+        fc_code = line[mapper.fc_code].split('.')[0].rjust(4, '0')
 
         # first two digits of the functional code make the policy id
         policy_id = fc_code[:2]
@@ -22,7 +52,7 @@ class MaoPaymentsLoader(PaymentsLoader):
         # We have got dates as numeric values, per XLS convention: integer part
         # stores the number of days since the epoch (Jan 1st 1900 in our case)
         # and the fractional part stores the percentage of the day
-        date = line[4].strip()
+        date = line[mapper.date].strip()
 
         # serial number that represents the number of elapsed days since January 1, 1900
         days = int(float(date))
@@ -32,16 +62,16 @@ class MaoPaymentsLoader(PaymentsLoader):
         date = date.strftime("%Y-%m-%d")
 
         # Payee data
-        payee = line[12].strip()
+        payee = line[mapper.payee].strip()
 
         # We haven't got any anonymized entries
         anonymized = False
 
         # Description
-        description = line[13].strip()
+        description = line[mapper.description].strip()
 
         # Parse amount
-        amount = line[5].strip()
+        amount = line[mapper.amount].strip()
         amount = self._read_english_number(amount)
 
         return {
