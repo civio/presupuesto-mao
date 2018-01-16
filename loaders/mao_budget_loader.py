@@ -15,10 +15,10 @@ class MaoBudgetCsvMapper:
     }
 
     income_mapping = {
-        '2016': {'full_ec_code': 2, 'description': 3, 'forecast_amount': 4, 'actual_amount': 9},
+        '2016': {'full_ec_code': 2, 'description': 3, 'forecast_amount': 4, 'actual_amount': 7},
         '2015': {'full_ec_code': 2, 'description': 3, 'forecast_amount': 4, 'actual_amount': 8},
-        '2014': {'full_ec_code': 2, 'description': 3, 'forecast_amount': 4, 'actual_amount': 11},
-        '2013': {'full_ec_code': 2, 'description': 3, 'forecast_amount': 4, 'actual_amount': 11},
+        '2014': {'full_ec_code': 2, 'description': 3, 'forecast_amount': 4, 'actual_amount': 8},
+        '2013': {'full_ec_code': 2, 'description': 3, 'forecast_amount': 4, 'actual_amount': 8},
         '2012': {'full_ec_code': 2, 'description': 3, 'forecast_amount': 4, 'actual_amount': 7},
     }
 
