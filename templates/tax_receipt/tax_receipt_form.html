@@ -1,0 +1,86 @@
+<form class="form-user-incomings" action="#" method="get">
+
+  <h3>{{ _('Impuestos') }}</h3>
+
+  <div class="row">
+    <div class="form-group">
+      <label for="select-house">{{ _('Introduce el valor catastral de tu vivienda') }}</label>
+      <div class="input-group">
+        <input id="select-house" type="number" min="0" step="any" class="form-control">
+        <div class="input-group-addon">€</div>
+      </div>
+    </div>
+    <div class="select-info">{{ _('IBI') }}: <span id="select-house-tax"></span></div>
+  </div>
+    
+  <div class="row">
+    <div class="form-group">
+      <label for="select-vehicle">{{ _('Vehículo') }}</label>
+      <select id="select-vehicle" class="form-control">
+        <option value="0" type="text" selected="selected">{{ _('Ninguno') }}</option>
+        <option value="1" type="text">{{ _('Ciclomotor o Motocicleta hasta 125 cc') }}</option>
+        <option value="2" type="text">{{ _('Motocicleta entre 125 cc y 250 cc') }}</option>
+        <option value="3" type="text">{{ _('Motocicleta entre 250 cc y 500 cc') }}</option>
+        <option value="4" type="text">{{ _('Motocicleta entre 500 cc y 1000 cc') }}</option>
+        <option value="5" type="text">{{ _('Motocicleta de más de 1000 cc') }}</option>
+        <option value="6" type="text">{{ _('Coche muy pequeño (menos de 8 caballos fiscales)') }}</option>
+        <option value="7" type="text">{{ _('Coche pequeño (entre 8 y 12 caballos fiscales)') }}</option>
+        <option value="8" type="text">{{ _('Coche mediano (entre 12 y 16 caballos fiscales)') }}</option>
+        <option value="9" type="text">{{ _('Coche grande (entre 16 y 20 caballos fiscales)') }}</option>
+        <option value="10" type="text">{{ _('Coche muy grande (más de 20 caballos fiscales)') }}</option>
+      </select>
+    </div>
+    <div class="select-info">{{ _('Impuesto a vehículos motorizados') }}: <span id="select-vehicle-tax"></span></div>
+  </div>
+    
+  <div class="row">
+    <div class="form-group">
+      <label for="select-extra-vehicle">{{ _('Vehículo adicional') }}</label>
+      <select id="select-extra-vehicle" class="form-control">
+        <option value="0" type="text" selected="selected">{{ _('Ninguno') }}</option>
+        <option value="1" type="text">{{ _('Ciclomotor o Motocicleta hasta 125 cc') }}</option>
+        <option value="2" type="text">{{ _('Motocicleta entre 125 cc y 250 cc') }}</option>
+        <option value="3" type="text">{{ _('Motocicleta entre 250 cc y 500 cc') }}</option>
+        <option value="4" type="text">{{ _('Motocicleta entre 500 cc y 1000 cc') }}</option>
+        <option value="5" type="text">{{ _('Motocicleta de más de 1000 cc') }}</option>
+        <option value="6" type="text">{{ _('Coche muy pequeño (menos de 8 caballos fiscales)') }}</option>
+        <option value="7" type="text">{{ _('Coche pequeño (entre 8 y 12 caballos fiscales)') }}</option>
+        <option value="8" type="text">{{ _('Coche mediano (entre 12 y 16 caballos fiscales)') }}</option>
+        <option value="9" type="text">{{ _('Coche grande (entre 16 y 20 caballos fiscales)') }}</option>
+        <option value="10" type="text">{{ _('Coche muy grande (más de 20 caballos fiscales)') }}</option>
+      </select>
+    </div>
+    <div class="select-info">{{ _('Impuesto a vehículos motorizados') }}: <span id="select-extra-vehicle-tax"></span></div>
+  </div>
+    
+  <!--
+  <h3>{{ _('Tasas') }}</h3>
+
+  <div class="row">
+    <div class="form-group"> 
+      <label for="select-garbage">{{ _('Unidad familiar') }}</label>
+      <select id="select-garbage" class="form-control">
+        <option value="0" type="text" selected="selected">{{ _('Un adulto y dos menores') }}</option>
+        <option value="1" type="text">{{ _('Dos adultos y dos menores') }}</option>
+        <option value="2" type="text">{{ _('Dos adultos jubilados') }}</option>
+        <option value="3" type="text">{{ _('Familia numerosa') }}</option>
+      </select>
+    </div>
+    <div class="select-info">{{ _('Tasa de basuras') }}: <span id="select-garbage-tax"></span></div>
+  </div>
+
+  <div class="row">
+    <div class="form-group">
+      <label for="select-parking">{{ _('¿Tienes un vado?') }}</label>
+      <select id="select-parking" class="form-control">
+        <option value="0" type="text" selected="selected">{{ _('No') }}</option>
+        <option value="1" type="text">{{ _('Sí, comunitario') }}</option>
+        <option value="2" type="text">{{ _('Sí, privado') }}</option>
+      </select>
+    </div>
+    <div class="select-info">{{ _('Tasa') }}: <span id="select-parking-tax"></span></div>
+  </div>
+  -->
+</form>
+
+<p id="tax-amount">{{ _('Contribuyes con un total de <strong id="tax-amount-paid"></strong> a los presupuestos del Gobierno de Aragón')|safe }}.</p>
