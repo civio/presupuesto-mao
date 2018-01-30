@@ -58,3 +58,36 @@ msgstr "D’on vénen els ingressos? En què i per a què és la despesa de l’
 #: templates/welcome/index.html:42
 msgid "Para que tengas una idea general de los ingresos y gastos del Gobierno de Aragón"
 msgstr "Perquè et facis una idea general dels ingressos i les despeses de l'Ajuntament de Maó"
+
+msgid "Introduce el valor catastral de tu vivienda"
+msgstr "Introdueix el valor cadastral del teu habitatge"
+
+msgid "Ciclomotor o Motocicleta hasta 125 cc"
+msgstr "Ciclomotor o Motocicletes fins 125 cc"
+
+msgid "Motocicleta entre 125 cc y 250 cc"
+msgstr "Motocicleta entre 125 cc y 250 cc"
+
+msgid "Motocicleta entre 250 cc y 500 cc"
+msgstr "Motocicleta entre 250 cc y 500 cc"
+
+msgid "Motocicleta entre 500 cc y 1000 cc"
+msgstr "Motocicleta entre 500 cc y 1000 cc"
+
+msgid "Motocicleta de más de 1000 cc"
+msgstr "Motocicleta de més de 1000 cc"
+
+msgid "Coche muy pequeño (menos de 8 caballos fiscales)"
+msgstr "Cotxe molt petit (menys de 8 cavalls fiscals)"
+
+msgid "Coche pequeño (entre 8 y 12 caballos fiscales)"
+msgstr "Cotxe petit (entre 8 i 12 cavalls fiscals)"
+
+msgid "Coche mediano (entre 12 y 16 caballos fiscales)"
+msgstr "Cotxe mitjà (entre 12 i 16 cavalls fiscals)"
+
+msgid "Coche grande (entre 16 y 20 caballos fiscales)"
+msgstr "Cotxe gran (entre 16 i 20 cavalls fiscals)"
+
+msgid "Coche muy grande (más de 20 caballos fiscales)"
+msgstr "Cotxe molt gran (més 20 cavalls fiscals)"
