@@ -65,13 +65,13 @@ msgstr "Introdueix el valor cadastral del teu habitatge"
 msgid "Ciclomotor o Motocicleta hasta 125 cc"
 msgstr "Ciclomotor o Motocicletes fins 125 cc"
 
-msgid "Motocicleta entre 125 cc i 250 cc"
+msgid "Motocicleta entre 125 cc y 250 cc"
 msgstr "Motocicleta entre 125 cc i 250 cc"
 
-msgid "Motocicleta entre 250 cc i 500 cc"
+msgid "Motocicleta entre 250 cc y 500 cc"
 msgstr "Motocicleta entre 250 cc i 500 cc"
 
-msgid "Motocicleta entre 500 cc i 1000 cc"
+msgid "Motocicleta entre 500 cc y 1000 cc"
 msgstr "Motocicleta entre 500 cc i 1000 cc"
 
 msgid "Motocicleta de más de 1000 cc"
