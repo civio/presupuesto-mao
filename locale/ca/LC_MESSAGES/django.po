@@ -95,6 +95,9 @@ msgstr "Cotxe molt gran (més 20 cavalls fiscals)"
 msgid "Bonificación vehículo"
 msgstr "Bonificació vehicle"
 
+msgid "Ninguna"
+msgstr "Cap"
+
 msgid "Vehículo histórico"
 msgstr "Vehicle històric"
 
