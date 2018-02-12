@@ -12,8 +12,15 @@
     TaxReceipt.taxes.house.callback      = function(selector, values) {
       return $('#select-'+selector).val()*0.0067;
     };
+
     TaxReceipt.taxes.vehicle.values      = [0, 8.18, 14, 28.48, 56.95, 113.89, 23.35, 63.05, 133.09, 168.47, 215.04];
     TaxReceipt.taxes.vehicleExtra.values = [0, 8.18, 14, 28.48, 56.95, 113.89, 23.35, 63.05, 133.09, 168.47, 215.04];
+    TaxReceipt.taxes.vehicle.callback      =
+    TaxReceipt.taxes.vehicleExtra.callback = function(selector, values) {
+      var value = values[$('#select-'+selector).val()];
+      var bonus = [0, 1, .75][$('#select-'+selector+'-bonus').val()];
+      return value * (1-bonus);
+    }
     
     delete TaxReceipt.taxes.garbage;
     delete TaxReceipt.taxes.parking;
@@ -21,13 +28,13 @@
     // Add extra tax
     // We can add new taxed to TaxReceipt.taxes object
     // defining its selector, values array & callback function
-    /*
-    TaxReceipt.taxes.animal = {
-      selector: 'animal',
-      values:   [0, 100, 200, 300, 400],
-      callback: TaxReceipt.getSelectTaxPaid
+    TaxReceipt.taxes.payment = {
+      selector: 'payment-bonus',
+      values:   [0, -0.03],
+      callback: function(selector, values) {
+        return TaxReceipt.totalTaxPaid * values[$('#select-'+selector).val()];
+      }
     }
-    */
 
     // Override redrawGrid method
     TaxReceipt.redrawGrid = function() {

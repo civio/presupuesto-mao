@@ -91,3 +91,21 @@ msgstr "Cotxe gran (entre 16 i 20 cavalls fiscals)"
 
 msgid "Coche muy grande (más de 20 caballos fiscales)"
 msgstr "Cotxe molt gran (més 20 cavalls fiscals)"
+
+msgid "Bonificación vehículo"
+msgstr "Bonificació vehicle"
+
+msgid "Vehículo histórico"
+msgstr "Vehicle històric"
+
+msgid "Vehículo eléctrico, mixto o combustible no petróleo"
+msgstr "Vehicle elèctric, mixt o combustible no petroli"
+
+msgid "Bonificación vehículo adicional"
+msgstr "Bonificació vehicle addicional"
+
+msgid "¿Pago de recibos mediante domiciliación bancaria?"
+msgstr "Pagament de rebuts mitjançant domiciliació bancària?"
+
+msgid "Bonificación por domiciliación bancaria"
+msgstr "Bonificació per domiciliació bancària"

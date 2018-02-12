@@ -32,6 +32,16 @@
     </div>
     <div class="select-info">{{ _('Impuesto a vehículos motorizados') }}: <span id="select-vehicle-tax"></span></div>
   </div>
+  <div class="row">  
+    <div class="form-group">
+      <label for="select-vehicle-bonus">{{ _('Bonificación vehículo') }}</label>
+      <select id="select-vehicle-bonus" class="form-control">
+        <option value="0" type="text" selected="selected">{{ _('Ninguna') }}</option>
+        <option value="1" type="text">{{ _('Vehículo histórico') }}</option>
+        <option value="2" type="text">{{ _('Vehículo eléctrico, mixto o combustible no petróleo') }}</option>
+      </select>
+    </div>
+  </div>
     
   <div class="row">
     <div class="form-group">
@@ -52,35 +62,28 @@
     </div>
     <div class="select-info">{{ _('Impuesto a vehículos motorizados') }}: <span id="select-extra-vehicle-tax"></span></div>
   </div>
-    
-  <!--
-  <h3>{{ _('Tasas') }}</h3>
-
-  <div class="row">
-    <div class="form-group"> 
-      <label for="select-garbage">{{ _('Unidad familiar') }}</label>
-      <select id="select-garbage" class="form-control">
-        <option value="0" type="text" selected="selected">{{ _('Un adulto y dos menores') }}</option>
-        <option value="1" type="text">{{ _('Dos adultos y dos menores') }}</option>
-        <option value="2" type="text">{{ _('Dos adultos jubilados') }}</option>
-        <option value="3" type="text">{{ _('Familia numerosa') }}</option>
+  <div class="row">  
+    <div class="form-group">
+      <label for="select-extra-vehicle-bonus">{{ _('Bonificación vehículo adicional') }}</label>
+      <select id="select-extra-vehicle-bonus" class="form-control">
+        <option value="0" type="text" selected="selected">{{ _('Ninguna') }}</option>
+        <option value="1" type="text">{{ _('Vehículo histórico') }}</option>
+        <option value="2" type="text">{{ _('Vehículo eléctrico, mixto o combustible no petróleo') }}</option>
       </select>
     </div>
-    <div class="select-info">{{ _('Tasa de basuras') }}: <span id="select-garbage-tax"></span></div>
   </div>
-
+ 
   <div class="row">
     <div class="form-group">
-      <label for="select-parking">{{ _('¿Tienes un vado?') }}</label>
-      <select id="select-parking" class="form-control">
+      <label for="select-payment-bonus">{{ _('¿Pago de recibos mediante domiciliación bancaria?') }}</label>
+      <select id="select-payment-bonus" class="form-control">
         <option value="0" type="text" selected="selected">{{ _('No') }}</option>
-        <option value="1" type="text">{{ _('Sí, comunitario') }}</option>
-        <option value="2" type="text">{{ _('Sí, privado') }}</option>
+        <option value="1" type="text">{{ _('Sí') }}</option>
       </select>
     </div>
-    <div class="select-info">{{ _('Tasa') }}: <span id="select-parking-tax"></span></div>
+    <div class="select-info">{{ _('Bonificación por domiciliación bancaria') }}: <span id="select-payment-bonus-tax"></span></div>
   </div>
-  -->
+
 </form>
 
 <p id="tax-amount">{{ _('Contribuyes con un total de <strong id="tax-amount-paid"></strong> a los presupuestos del Gobierno de Aragón')|safe }}.</p>
