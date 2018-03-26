@@ -7,6 +7,7 @@ import datetime
 
 class MaoPaymentsCsvMapper:
     column_mapping = {
+        '2017': {'fc_code': 12, 'date': 4, 'payee': 15, 'description': 16, 'amount': 8},
         '2016': {'fc_code': 9, 'date': 4, 'payee': 12, 'description': 13, 'amount': 5},
         '2015': {'fc_code': 12, 'date': 4, 'payee': 15, 'description': 16, 'amount': 8},
         '2014': {'fc_code': 12, 'date': 4, 'payee': 14, 'description': 15, 'amount': 8},
@@ -14,14 +15,9 @@ class MaoPaymentsCsvMapper:
         '2012': {'fc_code': 11, 'date': 3, 'payee': 13, 'description': 14, 'amount': 7},
     }
 
-    default = '2016'
-
     def __init__(self, year):
         column_mapping = MaoPaymentsCsvMapper.column_mapping
         mapping = column_mapping.get(year)
-
-        if not mapping:
-            mapping = column_mapping.get(MaoPaymentsCsvMapper.default)
 
         self.fc_code = mapping.get('fc_code')
         self.date = mapping.get('date')
@@ -41,7 +37,7 @@ class MaoPaymentsLoader(PaymentsLoader):
         # Mapper
         mapper = MaoPaymentsCsvMapper(self.year)
 
-        # For the functional code We got decimal values as input, so we
+        # For the functional code we may get decimal values as input, so we
         # normalize them at 4- and add leading zeroes when required
         fc_code = line[mapper.fc_code].split('.')[0].rjust(4, '0')
 
