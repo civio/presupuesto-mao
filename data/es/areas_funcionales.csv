@@ -50,6 +50,7 @@
 1,6,5,2,Brigada de obras
 1,7,1,0,Parques y jardines
 1,7,1,1,Microciudad
+1,7,1,9,Edificios municipales
 1,7,2,1,Medio ambiente urbano
 2,3,1,0,Asistencia social primaria
 2,3,1,1,R.G.A.
@@ -58,6 +59,7 @@
 3,1,2,0,R.G.A.
 3,2,1,0,Educación
 3,2,3,0,Educación
+3,2,3,1,Educación 0-3 años
 3,2,6,0,Escuelas municipales
 3,3,0,0,Cultura
 3,3,2,0,Claustro del Carmen

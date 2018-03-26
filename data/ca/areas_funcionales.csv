@@ -50,6 +50,7 @@
 1,6,5,2,Brigada d'obres
 1,7,1,0,Parcs i jardins
 1,7,1,1,Microciutat
+1,7,1,9,Edificis municipals
 1,7,2,1,Medi ambient urbà
 2,3,1,0,Asistència social primaria
 2,3,1,1,R.G.A.
@@ -58,6 +59,7 @@
 3,1,2,0,R.G.A.
 3,2,1,0,Educació
 3,2,3,0,Educació
+3,2,3,1,Educació 0-3 anys
 3,2,6,0,Escoles municipals
 3,3,0,0,Cultura
 3,3,2,0,Claustre del Carme

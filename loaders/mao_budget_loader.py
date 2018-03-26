@@ -7,6 +7,7 @@ import re
 
 class MaoBudgetCsvMapper:
     expenses_mapping = {
+        '2017': {'ic_code': 3, 'fc_code': 4, 'full_ec_code': 5, 'description': 6, 'forecast_amount': 7, 'actual_amount': 13},
         '2016': {'ic_code': 2, 'fc_code': 3, 'full_ec_code': 4, 'description': 5, 'forecast_amount': 6, 'actual_amount': 11},
         '2015': {'ic_code': 2, 'fc_code': 3, 'full_ec_code': 4, 'description': 5, 'forecast_amount': 6, 'actual_amount': 9},
         '2014': {'ic_code': 1, 'fc_code': 2, 'full_ec_code': 3, 'description': 4, 'forecast_amount': 5, 'actual_amount': 8},
@@ -15,14 +16,13 @@ class MaoBudgetCsvMapper:
     }
 
     income_mapping = {
+        '2017': {'full_ec_code': 2, 'description': 3, 'forecast_amount': 4, 'actual_amount': 9},
         '2016': {'full_ec_code': 2, 'description': 3, 'forecast_amount': 4, 'actual_amount': 7},
         '2015': {'full_ec_code': 2, 'description': 3, 'forecast_amount': 4, 'actual_amount': 8},
         '2014': {'full_ec_code': 2, 'description': 3, 'forecast_amount': 4, 'actual_amount': 8},
         '2013': {'full_ec_code': 2, 'description': 3, 'forecast_amount': 4, 'actual_amount': 8},
         '2012': {'full_ec_code': 2, 'description': 3, 'forecast_amount': 4, 'actual_amount': 7},
     }
-
-    default = '2016'
 
     def __init__(self, year, is_expense):
         column_mapping = MaoBudgetCsvMapper.expenses_mapping
@@ -31,9 +31,6 @@ class MaoBudgetCsvMapper:
             column_mapping = MaoBudgetCsvMapper.income_mapping
 
         mapping = column_mapping.get(year)
-
-        if not mapping:
-            mapping = column_mapping.get(MaoBudgetCsvMapper.default)
 
         self.ic_code = mapping.get('ic_code')
         self.fc_code = mapping.get('fc_code')
