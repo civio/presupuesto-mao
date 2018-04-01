@@ -1,12 +1,10 @@
 # -*- coding: UTF-8 -*-
-from budget_app.models import *
 from budget_app.loaders import SimpleBudgetLoader
-
-import re
 
 
 class MaoBudgetCsvMapper:
     expenses_mapping = {
+        '2018': {'ic_code': 0, 'fc_code': 1, 'full_ec_code': 3, 'description': 5, 'forecast_amount': 7, 'actual_amount': None},
         '2017': {'ic_code': 3, 'fc_code': 4, 'full_ec_code': 5, 'description': 6, 'forecast_amount': 7, 'actual_amount': 13},
         '2016': {'ic_code': 2, 'fc_code': 3, 'full_ec_code': 4, 'description': 5, 'forecast_amount': 6, 'actual_amount': 11},
         '2015': {'ic_code': 2, 'fc_code': 3, 'full_ec_code': 4, 'description': 5, 'forecast_amount': 6, 'actual_amount': 9},
@@ -16,6 +14,7 @@ class MaoBudgetCsvMapper:
     }
 
     income_mapping = {
+        '2018': {'full_ec_code': 0, 'description': 2, 'forecast_amount': 4, 'actual_amount': None},
         '2017': {'full_ec_code': 2, 'description': 3, 'forecast_amount': 4, 'actual_amount': 9},
         '2016': {'full_ec_code': 2, 'description': 3, 'forecast_amount': 4, 'actual_amount': 7},
         '2015': {'full_ec_code': 2, 'description': 3, 'forecast_amount': 4, 'actual_amount': 8},
