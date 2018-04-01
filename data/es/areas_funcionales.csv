@@ -38,8 +38,8 @@
 0,1,1,0,Deuda pública
 1,3,0,0,Seguridad
 1,5,1,1,Urbanismo
-1,5,1,2,Obra pública
-1,5,2,2,Conservación y rehabilitación de la edificación
+1,5,1,2,Obra pública / proyectos
+1,5,2,2,Vivienda
 1,5,3,2,Vias públicas
 1,6,1,0,Agua y saneamiento
 1,6,2,1,R.S.U. y limpieza viaria
@@ -48,8 +48,10 @@
 1,6,5,0,Alumbrado público
 1,6,5,1,Ciudad y medio ambiente
 1,6,5,2,Brigada de obras
+1,6,9,0,Servicios comunes de microciudad
+1,7,0,0,Recursos y sostenibilidad
 1,7,1,0,Parques y jardines
-1,7,1,1,Microciudad
+1,7,1,1,Ciudad y medio ambiente
 1,7,1,9,Edificios municipales
 1,7,2,1,Medio ambiente urbano
 2,3,1,0,Asistencia social primaria
@@ -58,17 +60,17 @@
 3,1,1,0,Sanidad
 3,1,2,0,R.G.A.
 3,2,1,0,Educación
-3,2,3,0,Educación
+3,2,3,0,Educación primaria
 3,2,3,1,Educación 0-3 años
 3,2,6,0,Escuelas municipales
 3,3,0,0,Cultura
 3,3,2,0,Claustro del Carmen
 3,3,2,2,Archivo y patrimonio
-3,3,4,0,Promoció cultural
+3,3,4,0,Cultura
 3,3,4,1,Centro de Arte e Historia Hernández Sanz
 3,3,4,4,Promoción cultural
 3,3,4,6,Normalización lingüística
-3,3,7,0,Ocio y tiempo libre
+3,3,7,0,Juventud, ocio y tiempo libre
 3,3,8,0,Fiestas
 3,4,0,0,Deportes
 4,3,1,0,Comercio
