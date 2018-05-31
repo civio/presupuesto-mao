@@ -40,13 +40,11 @@
 1,5,1,1,Urbanismo
 1,5,1,2,Obra pública / proyectos
 1,5,2,2,Vivienda
-1,5,3,2,Vias públicas
+1,5,3,2,Vías públicas
 1,6,1,0,Agua y saneamiento
 1,6,2,1,R.S.U. y limpieza viaria
-1,6,2,4,Vías públicas
 1,6,4,0,Cementerios
 1,6,5,0,Alumbrado público
-1,6,5,1,Ciudad y medio ambiente
 1,6,5,2,Brigada de obras
 1,6,9,0,Servicios comunes de microciudad
 1,7,0,0,Recursos y sostenibilidad
@@ -58,7 +56,6 @@
 2,3,1,1,R.G.A.
 2,4,1,0,Formación y empleo
 3,1,1,0,Sanidad
-3,1,2,0,R.G.A.
 3,2,1,0,Educación
 3,2,3,0,Educación primaria
 3,2,3,1,Educación 0-3 años
@@ -66,7 +63,6 @@
 3,3,0,0,Cultura
 3,3,2,0,Claustro del Carmen
 3,3,2,2,Archivo y patrimonio
-3,3,4,0,Cultura
 3,3,4,1,Centro de Arte e Historia Hernández Sanz
 3,3,4,4,Promoción cultural
 3,3,4,6,Normalización lingüística

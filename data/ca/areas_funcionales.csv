@@ -43,10 +43,8 @@
 1,5,3,2,Vies públiques
 1,6,1,0,Aigua i sanejament
 1,6,2,1,R.S.U. i neteja viària
-1,6,2,4,Vies públiques
 1,6,4,0,Cementiris
 1,6,5,0,Enllumenat públic
-1,6,5,1,Ciutat i medi ambient
 1,6,5,2,Brigada d'obres
 1,6,9,0,Serveis comuns de microciutat
 1,7,0,0,Recursos i sostenibilitat
@@ -58,7 +56,6 @@
 2,3,1,1,R.G.A.
 2,4,1,0,Formació i ocupació
 3,1,1,0,Sanitat
-3,1,2,0,R.G.A.
 3,2,1,0,Educació
 3,2,3,0,Educació primària
 3,2,3,1,Educació 0-3 anys
@@ -66,7 +63,6 @@
 3,3,0,0,Cultura
 3,3,2,0,Claustre del Carme
 3,3,2,2,Arxiu i patrimoni
-3,3,4,0,Cultura
 3,3,4,1,Centre d'Art i Història Hernández Sanz
 3,3,4,4,Promoció cultural
 3,3,4,6,Normalització lingüística
