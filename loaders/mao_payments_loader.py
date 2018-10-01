@@ -59,9 +59,20 @@ class MaoPaymentsLoader(PaymentsLoader):
         # Mapper
         mapper = MaoPaymentsCsvMapper(self.year)
 
+        # Payee data
+        payee = line[mapper.payee].strip()
+
+        # Some rows doesn't include payee data, so we asign an arbitrary value
+        if not payee:
+            payee = "ALTRES"
+
         # For the functional code we may get decimal values as input, so we
         # normalize them at 4- and add leading zeroes when required
         fc_code = line[mapper.fc_code].split('.')[0].rjust(4, '0')
+
+        # We got some incomplete known summary lines
+        if fc_code == '0000' and payee == 'PERSONAL AJUNTAMENT (NOMINA)':
+            fc_code = '9205'
 
         # We ignore rows with incomplete data
         if fc_code == '0000':
@@ -88,13 +99,6 @@ class MaoPaymentsLoader(PaymentsLoader):
         else:
             # some rows are summary lines with no date, so we try to infer the date
             date = self._last_day_of(budget.status)
-
-        # Payee data
-        payee = line[mapper.payee].strip()
-
-        # Some rows doesn't include payee data, so we asign an arbitrary value
-        if not payee:
-            payee = "ALTRES"
 
         # We haven't got any anonymized entries, just summary lines
         anonymized = False
