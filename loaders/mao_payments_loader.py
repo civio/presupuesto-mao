@@ -3,10 +3,12 @@ from budget_app.loaders import PaymentsLoader
 from budget_app.models import Budget
 
 import datetime
+import calendar
 
 
 class MaoPaymentsCsvMapper:
     column_mapping = {
+        '2018': {'fc_code': 12, 'date': 4, 'payee': 14, 'description': 15, 'amount': 8},
         '2017': {'fc_code': 12, 'date': 4, 'payee': 15, 'description': 16, 'amount': 8},
         '2016': {'fc_code': 9, 'date': 4, 'payee': 12, 'description': 13, 'amount': 5},
         '2015': {'fc_code': 12, 'date': 4, 'payee': 15, 'description': 16, 'amount': 8},
@@ -27,6 +29,26 @@ class MaoPaymentsCsvMapper:
 
 
 class MaoPaymentsLoader(PaymentsLoader):
+    # helper to calculate the last date of a given budget status period
+    def _last_day_of(self, period):
+        year = int(self.year)
+
+        if not period:
+            return datetime.datetime(year, 12, 31)
+
+        ordinal = int(period[0:-1])
+        label = period[-1]
+
+        if ordinal == 0:
+            return datetime.datetime(year, 1, 1)
+
+        month_factor = 3 if label == 'T' else 1
+
+        month = ordinal * month_factor
+        day = calendar.monthrange(year, month)[1]
+
+        return datetime.datetime(year, month, day)
+
     # make year data available in the class and call super
     def load(self, entity, year, path):
         self.year = year
@@ -56,12 +78,16 @@ class MaoPaymentsLoader(PaymentsLoader):
         # and the fractional part stores the percentage of the day
         date = line[mapper.date].strip()
 
-        # serial number that represents the number of elapsed days since January 1, 1900
-        days = int(float(date))
+        if date:
+            # serial number that represents the number of elapsed days since January 1, 1900
+            days = int(float(date))
 
-        # actual date taking into account the Excel 1900 leap year bug
-        date = datetime.datetime(1899, 12, 30) + datetime.timedelta(days, 0, 0, 0)
-        date = date.strftime("%Y-%m-%d")
+            # actual date taking into account the Excel 1900 leap year bug
+            date = datetime.datetime(1899, 12, 30) + datetime.timedelta(days, 0, 0, 0)
+            date = date.strftime("%Y-%m-%d")
+        else:
+            # some rows are summary lines with no date, so we try to infer the date
+            date = self._last_day_of(budget.status)
 
         # Payee data
         payee = line[mapper.payee].strip()
@@ -70,7 +96,7 @@ class MaoPaymentsLoader(PaymentsLoader):
         if not payee:
             payee = "ALTRES"
 
-        # We haven't got any anonymized entries
+        # We haven't got any anonymized entries, just summary lines
         anonymized = False
 
         # Description
