@@ -29,26 +29,6 @@ class MaoPaymentsCsvMapper:
 
 
 class MaoPaymentsLoader(PaymentsLoader):
-    # helper to calculate the last date of a given budget status period
-    def _last_day_of(self, period):
-        year = int(self.year)
-
-        if not period:
-            return datetime.datetime(year, 12, 31)
-
-        ordinal = int(period[0:-1])
-        label = period[-1]
-
-        if ordinal == 0:
-            return datetime.datetime(year, 1, 1)
-
-        month_factor = 3 if label == 'T' else 1
-
-        month = ordinal * month_factor
-        day = calendar.monthrange(year, month)[1]
-
-        return datetime.datetime(year, month, day)
-
     # make year data available in the class and call super
     def load(self, entity, year, path):
         self.year = year
@@ -89,6 +69,7 @@ class MaoPaymentsLoader(PaymentsLoader):
         # and the fractional part stores the percentage of the day
         date = line[mapper.date].strip()
 
+        # some rows are summary lines with no date, so we ignore them
         if date:
             # serial number that represents the number of elapsed days since January 1, 1900
             days = int(float(date))
@@ -97,8 +78,8 @@ class MaoPaymentsLoader(PaymentsLoader):
             date = datetime.datetime(1899, 12, 30) + datetime.timedelta(days, 0, 0, 0)
             date = date.strftime("%Y-%m-%d")
         else:
-            # some rows are summary lines with no date, so we try to infer the date
-            date = self._last_day_of(budget.status)
+            # a None must be in place for the date to be ignored
+            date = None
 
         # We haven't got any anonymized entries, just summary lines
         anonymized = False
