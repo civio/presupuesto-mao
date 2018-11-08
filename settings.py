@@ -178,8 +178,6 @@ OVERVIEW_EXPENSE_NODES = ['16', '23', '17', '13', '92', '15', '32', '33', '34']
 # Nodes ordered by amount by default. If set to True keeps the order defined in nodes array. Default: False (Optional)
 # OVERVIEW_FORCE_ORDER = False
 
-# Adjust inflation in amounts in Overview page. Default: True
-# ADJUST_INFLATION_IN_OVERVIEW = False
 
 # Show Subtotals panel in Overview. Default: False
 # SHOW_OVERVIEW_SUBTOTALS = True
