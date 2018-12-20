@@ -8,7 +8,7 @@ import calendar
 
 class MaoPaymentsCsvMapper:
     column_mapping = {
-        '2018': {'fc_code': 12, 'date': 4, 'payee': 14, 'description': 15, 'amount': 8},
+        '2018': {'fc_code': 10, 'date': 3, 'payee': 13, 'description': 14, 'amount': 7},
         '2017': {'fc_code': 12, 'date': 4, 'payee': 15, 'description': 16, 'amount': 8},
         '2016': {'fc_code': 9, 'date': 4, 'payee': 12, 'description': 13, 'amount': 5},
         '2015': {'fc_code': 12, 'date': 4, 'payee': 15, 'description': 16, 'amount': 8},
