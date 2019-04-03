@@ -50,8 +50,8 @@ class MaoPaymentsLoader(PaymentsLoader):
         # normalize them at 4- and add leading zeroes when required
         fc_code = line[mapper.fc_code].split('.')[0].rjust(4, '0')
 
-        # We got some incomplete known summary lines
-        if fc_code == '0000' and payee == 'PERSONAL AJUNTAMENT (NOMINA)':
+        # We got some incomplete and misclassified known summary lines
+        if payee == 'PERSONAL AJUNTAMENT (NOMINA)':
             fc_code = '9205'
 
         # We ignore rows with incomplete data
